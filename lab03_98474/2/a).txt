@@ -1,0 +1,28 @@
+
+# Resolução da alinea a) e c)
+
+## Criar a keyspace
+
+cqlsh> create keyspace videos with replication = {'class':'SimpleStrategy', 'replication_factor': 3};
+
+
+## Criar tabelas
+
+cqlsh> create table videos.users( username text PRIMARY KEY, nome text, email text, selo timestamp);
+
+cqlsh> create table videos.video( id int, autor text, nome text, descricao text,  tags set<text>, selo timestamp, PRIMARY KEY((id), selo) ) with clustering order by (selo desc);
+
+cqlsh> create table videos.video_by_autor( id int, autor text, nome text, descricao text,  tags set<text>, selo timestamp, PRIMARY KEY((autor), selo));
+
+cqlsh> create table videos.comentarios( id int PRIMARY KEY, id_video int, autor text, comentario text, selo timestamp);
+
+cqlsh> create table videos.followers( video_id int PRIMARY KEY, users set<text>);
+
+cqlsh> create table videos.eventos( video_id int, autor text, tempo timestamp, data timestamp, tipo text, PRIMARY KEY((video_id, autor), data) );
+
+cqlsh> create table videos.rating( video_id int, rate int, PRIMARY KEY((video_id), rate) );
+
+cqlsh> create table videos.comentario_user( autor text, comentario text, id_video int,  selo timestamp, primary key((autor), selo)) with clustering order by (selo desc);
+
+cqlsh> create table videos.comentario_video( autor text, comentario text, id_video int,  selo timestamp, primary key((id_video), selo)) with clustering order by (selo desc);
+

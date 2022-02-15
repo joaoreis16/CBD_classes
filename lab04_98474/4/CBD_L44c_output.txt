@@ -1,0 +1,3309 @@
+1. Listar todos os jogadores que ganharam por 'Mate'.
+
+{"rating": "2326", "id": "chesscarl"}
+{"rating": "2318", "id": "chesscarl"}
+{"rating": "2312", "id": "chesscarl"}
+{"rating": "2283", "id": "chesscarl"}
+{"rating": "2257", "id": "chesscarl"}
+{"rating": "2230", "id": "chesscarl"}
+{"rating": "2185", "id": "chesscarl"}
+{"rating": "2104", "id": "chesscarl"}
+{"rating": "2029", "id": "chesscarl"}
+{"rating": "2100", "id": "chesscarl"}
+{"rating": "1398", "id": "knight602"}
+{"rating": "1512", "id": "bababird"}
+{"rating": "1265", "id": "dkermanns"}
+{"rating": "1820", "id": "def--spb"}
+{"rating": "1332", "id": "wilk"}
+{"rating": "1392", "id": "sotochka"}
+{"rating": "1478", "id": "bloonfreakster"}
+{"rating": "1478", "id": "bloonfreakster"}
+{"rating": "1478", "id": "bloonfreakster"}
+{"rating": "1466", "id": "bloonfreakster"}
+{"rating": "1436", "id": "wiggleitjiggleit"}
+{"rating": "1500", "id": "leaving_at_dawn"}
+{"rating": "1322", "id": "theanonymousone"}
+{"rating": "1068", "id": "marlowe43"}
+{"rating": "1347", "id": "theanonymousone"}
+{"rating": "911", "id": "tedcarter"}
+{"rating": "1787", "id": "slon-al"}
+{"rating": "1797", "id": "slon-al"}
+{"rating": "1800", "id": "slon-al"}
+{"rating": "2462", "id": "amir2002zzz"}
+{"rating": "2447", "id": "amir2002zzz"}
+{"rating": "1670", "id": "per1966"}
+{"rating": "1719", "id": "saviter"}
+{"rating": "1713", "id": "saviter"}
+{"rating": "1698", "id": "saviter"}
+{"rating": "1690", "id": "saviter"}
+{"rating": "1681", "id": "saviter"}
+{"rating": "1789", "id": "niftyleopard"}
+{"rating": "1713", "id": "korbendallas"}
+{"rating": "1603", "id": "samwmsrachel"}
+{"rating": "1821", "id": "ducksandcats"}
+{"rating": "1821", "id": "ducksandcats"}
+{"rating": "1821", "id": "ducksandcats"}
+{"rating": "1832", "id": "duckduckcow"}
+{"rating": "1899", "id": "chess_pro_107"}
+{"rating": "1861", "id": "ducksandcats"}
+{"rating": "1873", "id": "ducksandcats"}
+{"rating": "1824", "id": "ducksandcats"}
+{"rating": "1882", "id": "smartduckduckcow"}
+{"rating": "1901", "id": "smartduckduckcow"}
+{"rating": "1897", "id": "smartduckduckcow"}
+{"rating": "1894", "id": "smartduckduckcow"}
+{"rating": "1890", "id": "smartduckduckcow"}
+{"rating": "1887", "id": "smartduckduckcow"}
+{"rating": "2215", "id": "christina-a-11"}
+{"rating": "2098", "id": "christina-a-11"}
+{"rating": "1904", "id": "christina-a-11"}
+{"rating": "1891", "id": "christina-a-11"}
+{"rating": "1926", "id": "tttony"}
+{"rating": "1713", "id": "christina-a-11"}
+{"rating": "1541", "id": "cookieblake"}
+{"rating": "1540", "id": "cookieblake"}
+{"rating": "1534", "id": "cookieblake"}
+{"rating": "1524", "id": "cookieblake"}
+{"rating": "1553", "id": "cookieblake"}
+{"rating": "1519", "id": "rosslund"}
+{"rating": "1545", "id": "cookieblake"}
+{"rating": "1534", "id": "cookieblake"}
+{"rating": "1500", "id": "abischabi"}
+{"rating": "1057", "id": "robert_190"}
+{"rating": "1478", "id": "harrrr"}
+{"rating": "1186", "id": "alonxo"}
+{"rating": "1391", "id": "beril2009"}
+{"rating": "1203", "id": "timequake"}
+{"rating": "1339", "id": "reze"}
+{"rating": "1331", "id": "chondrolli"}
+{"rating": "1409", "id": "homersimpson1"}
+{"rating": "1885", "id": "lcf64"}
+{"rating": "2023", "id": "chess-brahs"}
+{"rating": "2008", "id": "chess-brahs"}
+{"rating": "1990", "id": "chess-brahs"}
+{"rating": "1500", "id": "mario011"}
+{"rating": "1230", "id": "lipecrp"}
+{"rating": "1720", "id": "rahgozar_eng"}
+{"rating": "1799", "id": "justinothe0ne"}
+{"rating": "1862", "id": "aidenleahycrooks"}
+{"rating": "1722", "id": "raquiroz"}
+{"rating": "1449", "id": "mersoz"}
+{"rating": "1862", "id": "aidenleahycrooks"}
+{"rating": "1952", "id": "kardsalan"}
+{"rating": "1343", "id": "soprotheygowhoa"}
+{"rating": "1500", "id": "intrepido"}
+{"rating": "1712", "id": "mrphaseolusvulgaris"}
+{"rating": "1577", "id": "vishalvasans1"}
+{"rating": "1534", "id": "isaac_villarreal"}
+{"rating": "1693", "id": "koshi12"}
+{"rating": "1603", "id": "spsingh1987"}
+{"rating": "1783", "id": "nezaisiu"}
+{"rating": "1629", "id": "chimimdq"}
+{"rating": "1593", "id": "vishalvasans1"}
+{"rating": "1632", "id": "ruzeebaba"}
+{"rating": "1961", "id": "superhero098"}
+{"rating": "1480", "id": "miqomanukyan2001"}
+{"rating": "2229", "id": "emiliooo"}
+{"rating": "1819", "id": "ahmedbakeer"}
+{"rating": "2139", "id": "everybodylovesjesus"}
+{"rating": "2116", "id": "everybodylovesjesus"}
+{"rating": "1657", "id": "landscaping123"}
+{"rating": "1990", "id": "soy714"}
+{"rating": "1913", "id": "s-a"}
+{"rating": "1878", "id": "fabio_magagnin57"}
+{"rating": "2004", "id": "kian008"}
+{"rating": "1797", "id": "matosan"}
+{"rating": "1891", "id": "s-a"}
+{"rating": "1897", "id": "s-a"}
+{"rating": "1882", "id": "s-a"}
+{"rating": "1868", "id": "s-a"}
+{"rating": "1727", "id": "bekzodjon"}
+{"rating": "1708", "id": "bekzodjon"}
+{"rating": "1770", "id": "carrotop"}
+{"rating": "1759", "id": "carrotop"}
+{"rating": "1741", "id": "bekzodjon"}
+{"rating": "1840", "id": "gamesou"}
+{"rating": "1791", "id": "sansavoirvecu"}
+{"rating": "1931", "id": "viljamijii"}
+{"rating": "1500", "id": "bekzodjon"}
+{"rating": "1066", "id": "sorrowsea"}
+{"rating": "1625", "id": "cicuta"}
+{"rating": "1644", "id": "draaier"}
+{"rating": "1996", "id": "skuppam3"}
+{"rating": "1882", "id": "skuppam3"}
+{"rating": "1916", "id": "surya9415"}
+{"rating": "1479", "id": "skuppam3"}
+{"rating": "2108", "id": "cesc7046"}
+{"rating": "1513", "id": "kaushik007"}
+{"rating": "1481", "id": "kaushik007"}
+{"rating": "1461", "id": "ivica014"}
+{"rating": "1547", "id": "egor-220"}
+{"rating": "1740", "id": "kormats"}
+{"rating": "1625", "id": "deniz2na"}
+{"rating": "1473", "id": "chessvariants"}
+{"rating": "1885", "id": "izzlanfarischess"}
+{"rating": "1821", "id": "izzlanfarischess"}
+{"rating": "1500", "id": "izzlanfarischess"}
+{"rating": "1334", "id": "fleischer14"}
+{"rating": "1262", "id": "ryanfeatherman"}
+{"rating": "1286", "id": "nikita11"}
+{"rating": "1257", "id": "jesteroz"}
+{"rating": "1279", "id": "styve_lam"}
+{"rating": "1332", "id": "makar_batulin"}
+{"rating": "1194", "id": "nikita0690"}
+{"rating": "1291", "id": "jesteroz"}
+{"rating": "1442", "id": "mellowg7"}
+{"rating": "1270", "id": "jesteroz"}
+{"rating": "1329", "id": "kann2014"}
+{"rating": "1152", "id": "mushnik"}
+{"rating": "1277", "id": "jesteroz"}
+{"rating": "1260", "id": "jesteroz"}
+{"rating": "1392", "id": "kikume"}
+{"rating": "1587", "id": "nano51"}
+{"rating": "1783", "id": "arturo666"}
+{"rating": "1366", "id": "tambwe"}
+{"rating": "1247", "id": "jesteroz"}
+{"rating": "1501", "id": "axelpro446"}
+{"rating": "1199", "id": "bamarillobiller"}
+{"rating": "1501", "id": "axelpro446"}
+{"rating": "1514", "id": "luigi2016"}
+{"rating": "1585", "id": "tusher"}
+{"rating": "1501", "id": "axelpro446"}
+{"rating": "1501", "id": "axelpro446"}
+{"rating": "1501", "id": "axelpro446"}
+{"rating": "1207", "id": "lordmete"}
+{"rating": "1500", "id": "canid"}
+{"rating": "1419", "id": "rompirio"}
+{"rating": "1300", "id": "alfredenewman"}
+{"rating": "1248", "id": "voskresensk"}
+{"rating": "1226", "id": "tousfa"}
+{"rating": "1104", "id": "canexd"}
+{"rating": "1290", "id": "darknight11-11"}
+{"rating": "1481", "id": "doublequestionmark"}
+{"rating": "1104", "id": "canexd"}
+{"rating": "1430", "id": "angel1156"}
+{"rating": "1356", "id": "pastorieschaken"}
+{"rating": "1500", "id": "stare_spb"}
+{"rating": "1336", "id": "simba9"}
+{"rating": "1500", "id": "levilnoob"}
+{"rating": "1408", "id": "emperorspride"}
+{"rating": "1408", "id": "emperorspride"}
+{"rating": "1430", "id": "angel1156"}
+{"rating": "1231", "id": "posra"}
+{"rating": "1264", "id": "askesis"}
+{"rating": "1233", "id": "posra"}
+{"rating": "1177", "id": "lorenzoberv"}
+{"rating": "1225", "id": "posra"}
+{"rating": "1216", "id": "posra"}
+{"rating": "1208", "id": "posra"}
+{"rating": "1198", "id": "macedonio"}
+{"rating": "1277", "id": "nemrod_44"}
+{"rating": "1215", "id": "posra"}
+{"rating": "1327", "id": "thelostunicorn"}
+{"rating": "1313", "id": "thelostunicorn"}
+{"rating": "1307", "id": "okportenko"}
+{"rating": "1412", "id": "hrynio92"}
+{"rating": "1428", "id": "thenagshead"}
+{"rating": "1500", "id": "jacobopavia"}
+{"rating": "1313", "id": "thelostunicorn"}
+{"rating": "1313", "id": "thelostunicorn"}
+{"rating": "1420", "id": "ringhals"}
+{"rating": "1412", "id": "ringhals"}
+{"rating": "1382", "id": "tscheezel"}
+{"rating": "1516", "id": "lastfermat"}
+{"rating": "1805", "id": "juncinmestrella"}
+{"rating": "2019", "id": "chess0158"}
+{"rating": "1949", "id": "bartsimpson6"}
+{"rating": "1757", "id": "bflz"}
+{"rating": "1829", "id": "juncinmestrella"}
+{"rating": "2150", "id": "naster1"}
+{"rating": "1933", "id": "mariocrippa"}
+{"rating": "1731", "id": "chandu007"}
+{"rating": "1728", "id": "kerespaul"}
+{"rating": "1848", "id": "juncinmestrella"}
+{"rating": "1830", "id": "juncinmestrella"}
+{"rating": "1818", "id": "juncinmestrella"}
+{"rating": "2096", "id": "pietro41youtube"}
+{"rating": "1860", "id": "juncinmestrella"}
+{"rating": "1856", "id": "juncinmestrella"}
+{"rating": "1556", "id": "schein-n"}
+{"rating": "1850", "id": "juncinmestrella"}
+{"rating": "1793", "id": "rissal"}
+{"rating": "1754", "id": "juncinmestrella"}
+{"rating": "1225", "id": "minecraftbook"}
+{"rating": "1298", "id": "melibea1964"}
+{"rating": "1237", "id": "minecraftbook"}
+{"rating": "1335", "id": "conormac"}
+{"rating": "1262", "id": "peronperon"}
+{"rating": "1658", "id": "sesh"}
+{"rating": "1108", "id": "yatrikpatel"}
+{"rating": "2089", "id": "mhavgar"}
+{"rating": "1466", "id": "kachess10204542"}
+{"rating": "1171", "id": "kachess10204542"}
+{"rating": "1401", "id": "trrrrillionaire"}
+{"rating": "2252", "id": "jeden94"}
+{"rating": "1401", "id": "iihm12"}
+{"rating": "1397", "id": "trrrrillionaire"}
+{"rating": "1407", "id": "trrrrillionaire"}
+{"rating": "1407", "id": "trrrrillionaire"}
+{"rating": "1445", "id": "basilou"}
+{"rating": "1467", "id": "currobau"}
+{"rating": "1413", "id": "trrrrillionaire"}
+{"rating": "1426", "id": "trrrrillionaire"}
+{"rating": "1413", "id": "trrrrillionaire"}
+{"rating": "1500", "id": "pipealiev"}
+{"rating": "1217", "id": "bemonk"}
+{"rating": "1396", "id": "zixi52"}
+{"rating": "1451", "id": "tokbora"}
+{"rating": "1699", "id": "zixi52"}
+{"rating": "1699", "id": "zixi52"}
+{"rating": "1500", "id": "zixi52"}
+{"rating": "1356", "id": "cale83"}
+{"rating": "1370", "id": "sadusiek"}
+{"rating": "1278", "id": "parkerb32"}
+{"rating": "1321", "id": "brainlinks"}
+{"rating": "1393", "id": "hasan_al-banna"}
+{"rating": "1362", "id": "jonjic"}
+{"rating": "1306", "id": "rahidd"}
+{"rating": "1432", "id": "hasan_al-banna"}
+{"rating": "1635", "id": "darkclassic"}
+{"rating": "1415", "id": "hasan_al-banna"}
+{"rating": "1397", "id": "hasan_al-banna"}
+{"rating": "1458", "id": "ignar74"}
+{"rating": "1349", "id": "karasuki"}
+{"rating": "1356", "id": "qwf"}
+{"rating": "1408", "id": "hasan_al-banna"}
+{"rating": "2287", "id": "massaggro"}
+{"rating": "1596", "id": "otek7272"}
+{"rating": "1754", "id": "bchessl"}
+{"rating": "1732", "id": "skulll1"}
+{"rating": "1472", "id": "ranger440"}
+{"rating": "1472", "id": "ranger440"}
+{"rating": "1315", "id": "ebrahimzare"}
+{"rating": "1493", "id": "ranger440"}
+{"rating": "1493", "id": "ranger440"}
+{"rating": "1744", "id": "iv11"}
+{"rating": "1477", "id": "ranger440"}
+{"rating": "1474", "id": "cktopshot2"}
+{"rating": "1500", "id": "academicninja99"}
+{"rating": "1500", "id": "academicninja99"}
+{"rating": "1219", "id": "kanakiou"}
+{"rating": "1669", "id": "francis173"}
+{"rating": "1147", "id": "diananavid"}
+{"rating": "1209", "id": "antonio45"}
+{"rating": "1311", "id": "outrageouscheese"}
+{"rating": "1473", "id": "markoo_1234567"}
+{"rating": "2351", "id": "aswer"}
+{"rating": "1758", "id": "czteacherman"}
+{"rating": "1327", "id": "the_stuperman"}
+{"rating": "1347", "id": "a_p_t_e_m_u_u"}
+{"rating": "1334", "id": "a_p_t_e_m_u_u"}
+{"rating": "1295", "id": "a_p_t_e_m_u_u"}
+{"rating": "1598", "id": "widja"}
+{"rating": "1279", "id": "a_p_t_e_m_u_u"}
+{"rating": "1350", "id": "just_basics"}
+{"rating": "1383", "id": "daniamurashov"}
+{"rating": "1286", "id": "a_p_t_e_m_u_u"}
+{"rating": "1313", "id": "pjjjzz"}
+{"rating": "1282", "id": "a_p_t_e_m_u_u"}
+{"rating": "1231", "id": "bulletlover"}
+{"rating": "1383", "id": "diliprake"}
+{"rating": "1600", "id": "ivan_franko"}
+{"rating": "1282", "id": "a_p_t_e_m_u_u"}
+{"rating": "1264", "id": "a_p_t_e_m_u_u"}
+{"rating": "1393", "id": "markendofday"}
+{"rating": "1474", "id": "aloneshadow"}
+{"rating": "1349", "id": "widja"}
+{"rating": "1383", "id": "anastasia_333"}
+{"rating": "1526", "id": "gezim"}
+{"rating": "1460", "id": "warsom1"}
+{"rating": "1647", "id": "khatir"}
+{"rating": "1455", "id": "hammerfinger"}
+{"rating": "1500", "id": "leonidas86"}
+{"rating": "2165", "id": "nik99"}
+{"rating": "2175", "id": "nik99"}
+{"rating": "2164", "id": "nik99"}
+{"rating": "1490", "id": "bilbobaggins999"}
+{"rating": "1465", "id": "bilbobaggins999"}
+{"rating": "1491", "id": "bilbobaggins999"}
+{"rating": "1238", "id": "razzzzy"}
+{"rating": "1443", "id": "erzar"}
+{"rating": "1238", "id": "razzzzy"}
+{"rating": "1500", "id": "king-_-micah"}
+{"rating": "1238", "id": "razzzzy"}
+{"rating": "1308", "id": "butterlandz"}
+{"rating": "1401", "id": "impossible787"}
+{"rating": "1320", "id": "butterlandz"}
+{"rating": "1278", "id": "butterlandz"}
+{"rating": "1363", "id": "gm094"}
+{"rating": "1201", "id": "furliss"}
+{"rating": "966", "id": "acrossimpact"}
+{"rating": "784", "id": "ragnarlothbrook_spb"}
+{"rating": "1161", "id": "ragnarukh"}
+{"rating": "985", "id": "denisovartemii"}
+{"rating": "1148", "id": "nargues"}
+{"rating": "954", "id": "thonynho"}
+{"rating": "1090", "id": "the-daniel"}
+{"rating": "943", "id": "joe-brown"}
+{"rating": "808", "id": "mata1234"}
+{"rating": "1274", "id": "queops"}
+{"rating": "1002", "id": "joe-brown"}
+{"rating": "914", "id": "msp1964"}
+{"rating": "1077", "id": "omarscharf"}
+{"rating": "1206", "id": "nibyja"}
+{"rating": "1648", "id": "crax_is_bax"}
+{"rating": "1682", "id": "kuanxxx"}
+{"rating": "1693", "id": "superevans"}
+{"rating": "1730", "id": "on_wave"}
+{"rating": "1711", "id": "crax_is_bax"}
+{"rating": "1701", "id": "crax_is_bax"}
+{"rating": "1566", "id": "prabhatkumar"}
+{"rating": "1717", "id": "crax_is_bax"}
+{"rating": "1679", "id": "crax_is_bax"}
+{"rating": "1661", "id": "crax_is_bax"}
+{"rating": "1618", "id": "chilllax"}
+{"rating": "1637", "id": "crax_is_bax"}
+{"rating": "1535", "id": "anra_d"}
+{"rating": "1347", "id": "irene1233"}
+{"rating": "1400", "id": "felser"}
+{"rating": "1072", "id": "beshoysam1"}
+{"rating": "1258", "id": "vietbigz123"}
+{"rating": "1330", "id": "jzcarr55"}
+{"rating": "1191", "id": "thebastiano"}
+{"rating": "1606", "id": "arsenelupin1620"}
+{"rating": "1583", "id": "arsenelupin1620"}
+{"rating": "1569", "id": "arsenelupin1620"}
+{"rating": "1775", "id": "saraginov"}
+{"rating": "1549", "id": "sayedibraheem"}
+{"rating": "1874", "id": "arjan1967"}
+{"rating": "1573", "id": "arsenelupin1620"}
+{"rating": "1564", "id": "arsenelupin1620"}
+{"rating": "1569", "id": "arsenelupin1620"}
+{"rating": "1201", "id": "romannissan87"}
+{"rating": "1349", "id": "juanma1684"}
+{"rating": "1418", "id": "rharlem"}
+{"rating": "1403", "id": "mikiduda"}
+{"rating": "1395", "id": "mikiduda"}
+{"rating": "1393", "id": "rharlem"}
+{"rating": "1545", "id": "huallpa12345"}
+{"rating": "1629", "id": "samiraghorbani"}
+{"rating": "1378", "id": "mikiduda"}
+{"rating": "1353", "id": "thesrinivaskumar"}
+{"rating": "1285", "id": "thebastiano"}
+{"rating": "1433", "id": "imran05"}
+{"rating": "1389", "id": "mikiduda"}
+{"rating": "1385", "id": "mikiduda"}
+{"rating": "1586", "id": "serber"}
+{"rating": "1383", "id": "mikiduda"}
+{"rating": "1045", "id": "szachysta"}
+{"rating": "1045", "id": "szachysta"}
+{"rating": "1383", "id": "mikiduda"}
+{"rating": "1383", "id": "mikiduda"}
+{"rating": "1980", "id": "gjdelamaza"}
+{"rating": "1403", "id": "quantummequanic"}
+{"rating": "1413", "id": "quantummequanic"}
+{"rating": "1354", "id": "mathhopper"}
+{"rating": "1434", "id": "quantummequanic"}
+{"rating": "1227", "id": "gustavo_valfre"}
+{"rating": "1009", "id": "lkasperbauer"}
+{"rating": "1344", "id": "thomasmorl"}
+{"rating": "998", "id": "lkasperbauer"}
+{"rating": "1100", "id": "palaherkulesa6969"}
+{"rating": "1166", "id": "am21f"}
+{"rating": "1038", "id": "lkasperbauer"}
+{"rating": "1324", "id": "ssnow"}
+{"rating": "1918", "id": "juanantonio7712"}
+{"rating": "1352", "id": "barrow-wight"}
+{"rating": "1340", "id": "mathhopper"}
+{"rating": "1366", "id": "barrow-wight"}
+{"rating": "1353", "id": "barrow-wight"}
+{"rating": "1341", "id": "barrow-wight"}
+{"rating": "1328", "id": "barrow-wight"}
+{"rating": "1293", "id": "mathhopper"}
+{"rating": "1325", "id": "barrow-wight"}
+{"rating": "1712", "id": "vikwww"}
+{"rating": "1776", "id": "ihsan2424"}
+{"rating": "1786", "id": "killerbromean"}
+{"rating": "1871", "id": "sharkey101"}
+{"rating": "1945", "id": "godlikemoves"}
+{"rating": "1822", "id": "chesswhiz"}
+{"rating": "1416", "id": "kurtbusch"}
+{"rating": "1393", "id": "kurtbusch"}
+{"rating": "2009", "id": "chyvak"}
+{"rating": "1480", "id": "kurtbusch"}
+{"rating": "2125", "id": "nagyjanos7777"}
+{"rating": "2340", "id": "mouthpocketdevourer"}
+{"rating": "1853", "id": "behrooz36tehran"}
+{"rating": "1879", "id": "tjwpdl"}
+{"rating": "1870", "id": "behrooz36tehran"}
+{"rating": "1949", "id": "ronniak2"}
+{"rating": "1841", "id": "anjumskhan"}
+{"rating": "1318", "id": "brorael357"}
+{"rating": "1322", "id": "brorael357"}
+{"rating": "1309", "id": "brorael357"}
+{"rating": "1550", "id": "acustic"}
+{"rating": "1308", "id": "brorael357"}
+{"rating": "1542", "id": "maniuk"}
+{"rating": "1978", "id": "tanphatls987"}
+{"rating": "1335", "id": "sld1975"}
+{"rating": "1324", "id": "brorael357"}
+{"rating": "1743", "id": "helmawan97"}
+{"rating": "1308", "id": "brorael357"}
+{"rating": "1346", "id": "brorael357"}
+{"rating": "1958", "id": "krluch"}
+{"rating": "1171", "id": "quintinator"}
+{"rating": "1636", "id": "antony056"}
+{"rating": "1733", "id": "sudorous"}
+{"rating": "1373", "id": "zzhdan"}
+{"rating": "2047", "id": "stevan52"}
+{"rating": "1506", "id": "kshaz"}
+{"rating": "1753", "id": "sneaky_bugger"}
+{"rating": "1694", "id": "sneaky_bugger"}
+{"rating": "1500", "id": "shijima220"}
+{"rating": "2126", "id": "mauornelas"}
+{"rating": "1537", "id": "citrus2014"}
+{"rating": "1864", "id": "angel2006"}
+{"rating": "1369", "id": "karmah313"}
+{"rating": "1539", "id": "arbren"}
+{"rating": "1878", "id": "tbajedrez2017"}
+{"rating": "1666", "id": "monchuchak"}
+{"rating": "1856", "id": "jzfloyd"}
+{"rating": "1500", "id": "shiyasph"}
+{"rating": "1629", "id": "xures"}
+{"rating": "1735", "id": "nicemen_65"}
+{"rating": "1700", "id": "georgezipp"}
+{"rating": "1327", "id": "chicago_chess"}
+{"rating": "1408", "id": "tofol"}
+{"rating": "1344", "id": "draftspro"}
+{"rating": "1512", "id": "joueetnuit"}
+{"rating": "2016", "id": "ibonuribeetxebarria"}
+{"rating": "1889", "id": "slickmate"}
+{"rating": "1817", "id": "ruufseir"}
+{"rating": "1358", "id": "chicago_chess"}
+{"rating": "1350", "id": "chicago_chess"}
+{"rating": "1876", "id": "hcm10"}
+{"rating": "1469", "id": "shazanmj"}
+{"rating": "1475", "id": "chicago_chess"}
+{"rating": "1357", "id": "islam01"}
+{"rating": "1357", "id": "islam01"}
+{"rating": "1590", "id": "emil3003"}
+{"rating": "1741", "id": "truten56"}
+{"rating": "1800", "id": "zahirihaz"}
+{"rating": "1832", "id": "baran-41"}
+{"rating": "1343", "id": "islam01"}
+{"rating": "1635", "id": "isik645"}
+{"rating": "1341", "id": "islam01"}
+{"rating": "1746", "id": "hido"}
+{"rating": "1321", "id": "islam01"}
+{"rating": "1324", "id": "islam01"}
+{"rating": "1548", "id": "bchron"}
+{"rating": "1335", "id": "islam01"}
+{"rating": "1400", "id": "kazikkizak"}
+{"rating": "1341", "id": "islam01"}
+{"rating": "1376", "id": "vassileskii"}
+{"rating": "1391", "id": "fonty1017"}
+{"rating": "1364", "id": "asinusumut"}
+{"rating": "1670", "id": "olhovivo"}
+{"rating": "1549", "id": "rerecursing"}
+{"rating": "1303", "id": "rafpep17"}
+{"rating": "1398", "id": "islam01"}
+{"rating": "1297", "id": "rafpep17"}
+{"rating": "1613", "id": "avolt"}
+{"rating": "1628", "id": "jimy44"}
+{"rating": "1449", "id": "artemychbutchenko"}
+{"rating": "1382", "id": "can007"}
+{"rating": "1652", "id": "tjuafu"}
+{"rating": "1806", "id": "majid1969"}
+{"rating": "1631", "id": "sickboy74"}
+{"rating": "1624", "id": "ecstasydrug"}
+{"rating": "1649", "id": "ecstasydrug"}
+{"rating": "1649", "id": "ecstasydrug"}
+{"rating": "1633", "id": "ecstasydrug"}
+{"rating": "1466", "id": "dell2016"}
+{"rating": "1650", "id": "aliozzzz"}
+{"rating": "1749", "id": "gingerthecookie"}
+{"rating": "1821", "id": "alakard"}
+{"rating": "1946", "id": "terval"}
+{"rating": "1232", "id": "chessfailurenoob"}
+{"rating": "1371", "id": "lightningviper"}
+{"rating": "1403", "id": "goldenfox99"}
+{"rating": "1382", "id": "goldenfox99"}
+{"rating": "1402", "id": "goldenfox99"}
+{"rating": "1402", "id": "goldenfox99"}
+{"rating": "1402", "id": "goldenfox99"}
+{"rating": "1457", "id": "goldenfox99"}
+{"rating": "1639", "id": "valeriy56"}
+{"rating": "1723", "id": "dsom1234"}
+{"rating": "1555", "id": "dsom1234"}
+{"rating": "1555", "id": "dsom1234"}
+{"rating": "1555", "id": "dsom1234"}
+{"rating": "1293", "id": "dead23"}
+{"rating": "1500", "id": "dsom1234"}
+{"rating": "2264", "id": "doraemon61"}
+{"rating": "2264", "id": "doraemon61"}
+{"rating": "2264", "id": "doraemon61"}
+{"rating": "2264", "id": "doraemon61"}
+{"rating": "2264", "id": "doraemon61"}
+{"rating": "2264", "id": "doraemon61"}
+{"rating": "2264", "id": "doraemon61"}
+{"rating": "2264", "id": "doraemon61"}
+{"rating": "2264", "id": "doraemon61"}
+{"rating": "1449", "id": "fire7"}
+{"rating": "1434", "id": "fire7"}
+{"rating": "2018", "id": "bobc"}
+{"rating": "1920", "id": "bobc"}
+{"rating": "1913", "id": "bobc"}
+{"rating": "1954", "id": "vertis9016"}
+{"rating": "1916", "id": "edsonpanozo"}
+{"rating": "1874", "id": "abbas25865"}
+{"rating": "1937", "id": "seriguelazul"}
+{"rating": "1474", "id": "chess_king3"}
+{"rating": "1474", "id": "chess_king3"}
+{"rating": "1474", "id": "chess_king3"}
+{"rating": "1474", "id": "chess_king3"}
+{"rating": "2014", "id": "fyodord"}
+{"rating": "1562", "id": "crucify_me"}
+{"rating": "1461", "id": "lacrome"}
+{"rating": "1560", "id": "trinankur"}
+{"rating": "1572", "id": "cipriand74"}
+{"rating": "1498", "id": "lacrome"}
+{"rating": "1128", "id": "hash_13-chess"}
+{"rating": "2177", "id": "powodzenia"}
+{"rating": "1111", "id": "hash_13-chess"}
+{"rating": "1115", "id": "hash_13-chess"}
+{"rating": "1115", "id": "hash_13-chess"}
+{"rating": "1115", "id": "hash_13-chess"}
+{"rating": "843", "id": "mr_zilgaze"}
+{"rating": "1151", "id": "hash_13-chess"}
+{"rating": "1581", "id": "telme12"}
+{"rating": "1083", "id": "cooldude1200"}
+{"rating": "1236", "id": "ebrd"}
+{"rating": "1188", "id": "cesarauguste42"}
+{"rating": "1104", "id": "cooldude1200"}
+{"rating": "1659", "id": "vfhfnvfhfn22"}
+{"rating": "1651", "id": "vfhfnvfhfn22"}
+{"rating": "1640", "id": "vfhfnvfhfn22"}
+{"rating": "1655", "id": "adaert"}
+{"rating": "1683", "id": "vfhfnvfhfn22"}
+{"rating": "1820", "id": "zauri_odisharia"}
+{"rating": "1700", "id": "trflash"}
+{"rating": "1770", "id": "voselok"}
+{"rating": "1763", "id": "stereolab"}
+{"rating": "1732", "id": "naturalkiller"}
+{"rating": "1870", "id": "toni4127"}
+{"rating": "1866", "id": "toni4127"}
+{"rating": "1574", "id": "napoleon22"}
+{"rating": "1875", "id": "toni4127"}
+{"rating": "1880", "id": "toni4127"}
+{"rating": "1878", "id": "toni4127"}
+{"rating": "1887", "id": "toni4127"}
+{"rating": "1885", "id": "toni4127"}
+{"rating": "1903", "id": "toni4127"}
+{"rating": "1889", "id": "toni4127"}
+{"rating": "1878", "id": "toni4127"}
+{"rating": "1259", "id": "giobanas"}
+{"rating": "1517", "id": "monody"}
+{"rating": "1406", "id": "loporov"}
+{"rating": "1248", "id": "masterzyd"}
+{"rating": "1296", "id": "vasily61"}
+{"rating": "1152", "id": "totossaf"}
+{"rating": "1255", "id": "vikowski"}
+{"rating": "1226", "id": "will_sun"}
+{"rating": "1280", "id": "masterzyd"}
+{"rating": "1378", "id": "hacha"}
+{"rating": "1370", "id": "hacha"}
+{"rating": "1245", "id": "lrgilbert"}
+{"rating": "1288", "id": "masterzyd"}
+{"rating": "1245", "id": "messiuz"}
+{"rating": "1189", "id": "edujer"}
+{"rating": "1302", "id": "masterzyd"}
+{"rating": "1251", "id": "starik82"}
+{"rating": "1290", "id": "masterzyd"}
+{"rating": "1419", "id": "halfwayrooks"}
+{"rating": "1303", "id": "rezuan13"}
+{"rating": "1312", "id": "masterzyd"}
+{"rating": "1304", "id": "masterzyd"}
+{"rating": "1371", "id": "gauravchawla691"}
+{"rating": "1361", "id": "gauravchawla691"}
+{"rating": "1316", "id": "masterzyd"}
+{"rating": "1285", "id": "masterzyd"}
+{"rating": "1328", "id": "cunha25"}
+{"rating": "1499", "id": "rpmlorenzo"}
+{"rating": "1310", "id": "pavel21"}
+{"rating": "1298", "id": "pavel21"}
+{"rating": "1307", "id": "masterzyd"}
+{"rating": "1304", "id": "sinnx"}
+{"rating": "1297", "id": "masterzyd"}
+{"rating": "1258", "id": "richard7226"}
+{"rating": "1242", "id": "vladimiraraque1234"}
+{"rating": "1291", "id": "elshainker"}
+{"rating": "1500", "id": "llcoolp"}
+{"rating": "1318", "id": "petersalim"}
+{"rating": "1430", "id": "autofire1"}
+{"rating": "1824", "id": "andybar"}
+{"rating": "1604", "id": "amirrezagod"}
+{"rating": "1364", "id": "theblairloggie"}
+{"rating": "1525", "id": "tututyalo"}
+{"rating": "1494", "id": "laskonyk"}
+{"rating": "1525", "id": "tututyalo"}
+{"rating": "1364", "id": "theblairloggie"}
+{"rating": "1500", "id": "baebraham"}
+{"rating": "1531", "id": "larevanche"}
+{"rating": "1406", "id": "ethan_3f"}
+{"rating": "1406", "id": "ethan_3f"}
+{"rating": "1398", "id": "ethan_3f"}
+{"rating": "1411", "id": "ethan_3f"}
+{"rating": "1405", "id": "tuncer123"}
+{"rating": "1430", "id": "ethan_3f"}
+{"rating": "1436", "id": "ethan_3f"}
+{"rating": "1428", "id": "ethan_3f"}
+{"rating": "1442", "id": "ethan_3f"}
+{"rating": "1416", "id": "ethan_3f"}
+{"rating": "1404", "id": "ethan_3f"}
+{"rating": "1405", "id": "ethan_3f"}
+{"rating": "1412", "id": "ethan_3f"}
+{"rating": "1393", "id": "penguin100"}
+{"rating": "1527", "id": "run5k"}
+{"rating": "1527", "id": "run5k"}
+{"rating": "1527", "id": "run5k"}
+{"rating": "1527", "id": "run5k"}
+{"rating": "1730", "id": "frozen8413"}
+{"rating": "1393", "id": "penguin100"}
+{"rating": "1309", "id": "sp37578"}
+{"rating": "1527", "id": "run5k"}
+{"rating": "1527", "id": "run5k"}
+{"rating": "1393", "id": "penguin100"}
+{"rating": "1279", "id": "sp37578"}
+{"rating": "1730", "id": "frozen8413"}
+{"rating": "1428", "id": "penguin100"}
+{"rating": "1500", "id": "shisherr"}
+{"rating": "1730", "id": "frozen8413"}
+{"rating": "1279", "id": "sp37578"}
+{"rating": "1730", "id": "frozen8413"}
+{"rating": "1507", "id": "darkknight11111"}
+{"rating": "1716", "id": "ertugrull01"}
+{"rating": "1542", "id": "darkknight11111"}
+{"rating": "1383", "id": "dragonstar1738"}
+{"rating": "1377", "id": "purg4tory"}
+{"rating": "1364", "id": "dragonstar1738"}
+{"rating": "1552", "id": "chrisca408"}
+{"rating": "1804", "id": "tonycitrini"}
+{"rating": "1893", "id": "platonovich"}
+{"rating": "1746", "id": "betweentwopawns"}
+{"rating": "1740", "id": "betweentwopawns"}
+{"rating": "1498", "id": "artgalai11"}
+{"rating": "1757", "id": "betweentwopawns"}
+{"rating": "1446", "id": "davilaff"}
+{"rating": "1415", "id": "scorchedturf"}
+{"rating": "1420", "id": "meru"}
+{"rating": "1507", "id": "sellout"}
+{"rating": "1418", "id": "scorchedturf"}
+{"rating": "1410", "id": "scorchedturf"}
+{"rating": "1428", "id": "scorchedturf"}
+{"rating": "1469", "id": "jckg"}
+{"rating": "1451", "id": "scorchedturf"}
+{"rating": "1416", "id": "scorchedturf"}
+{"rating": "1378", "id": "scorchedturf"}
+{"rating": "1369", "id": "scorchedturf"}
+{"rating": "1374", "id": "scorchedturf"}
+{"rating": "1364", "id": "scorchedturf"}
+{"rating": "1327", "id": "scorchedturf"}
+{"rating": "1333", "id": "scorchedturf"}
+{"rating": "1287", "id": "willdaplum"}
+{"rating": "1275", "id": "willdaplum"}
+{"rating": "1245", "id": "willdaplum"}
+{"rating": "1373", "id": "qball"}
+{"rating": "1311", "id": "qball"}
+{"rating": "1659", "id": "dwalin"}
+{"rating": "1484", "id": "olivier1972"}
+{"rating": "1500", "id": "luigisola57ls"}
+{"rating": "1397", "id": "ahmadliaydin"}
+{"rating": "1234", "id": "rookie1993"}
+{"rating": "1500", "id": "dsom"}
+{"rating": "1588", "id": "vector1"}
+{"rating": "1800", "id": "ezatfoda"}
+{"rating": "2100", "id": "tonoyanrob7"}
+{"rating": "1874", "id": "mezzomatto"}
+{"rating": "1765", "id": "ezatfoda"}
+{"rating": "1956", "id": "ultranice"}
+{"rating": "1773", "id": "ezatfoda"}
+{"rating": "1899", "id": "walterwolf"}
+{"rating": "1771", "id": "ezatfoda"}
+{"rating": "1284", "id": "xxfudoxx"}
+{"rating": "1307", "id": "thebastiano"}
+{"rating": "1308", "id": "mig_bra"}
+{"rating": "1002", "id": "mystylus"}
+{"rating": "1107", "id": "jdy"}
+{"rating": "1320", "id": "checkcheckcheckmate"}
+{"rating": "1315", "id": "checkcheckcheckmate"}
+{"rating": "1094", "id": "jdy"}
+{"rating": "1049", "id": "jdy"}
+{"rating": "1287", "id": "juozaskaz"}
+{"rating": "1368", "id": "neela1216"}
+{"rating": "1175", "id": "strey1998"}
+{"rating": "1923", "id": "kile"}
+{"rating": "1551", "id": "jmmc1980"}
+{"rating": "1810", "id": "simeg2003"}
+{"rating": "2003", "id": "smm1347"}
+{"rating": "2215", "id": "fakemagnuscarlsen"}
+{"rating": "1616", "id": "marco2005"}
+{"rating": "1122", "id": "bischopscup"}
+{"rating": "1417", "id": "kyzuro"}
+{"rating": "1725", "id": "etka335042"}
+{"rating": "1411", "id": "kaeser49"}
+{"rating": "1420", "id": "kyzuro"}
+{"rating": "1422", "id": "kyzuro"}
+{"rating": "1372", "id": "kyzuro"}
+{"rating": "1355", "id": "kyzuro"}
+{"rating": "1458", "id": "vegard87"}
+{"rating": "1362", "id": "kyzuro"}
+{"rating": "1500", "id": "supking"}
+{"rating": "1333", "id": "kyzuro"}
+{"rating": "1288", "id": "andyman"}
+{"rating": "1504", "id": "jakubsagitario17"}
+{"rating": "1504", "id": "jakubsagitario17"}
+{"rating": "1504", "id": "jakubsagitario17"}
+{"rating": "1504", "id": "jakubsagitario17"}
+{"rating": "1500", "id": "vukosi"}
+{"rating": "1504", "id": "jakubsagitario17"}
+{"rating": "1504", "id": "jakubsagitario17"}
+{"rating": "1504", "id": "jakubsagitario17"}
+{"rating": "1500", "id": "jakubsagitario17"}
+{"rating": "1500", "id": "gena997766"}
+{"rating": "1500", "id": "jakubsagitario17"}
+{"rating": "1712", "id": "justasfast"}
+{"rating": "1693", "id": "saeed65"}
+{"rating": "1684", "id": "saeed65"}
+{"rating": "1680", "id": "saeed65"}
+{"rating": "1612", "id": "aynurr08"}
+{"rating": "1848", "id": "jack11"}
+{"rating": "1853", "id": "doctor_alexandra"}
+{"rating": "1719", "id": "saeed65"}
+{"rating": "1679", "id": "suhamdi_bungo"}
+{"rating": "1709", "id": "saeed65"}
+{"rating": "1704", "id": "saeed65"}
+{"rating": "1473", "id": "orangeandblue"}
+{"rating": "1368", "id": "pablomora"}
+{"rating": "1481", "id": "prietro"}
+{"rating": "1432", "id": "prietro"}
+{"rating": "1403", "id": "uberfish96"}
+{"rating": "1002", "id": "agsgags"}
+{"rating": "1985", "id": "tolia"}
+{"rating": "1153", "id": "businessman47"}
+{"rating": "1147", "id": "businessman47"}
+{"rating": "1132", "id": "businessman47"}
+{"rating": "1146", "id": "businessman47"}
+{"rating": "1103", "id": "travis_jones"}
+{"rating": "1127", "id": "businessman47"}
+{"rating": "1172", "id": "qitcj"}
+{"rating": "1128", "id": "wari"}
+{"rating": "796", "id": "epicchess66"}
+{"rating": "1191", "id": "whiskeyinthejar"}
+{"rating": "1143", "id": "businessman47"}
+{"rating": "1200", "id": "romanozvj"}
+{"rating": "1011", "id": "giangraletale3"}
+{"rating": "1070", "id": "ins0mn1a"}
+{"rating": "1070", "id": "ins0mn1a"}
+{"rating": "1134", "id": "businessman47"}
+{"rating": "1011", "id": "quantumbear"}
+{"rating": "995", "id": "quantumbear"}
+{"rating": "1156", "id": "businessman47"}
+{"rating": "1144", "id": "businessman47"}
+{"rating": "1077", "id": "newfisher"}
+{"rating": "1131", "id": "businessman47"}
+{"rating": "1500", "id": "bartolomi"}
+{"rating": "1742", "id": "martbryde"}
+{"rating": "1834", "id": "monchuchak"}
+{"rating": "1742", "id": "martbryde"}
+{"rating": "1500", "id": "shmelev_a"}
+{"rating": "1500", "id": "julien63000"}
+{"rating": "1500", "id": "julien63000"}
+{"rating": "1940", "id": "monty1987"}
+{"rating": "1504", "id": "snupi"}
+{"rating": "1774", "id": "djordjepunos1"}
+{"rating": "1731", "id": "jonkjenn"}
+{"rating": "1686", "id": "patroclos11"}
+{"rating": "1577", "id": "kioto"}
+{"rating": "1741", "id": "terrano"}
+{"rating": "2010", "id": "romius"}
+{"rating": "1908", "id": "pirs07"}
+{"rating": "2026", "id": "hary_husic"}
+{"rating": "1281", "id": "dude_perfect"}
+{"rating": "1278", "id": "dude_perfect"}
+{"rating": "1270", "id": "dude_perfect"}
+{"rating": "1242", "id": "dude_perfect"}
+{"rating": "1245", "id": "dude_perfect"}
+{"rating": "1240", "id": "dude_perfect"}
+{"rating": "1246", "id": "dude_perfect"}
+{"rating": "1218", "id": "dude_perfect"}
+{"rating": "1204", "id": "dude_perfect"}
+{"rating": "1276", "id": "prototip"}
+{"rating": "1190", "id": "prototip"}
+{"rating": "1249", "id": "dude_perfect"}
+{"rating": "1667", "id": "chesslover2016"}
+{"rating": "1833", "id": "almal316"}
+{"rating": "1232", "id": "fandm-lancaster"}
+{"rating": "1444", "id": "thejoker666_9"}
+{"rating": "1342", "id": "m1981"}
+{"rating": "1495", "id": "daiodd"}
+{"rating": "1854", "id": "overhope"}
+{"rating": "1329", "id": "marqueisss"}
+{"rating": "1289", "id": "fandm-lancaster"}
+{"rating": "1755", "id": "jprata"}
+{"rating": "1680", "id": "lyonfab"}
+{"rating": "1876", "id": "pgomez19"}
+{"rating": "1401", "id": "quicoro"}
+{"rating": "1307", "id": "fandm-lancaster"}
+{"rating": "1321", "id": "fandm-lancaster"}
+{"rating": "1696", "id": "goandcheckers"}
+{"rating": "1261", "id": "fandm-lancaster"}
+{"rating": "1200", "id": "fandm-lancaster"}
+{"rating": "1406", "id": "aikidable"}
+{"rating": "1629", "id": "hus1972"}
+{"rating": "1553", "id": "hus1972"}
+{"rating": "1503", "id": "hus1972"}
+{"rating": "1481", "id": "hus1972"}
+{"rating": "1467", "id": "hus1972"}
+{"rating": "1412", "id": "hus1972"}
+{"rating": "1375", "id": "hus1972"}
+{"rating": "1355", "id": "hus1972"}
+{"rating": "1155", "id": "hus1972"}
+{"rating": "1132", "id": "hus1972"}
+{"rating": "1113", "id": "hus1972"}
+{"rating": "1249", "id": "siggicv8"}
+{"rating": "1241", "id": "siggicv8"}
+{"rating": "1210", "id": "franxisco"}
+{"rating": "1104", "id": "hus1972"}
+{"rating": "1384", "id": "blazingheart"}
+{"rating": "1636", "id": "slavik26"}
+{"rating": "1825", "id": "alanoytoro"}
+{"rating": "2151", "id": "dunker62"}
+{"rating": "1447", "id": "nima77"}
+{"rating": "1426", "id": "kevchod"}
+{"rating": "1399", "id": "deeptrouble"}
+{"rating": "1456", "id": "jankhead"}
+{"rating": "1441", "id": "kevchod"}
+{"rating": "1443", "id": "kevchod"}
+{"rating": "1581", "id": "maneken"}
+{"rating": "1560", "id": "kevchod"}
+{"rating": "1546", "id": "kevchod"}
+{"rating": "1536", "id": "kevchod"}
+{"rating": "1513", "id": "sukhankin"}
+{"rating": "1301", "id": "rf81"}
+{"rating": "1292", "id": "yan2003"}
+{"rating": "1616", "id": "alichess68"}
+{"rating": "1753", "id": "jjplayz"}
+{"rating": "2211", "id": "meccanoidg15"}
+{"rating": "2203", "id": "meccanoidg15"}
+{"rating": "1962", "id": "mag28512851"}
+{"rating": "2214", "id": "meccanoidg15"}
+{"rating": "2209", "id": "meccanoidg15"}
+{"rating": "2199", "id": "meccanoidg15"}
+{"rating": "2160", "id": "meccanoidg15"}
+{"rating": "1831", "id": "hartonorahman"}
+{"rating": "1846", "id": "b-max211"}
+{"rating": "1814", "id": "b-max211"}
+{"rating": "1771", "id": "b-max211"}
+{"rating": "1712", "id": "b-max211"}
+{"rating": "1832", "id": "codh"}
+{"rating": "1825", "id": "srpm"}
+{"rating": "1885", "id": "bulldogfan1998"}
+{"rating": "1832", "id": "rotsa_ruck"}
+{"rating": "1859", "id": "bulldogfan1998"}
+{"rating": "1913", "id": "bogazsemih"}
+{"rating": "2063", "id": "volodya51"}
+{"rating": "2054", "id": "luho"}
+{"rating": "1727", "id": "redsu"}
+{"rating": "1068", "id": "jsbchess"}
+{"rating": "1143", "id": "olga1941"}
+{"rating": "1221", "id": "ohnoyoyo"}
+{"rating": "1120", "id": "littlekitty83"}
+{"rating": "1344", "id": "iwannabelikemike"}
+{"rating": "1076", "id": "littlekitty83"}
+{"rating": "1110", "id": "tagirrtyu"}
+{"rating": "1238", "id": "wavyboi"}
+{"rating": "1129", "id": "littlekitty83"}
+{"rating": "1218", "id": "makar_batulin"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1480", "id": "brandonbos"}
+{"rating": "1137", "id": "shreyposhiya"}
+{"rating": "1354", "id": "jhinrichs"}
+{"rating": "1500", "id": "carlosperez"}
+{"rating": "1725", "id": "ejohn94"}
+{"rating": "1691", "id": "rufinot"}
+{"rating": "1542", "id": "sergey67"}
+{"rating": "1542", "id": "sergey67"}
+{"rating": "1827", "id": "zzeljko"}
+{"rating": "1348", "id": "ridwan47"}
+{"rating": "1331", "id": "mayor_mccheese"}
+{"rating": "1837", "id": "gmboa64"}
+{"rating": "ort org.neo4j.driver.AuthTokens;
+import org.neo4j.driver.Driver;
+import1858", "id": "igorcru4inin"}
+{"rating": "1847", "id": "leebers"}
+{"rating": "2011", "id": "ombrenoire"}
+{"rating": "1235", "id": "shokoshokao"}
+{"rating": "1674", "id": "gameboymaster49899"}
+{"rating": "1455", "id": "zz12345"}
+{"rating": "1888", "id": "sanjack"}
+{"rating": "1817", "id": "nikkitah"}
+{"rating": "1708", "id": "gameboymaster49899"}
+{"rating": "1514", "id": "v1chess"}
+{"rating": "1900", "id": "raysendeleo"}
+{"rating": "1544", "id": "v1chess"}
+{"rating": "1732", "id": "cracking12345"}
+{"rating": "1732", "id": "cracking12345"}
+{"rating": "1532", "id": "paulrizzi"}
+{"rating": "1520", "id": "paulrizzi"}
+{"rating": "1249", "id": "butledge"}
+{"rating": "1500", "id": "knight79"}
+{"rating": "1202", "id": "butledge"}
+{"rating": "1357", "id": "tsarmaxamar"}
+{"rating": "1500", "id": "paavel02"}
+{"rating": "1620", "id": "betelgeuse1"}
+{"rating": "1406", "id": "jamiecampos"}
+{"rating": "1500", "id": "paavel02"}
+{"rating": "1500", "id": "kaven"}
+{"rating": "1611", "id": "antoniusblock76"}
+{"rating": "1477", "id": "soskyy"}
+{"rating": "1400", "id": "king5891"}
+{"rating": "1400", "id": "king5891"}
+{"rating": "1619", "id": "shieldandsword88"}
+{"rating": "1400", "id": "king5891"}
+{"rating": "1371", "id": "archibaldy"}
+{"rating": "1400", "id": "king5891"}
+{"rating": "1400", "id": "king5891"}
+{"rating": "1400", "id": "king5891"}
+{"rating": "1400", "id": "king5891"}
+{"rating": "1400", "id": "king5891"}
+{"rating": "1400", "id": "king5891"}
+{"rating": "1400", "id": "king5891"}
+{"rating": "1400", "id": "king5891"}
+{"rating": "1400", "id": "king5891"}
+{"rating": "1503", "id": "vera08"}
+{"rating": "1528", "id": "rembrandt16"}
+{"rating": "1552", "id": "rembrandt16"}
+{"rating": "1535", "id": "rembrandt16"}
+{"rating": "1524", "id": "rembrandt16"}
+{"rating": "1501", "id": "rembrandt16"}
+{"rating": "1492", "id": "rembrandt16"}
+{"rating": "1475", "id": "rembrandt16"}
+{"rating": "1504", "id": "rembrandt16"}
+{"rating": "1496", "id": "rembrandt16"}
+{"rating": "2145", "id": "kells"}
+{"rating": "2157", "id": "gmanderson"}
+{"rating": "2105", "id": "gmanderson"}
+{"rating": "1500", "id": "gmanderson"}
+{"rating": "1500", "id": "gmanderson"}
+{"rating": "1500", "id": "gmanderson"}
+{"rating": "1742", "id": "tijocoarriba"}
+{"rating": "1629", "id": "instriker"}
+{"rating": "2126", "id": "rps_1899"}
+{"rating": "1500", "id": "rps_1899"}
+{"rating": "1642", "id": "ipodvez2015"}
+{"rating": "1251", "id": "b0nes"}
+{"rating": "1248", "id": "loliponche"}
+{"rating": "1718", "id": "sam4923"}
+{"rating": "1615", "id": "wei2"}
+{"rating": "1478", "id": "part74"}
+{"rating": "1460", "id": "part74"}
+{"rating": "1372", "id": "part74"}
+{"rating": "1298", "id": "sprecherscrow"}
+{"rating": "1361", "id": "part74"}
+{"rating": "1404", "id": "pilotpetrov"}
+{"rating": "1453", "id": "benev82"}
+{"rating": "1433", "id": "benev82"}
+{"rating": "1657", "id": "rakhimovv"}
+{"rating": "1491", "id": "clzwlx"}
+{"rating": "1685", "id": "angeldq"}
+{"rating": "1496", "id": "dellinspiron25"}
+{"rating": "1908", "id": "checkers-network"}
+{"rating": "1989", "id": "syahran"}
+{"rating": "1473", "id": "dellinspiron25"}
+{"rating": "1566", "id": "jjoyce86"}
+{"rating": "1820", "id": "fingerblast"}
+{"rating": "1675", "id": "eduardrnd"}
+{"rating": "1492", "id": "29rus"}
+{"rating": "1573", "id": "potatietots"}
+{"rating": "2093", "id": "nuevotio"}
+{"rating": "2023", "id": "vvz74"}
+{"rating": "1556", "id": "potatietots"}
+{"rating": "1354", "id": "movieless"}
+{"rating": "1554", "id": "potatietots"}
+{"rating": "1632", "id": "aureliosaavedra"}
+{"rating": "1563", "id": "potatietots"}
+{"rating": "1345", "id": "kingcrazy99"}
+{"rating": "1461", "id": "vishenka65"}
+{"rating": "1479", "id": "bazarmalikmaulana"}
+{"rating": "1391", "id": "kingcrazy99"}
+{"rating": "1387", "id": "kingcrazy99"}
+{"rating": "1489", "id": "cheussr"}
+{"rating": "2005", "id": "midohazem"}
+{"rating": "1500", "id": "throwaway10825"}
+{"rating": "1500", "id": "throwaway10825"}
+{"rating": "1368", "id": "piley159"}
+{"rating": "1253", "id": "piley159"}
+{"rating": "1232", "id": "piley159"}
+{"rating": "2017", "id": "xmen123"}
+{"rating": "1210", "id": "piley159"}
+{"rating": "1210", "id": "piley159"}
+{"rating": "1226", "id": "mjlcrow"}
+{"rating": "1179", "id": "piley159"}
+{"rating": "1197", "id": "skids19"}
+{"rating": "1163", "id": "piley159"}
+{"rating": "1152", "id": "piley159"}
+{"rating": "1332", "id": "arroyon"}
+{"rating": "1348", "id": "jeb90"}
+{"rating": "1143", "id": "piley159"}
+{"rating": "1301", "id": "raptorfurax"}
+{"rating": "1092", "id": "grandmasterblr"}
+{"rating": "1076", "id": "grandmasterblr"}
+{"rating": "1165", "id": "piley159"}
+{"rating": "1151", "id": "piley159"}
+{"rating": "1417", "id": "romacal"}
+{"rating": "1848", "id": "badpuppy"}
+{"rating": "1838", "id": "chesstime107"}
+{"rating": "1835", "id": "honza7"}
+{"rating": "1791", "id": "honza7"}
+{"rating": "1730", "id": "honza7"}
+{"rating": "1649", "id": "honza7"}
+{"rating": "1603", "id": "honza7"}
+{"rating": "1500", "id": "honza7"}
+{"rating": "1513", "id": "nano51"}
+{"rating": "1175", "id": "misfox"}
+{"rating": "1673", "id": "cilentano002"}
+{"rating": "1673", "id": "cilentano002"}
+{"rating": "1902", "id": "muddel"}
+{"rating": "1635", "id": "jpadron19"}
+{"rating": "1633", "id": "jpadron19"}
+{"rating": "1703", "id": "pal2310"}
+{"rating": "1722", "id": "pal2310"}
+{"rating": "1579", "id": "yolanda23"}
+{"rating": "1727", "id": "pal2310"}
+{"rating": "1670", "id": "burovik"}
+{"rating": "1798", "id": "tigerle"}
+{"rating": "1714", "id": "pal2310"}
+{"rating": "1767", "id": "kiedyswygrasz"}
+{"rating": "1835", "id": "mogensdk"}
+{"rating": "1712", "id": "zubairali"}
+{"rating": "1844", "id": "stefanmasch"}
+{"rating": "1557", "id": "blazingdragon"}
+{"rating": "1549", "id": "blazingdragon"}
+{"rating": "1728", "id": "holylowy"}
+{"rating": "1529", "id": "blazingdragon"}
+{"rating": "1644", "id": "robson_granmaster"}
+{"rating": "1560", "id": "blazingdragon"}
+{"rating": "1578", "id": "binarycosmonaut"}
+{"rating": "1769", "id": "lkigor"}
+{"rating": "1500", "id": "ioansanders"}
+{"rating": "939", "id": "alexmorato"}
+{"rating": "974", "id": "bassboy"}
+{"rating": "1482", "id": "siegfried1944"}
+{"rating": "1259", "id": "chessguy9001"}
+{"rating": "1279", "id": "chessguy9001"}
+{"rating": "1271", "id": "chessguy9001"}
+{"rating": "1490", "id": "trotil45"}
+{"rating": "1366", "id": "sonsofthunder"}
+{"rating": "1310", "id": "sonsofthunder"}
+{"rating": "1632", "id": "thealextag"}
+{"rating": "2234", "id": "fr77127"}
+{"rating": "2173", "id": "racimov"}
+{"rating": "2104", "id": "racger"}
+{"rating": "2121", "id": "zorandjordje"}
+{"rating": "2330", "id": "chittari"}
+{"rating": "2209", "id": "anejbegunje"}
+{"rating": "2194", "id": "cozychess"}
+{"rating": "2221", "id": "anejbegunje"}
+{"rating": "2276", "id": "lebeusz"}
+{"rating": "2201", "id": "pavlove1986"}
+{"rating": "2207", "id": "anejbegunje"}
+{"rating": "1530", "id": "freetjjtds"}
+{"rating": "1470", "id": "afshinhajari"}
+{"rating": "1384", "id": "gui645"}
+{"rating": "1514", "id": "buffo"}
+{"rating": "1528", "id": "pawninhurry"}
+{"rating": "1209", "id": "efeozbakir1"}
+{"rating": "2026", "id": "hakanerkam"}
+{"rating": "2025", "id": "hakanerkam"}
+{"rating": "1586", "id": "hmos"}
+{"rating": "1716", "id": "ahmedmachine"}
+{"rating": "1718", "id": "francekonjar"}
+{"rating": "1733", "id": "papi23"}
+{"rating": "1483", "id": "bauerl95"}
+{"rating": "1378", "id": "thepawnsofwrath"}
+{"rating": "1357", "id": "thepawnsofwrath"}
+{"rating": "1180", "id": "casta73"}
+{"rating": "1493", "id": "nikolay4"}
+{"rating": "1498", "id": "thepawnsofwrath"}
+{"rating": "1507", "id": "thepawnsofwrath"}
+{"rating": "1430", "id": "marvaey"}
+{"rating": "1500", "id": "rudiansyah"}
+{"rating": "1500", "id": "peeko27"}
+{"rating": "1581", "id": "magnus_dong"}
+{"rating": "1500", "id": "magnus_dong"}
+{"rating": "1693", "id": "janfrode"}
+{"rating": "1693", "id": "janfrode"}
+{"rating": "1160", "id": "chiesu"}
+{"rating": "1588", "id": "jvp"}
+{"rating": "1930", "id": "valmasia3"}
+{"rating": "1733", "id": "michaelfield"}
+{"rating": "1500", "id": "grant12345"}
+{"rating": "1661", "id": "carlbauer"}
+{"rating": "1809", "id": "gregmillsusa1"}
+{"rating": "1711", "id": "jovan_kingofkings"}
+{"rating": "1852", "id": "torosentado"}
+{"rating": "1780", "id": "jovan_kingofkings"}
+{"rating": "1215", "id": "wolf1108"}
+{"rating": "1687", "id": "monged01"}
+{"rating": "1316", "id": "serg0901"}
+{"rating": "1279", "id": "serg0901"}
+{"rating": "1228", "id": "serg0901"}
+{"rating": "1150", "id": "danielgraham88"}
+{"rating": "1431", "id": "marinho797"}
+{"rating": "1107", "id": "danielgraham88"}
+{"rating": "1581", "id": "vanhoan"}
+{"rating": "1503", "id": "amateur_pawn_star"}
+{"rating": "1507", "id": "amateur_pawn_star"}
+{"rating": "1502", "id": "amateur_pawn_star"}
+{"rating": "1512", "id": "artmanua"}
+{"rating": "1482", "id": "amateur_pawn_star"}
+{"rating": "1624", "id": "david_roussel"}
+{"rating": "1462", "id": "delzolal"}
+{"rating": "1476", "id": "amateur_pawn_star"}
+{"rating": "1457", "id": "amateur_pawn_star"}
+{"rating": "1500", "id": "gegianni"}
+{"rating": "1500", "id": "toddone"}
+{"rating": "1500", "id": "gegianni"}
+{"rating": "2141", "id": "marco753"}
+{"rating": "1742", "id": "kareem11"}
+{"rating": "1204", "id": "om1665061"}
+{"rating": "1184", "id": "om1665061"}
+{"rating": "1681", "id": "amigoajedrez"}
+{"rating": "1189", "id": "om1665061"}
+{"rating": "1133", "id": "om1665061"}
+{"rating": "1658", "id": "glonnee"}
+{"rating": "958", "id": "greenmachine"}
+{"rating": "1500", "id": "labrute"}
+{"rating": "1179", "id": "vaka-waka"}
+{"rating": "1172", "id": "vaka-waka"}
+{"rating": "1011", "id": "stailetyat"}
+{"rating": "1142", "id": "hossein2611"}
+{"rating": "1424", "id": "tenderheartpirate"}
+{"rating": "1471", "id": "ivan86"}
+{"rating": "1679", "id": "chessplaye"}
+{"rating": "1382", "id": "lcover"}
+{"rating": "1347", "id": "stlan"}
+{"rating": "1395", "id": "lcover"}
+{"rating": "1472", "id": "moiachille"}
+{"rating": "1754", "id": "malucodoido"}
+{"rating": "1363", "id": "spicybeef189"}
+{"rating": "1653", "id": "pierreleblanc"}
+{"rating": "1710", "id": "izaulima"}
+{"rating": "1706", "id": "izaulima"}
+{"rating": "1591", "id": "kresevica"}
+{"rating": "1579", "id": "souayahmustafa"}
+{"rating": "1468", "id": "lcover"}
+{"rating": "1434", "id": "lcover"}
+{"rating": "1471", "id": "blackshelter"}
+{"rating": "1661", "id": "o4leaf"}
+{"rating": "1135", "id": "samuelpro"}
+{"rating": "1551", "id": "whitegaba"}
+{"rating": "1483", "id": "yriibass"}
+{"rating": "1563", "id": "cullarvega"}
+{"rating": "1320", "id": "derya-66"}
+{"rating": "1703", "id": "kolphire"}
+{"rating": "1127", "id": "samuelpro"}
+{"rating": "1002", "id": "samuelpro"}
+{"rating": "1511", "id": "pablog2200"}
+{"rating": "1625", "id": "falsus"}
+{"rating": "1939", "id": "pimag-45"}
+{"rating": "856", "id": "samuelpro"}
+{"rating": "1828", "id": "turan07"}
+{"rating": "1347", "id": "hugues2908"}
+{"rating": "1325", "id": "hugues2908"}
+{"rating": "1085", "id": "ricsiblanka"}
+{"rating": "1057", "id": "mind123"}
+{"rating": "1098", "id": "nayef-26"}
+{"rating": "1080", "id": "nayef-26"}
+{"rating": "1142", "id": "carlosamadorsanchez"}
+{"rating": "1123", "id": "carlosamadorsanchez"}
+{"rating": "1168", "id": "firstrow"}
+{"rating": "1384", "id": "carlosamadorsanchez"}
+{"rating": "1406", "id": "kasparovd0311"}
+{"rating": "1473", "id": "kasparovd0311"}
+{"rating": "1500", "id": "kasparovd0311"}
+{"rating": "1500", "id": "lij-y"}
+{"rating": "1901", "id": "yriy555"}
+{"rating": "1093", "id": "chees29"}
+{"rating": "898", "id": "royas"}
+{"rating": "1228", "id": "tashy"}
+{"rating": "1106", "id": "chees29"}
+{"rating": "1251", "id": "diptargho"}
+{"rating": "1355", "id": "kavkav9876"}
+{"rating": "1116", "id": "chees29"}
+{"rating": "1306", "id": "lagrandevero"}
+{"rating": "1759", "id": "chessinprogress"}
+{"rating": "1627", "id": "toliklunev"}
+{"rating": "2023", "id": "pbjtraining"}
+{"rating": "1252", "id": "lapeque"}
+{"rating": "1427", "id": "catire25"}
+{"rating": "1175", "id": "chees29"}
+{"rating": "1907", "id": "ajps17"}
+{"rating": "1718", "id": "sunilsb"}
+{"rating": "1288", "id": "mariale200"}
+{"rating": "1409", "id": "catire25"}
+{"rating": "1404", "id": "sassenach2"}
+{"rating": "1231", "id": "chees29"}
+{"rating": "1127", "id": "monstruodelnorte"}
+{"rating": "1276", "id": "planard"}
+{"rating": "1582", "id": "mrzoom47"}
+{"rating": "1582", "id": "mrzoom47"}
+{"rating": "1582", "id": "mrzoom47"}
+{"rating": "1582", "id": "mrzoom47"}
+{"rating": "1582", "id": "mrzoom47"}
+{"rating": "1582", "id": "mrzoom47"}
+{"rating": "1591", "id": "mrzoom47"}
+{"rating": "1591", "id": "mrzoom47"}
+{"rating": "1591", "id": "mrzoom47"}
+{"rating": "1591", "id": "mrzoom47"}
+{"rating": "1196", "id": "devas5k"}
+{"rating": "1157", "id": "eugeniobarros"}
+{"rating": "1033", "id": "wchermanne"}
+{"rating": "1500", "id": "ednallor"}
+{"rating": "1844", "id": "mobin1388"}
+{"rating": "1819", "id": "awaretenacious"}
+{"rating": "1868", "id": "mobin1388"}
+{"rating": "1860", "id": "mobin1388"}
+{"rating": "1858", "id": "mobin1388"}
+{"rating": "1818", "id": "mobin1388"}
+{"rating": "2031", "id": "miro61"}
+{"rating": "1807", "id": "mobin1388"}
+{"rating": "1697", "id": "kaji_djagal"}
+{"rating": "1791", "id": "mobin1388"}
+{"rating": "1922", "id": "shakailham"}
+{"rating": "1817", "id": "dmitriy_pskov"}
+{"rating": "2022", "id": "ic1moveahead"}
+{"rating": "1732", "id": "hazba86"}
+{"rating": "1774", "id": "alireza_khamseh"}
+{"rating": "1651", "id": "strudel"}
+{"rating": "2335", "id": "siindbad"}
+{"rating": "2135", "id": "siindbad"}
+{"rating": "2135", "id": "siindbad"}
+{"rating": "2133", "id": "siindbad"}
+{"rating": "2131", "id": "siindbad"}
+{"rating": "2032", "id": "siindbad"}
+{"rating": "1676", "id": "kiumars"}
+{"rating": "1533", "id": "batdk59"}
+{"rating": "1500", "id": "jdimojc"}
+{"rating": "1737", "id": "vanquil"}
+{"rating": "1726", "id": "vanquil"}
+{"rating": "1801", "id": "mavericks"}
+{"rating": "1810", "id": "littlerose"}
+{"rating": "1748", "id": "berguenlouis"}
+{"rating": "1127", "id": "colorlace"}
+{"rating": "1319", "id": "abondano"}
+{"rating": "1394", "id": "cedley1969"}
+{"rating": "1559", "id": "profeblanco"}
+{"rating": "2088", "id": "trexchess"}
+{"rating": "2247", "id": "amayak"}
+{"rating": "1380", "id": "loveotsuu"}
+{"rating": "1446", "id": "stevenemily"}
+{"rating": "1449", "id": "stevenemily"}
+{"rating": "2621", "id": "lance5500"}
+{"rating": "1500", "id": "ranchowangdu"}
+{"rating": "1826", "id": "cuazar"}
+{"rating": "1891", "id": "isaac1111"}
+{"rating": "1235", "id": "userx100"}
+{"rating": "1254", "id": "alba92"}
+{"rating": "1277", "id": "bollard"}
+{"rating": "1231", "id": "joseangelcr"}
+{"rating": "1301", "id": "userx100"}
+{"rating": "1290", "id": "userx100"}
+{"rating": "1319", "id": "karamazov7"}
+{"rating": "1345", "id": "sinister303"}
+{"rating": "1298", "id": "userx100"}
+{"rating": "1306", "id": "rolo90"}
+{"rating": "1318", "id": "georgebaker"}
+{"rating": "1365", "id": "stojan17"}
+{"rating": "1388", "id": "falucho"}
+{"rating": "1325", "id": "userx100"}
+{"rating": "1316", "id": "userx100"}
+{"rating": "2105", "id": "tareed"}
+{"rating": "1903", "id": "bigiggye"}
+{"rating": "1754", "id": "quercusilex"}
+{"rating": "1540", "id": "maxi_puan"}
+{"rating": "1707", "id": "cnopm"}
+{"rating": "1699", "id": "cnopm"}
+{"rating": "1679", "id": "cnopm"}
+{"rating": "1625", "id": "cnopm"}
+{"rating": "1618", "id": "cnopm"}
+{"rating": "1648", "id": "cnopm"}
+{"rating": "1379", "id": "mazyulka"}
+{"rating": "1697", "id": "cnopm"}
+{"rating": "1816", "id": "alex7kr_ru"}
+{"rating": "1621", "id": "cnopm"}
+{"rating": "1500", "id": "elpidio"}
+{"rating": "1653", "id": "jorgelander"}
+{"rating": "1652", "id": "jorgelander"}
+{"rating": "1359", "id": "turkarmy"}
+{"rating": "1356", "id": "turkarmy"}
+{"rating": "1257", "id": "maximus_2000"}
+{"rating": "1598", "id": "salvador7943"}
+{"rating": "1322", "id": "hechicero-419"}
+{"rating": "1579", "id": "idiot_chessplayer"}
+{"rating": "1679", "id": "boulogne-sur-mer"}
+{"rating": "1330", "id": "pouriya72"}
+{"rating": "1546", "id": "temuji"}
+{"rating": "1569", "id": "miguel_guerra1977"}
+{"rating": "1340", "id": "apchess"}
+{"rating": "1804", "id": "swaltersson"}
+{"rating": "1802", "id": "swaltersson"}
+{"rating": "1861", "id": "jordan-marbun"}
+{"rating": "1347", "id": "viniciusalves"}
+{"rating": "1866", "id": "xxofficialmasterxx"}
+{"rating": "1760", "id": "hammerheart"}
+{"rating": "1866", "id": "xxofficialmasterxx"}
+{"rating": "1866", "id": "xxofficialmasterxx"}
+{"rating": "1866", "id": "xxofficialmasterxx"}
+{"rating": "1866", "id": "xxofficialmasterxx"}
+{"rating": "1866", "id": "xxofficialmasterxx"}
+{"rating": "1866", "id": "xxofficialmasterxx"}
+{"rating": "2160", "id": "barbacued"}
+{"rating": "1932", "id": "thegreatman06"}
+{"rating": "1967", "id": "thegreatman06"}
+{"rating": "1959", "id": "cexercisse"}
+{"rating": "1916", "id": "thegreatman06"}
+{"rating": "1834", "id": "hectorgomeslima"}
+{"rating": "1988", "id": "bert9999"}
+{"rating": "1422", "id": "rymdgris"}
+{"rating": "1688", "id": "nicholas9999"}
+{"rating": "1601", "id": "nicholas9999"}
+{"rating": "1495", "id": "nicholas9999"}
+{"rating": "1575", "id": "tevenac"}
+{"rating": "1353", "id": "nicholas9999"}
+{"rating": "1873", "id": "stve400231"}
+{"rating": "1873", "id": "stve400231"}
+{"rating": "1873", "id": "stve400231"}
+{"rating": "1873", "id": "stve400231"}
+{"rating": "1526", "id": "bobbyevans"}
+{"rating": "1518", "id": "bobbyevans"}
+{"rating": "1547", "id": "bot92"}
+{"rating": "1892", "id": "plovediv_69"}
+{"rating": "1484", "id": "misterpopo"}
+{"rating": "1569", "id": "aldaarqt"}
+{"rating": "1651", "id": "muskokadave"}
+{"rating": "1538", "id": "bobbyevans"}
+{"rating": "1422", "id": "lorensan"}
+{"rating": "1636", "id": "irishockey"}
+{"rating": "1417", "id": "cerdilia"}
+{"rating": "1344", "id": "brandoncordova"}
+{"rating": "1315", "id": "curry117"}
+{"rating": "1451", "id": "lomoferoz"}
+{"rating": "1171", "id": "jayblackington"}
+{"rating": "1307", "id": "glzrchess"}
+{"rating": "1260", "id": "glzrchess"}
+{"rating": "1556", "id": "firmino"}
+{"rating": "1264", "id": "glzrchess"}
+{"rating": "1629", "id": "amsou"}
+{"rating": "1626", "id": "amsou"}
+{"rating": "1641", "id": "amsou"}
+{"rating": "1549", "id": "lucifersgod"}
+{"rating": "1253", "id": "glzrchess"}
+{"rating": "1241", "id": "glzrchess"}
+{"rating": "1243", "id": "jyarbrough27"}
+{"rating": "1239", "id": "glzrchess"}
+{"rating": "1230", "id": "glzrchess"}
+{"rating": "1219", "id": "glzrchess"}
+{"rating": "1262", "id": "glzrchess"}
+{"rating": "1169", "id": "vezirtonyukuk"}
+{"rating": "1385", "id": "thesnare"}
+{"rating": "1376", "id": "thesnare"}
+{"rating": "1327", "id": "bayaman"}
+{"rating": "1372", "id": "varun2271"}
+{"rating": "1381", "id": "shabeakhar1360"}
+{"rating": "1561", "id": "thecastor"}
+{"rating": "1459", "id": "sergeiurevich29"}
+{"rating": "1500", "id": "everhahue"}
+{"rating": "1760", "id": "cancanyc"}
+{"rating": "1573", "id": "kunarsenal"}
+{"rating": "2038", "id": "jackelperro65"}
+{"rating": "1964", "id": "pink-flower"}
+{"rating": "1951", "id": "pink-flower"}
+{"rating": "2052", "id": "alifarahi"}
+{"rating": "1988", "id": "pink-flower"}
+{"rating": "1971", "id": "pink-flower"}
+{"rating": "1971", "id": "pink-flower"}
+{"rating": "1965", "id": "pink-flower"}
+{"rating": "1972", "id": "pink-flower"}
+{"rating": "1962", "id": "pink-flower"}
+{"rating": "1754", "id": "vas2vas"}
+{"rating": "1495", "id": "ken2slink"}
+{"rating": "1651", "id": "zoro94"}
+{"rating": "1697", "id": "zoro94"}
+{"rating": "1684", "id": "zoro94"}
+{"rating": "1679", "id": "ammanian"}
+{"rating": "1877", "id": "moossassoon"}
+{"rating": "1661", "id": "ammanian"}
+{"rating": "2291", "id": "dusanmunja_003"}
+{"rating": "1458", "id": "teddykish"}
+{"rating": "1451", "id": "poocasso"}
+{"rating": "1413", "id": "zonvolt"}
+{"rating": "1468", "id": "poocasso"}
+{"rating": "1772", "id": "gingeleskie"}
+{"rating": "1447", "id": "poocasso"}
+{"rating": "1510", "id": "greenpeace48"}
+{"rating": "1448", "id": "poocasso"}
+{"rating": "1437", "id": "poocasso"}
+{"rating": "1698", "id": "robertg6"}
+{"rating": "1415", "id": "poocasso"}
+{"rating": "1391", "id": "poocasso"}
+{"rating": "1134", "id": "alcaponehun"}
+{"rating": "1790", "id": "alexandrs"}
+{"rating": "1460", "id": "texas-ram"}
+{"rating": "1422", "id": "audiot"}
+{"rating": "1672", "id": "frevi"}
+{"rating": "1208", "id": "idoatricks"}
+{"rating": "1689", "id": "strawpawn"}
+{"rating": "1349", "id": "soulman2001"}
+{"rating": "1500", "id": "exf6"}
+{"rating": "1429", "id": "soulman2001"}
+{"rating": "1264", "id": "carioca10"}
+{"rating": "1574", "id": "alleryn"}
+{"rating": "2262", "id": "chean63"}
+{"rating": "2203", "id": "darewing"}
+{"rating": "2195", "id": "darewing"}
+{"rating": "2105", "id": "anand888"}
+{"rating": "2157", "id": "oso_bucholz"}
+{"rating": "2157", "id": "oso_bucholz"}
+{"rating": "1496", "id": "ischia"}
+{"rating": "1439", "id": "daniamurashov"}
+{"rating": "1523", "id": "nik221107"}
+{"rating": "1381", "id": "daniel_likes_chess"}
+{"rating": "1381", "id": "daniel_likes_chess"}
+{"rating": "1094", "id": "shivangithegenius"}
+{"rating": "1094", "id": "shivangithegenius"}
+{"rating": "1078", "id": "shivangithegenius"}
+{"rating": "1038", "id": "shivangithegenius"}
+{"rating": "1148", "id": "chinmaysharma"}
+{"rating": "1002", "id": "shivangithegenius"}
+{"rating": "2436", "id": "rajuppi"}
+{"rating": "2436", "id": "rajuppi"}
+{"rating": "978", "id": "shivangithegenius"}
+{"rating": "1568", "id": "oldpaths"}
+{"rating": "1470", "id": "fcolpo"}
+{"rating": "1617", "id": "chesschumpchamp"}
+{"rating": "1588", "id": "oldpaths"}
+{"rating": "1560", "id": "oldpaths"}
+{"rating": "1536", "id": "oldpaths"}
+{"rating": "1545", "id": "oldpaths"}
+{"rating": "1548", "id": "oldpaths"}
+{"rating": "1535", "id": "oldpaths"}
+{"rating": "1513", "id": "oldpaths"}
+{"rating": "1951", "id": "majid_alsalhi"}
+{"rating": "1728", "id": "avelez8"}
+{"rating": "1729", "id": "hafedfree"}
+{"rating": "1784", "id": "cdvh"}
+{"rating": "1756", "id": "cdvh"}
+{"rating": "1706", "id": "cdvh"}
+{"rating": "1215", "id": "sassou"}
+{"rating": "1201", "id": "sassou"}
+{"rating": "1280", "id": "alpheus23"}
+{"rating": "1341", "id": "kapi77"}
+{"rating": "1359", "id": "cohiba_313"}
+{"rating": "1263", "id": "sassou"}
+{"rating": "1316", "id": "rougethunder"}
+{"rating": "1248", "id": "sassou"}
+{"rating": "1233", "id": "sassou"}
+{"rating": "1223", "id": "sassou"}
+{"rating": "1227", "id": "failedocean"}
+{"rating": "1550", "id": "minimouf"}
+{"rating": "1221", "id": "sassou"}
+{"rating": "1478", "id": "vladimir_shindin"}
+{"rating": "1191", "id": "gotochess"}
+{"rating": "1212", "id": "sassou"}
+{"rating": "1910", "id": "juncinmestrella"}
+{"rating": "1849", "id": "edil1800"}
+{"rating": "1865", "id": "isachess"}
+{"rating": "1856", "id": "isachess"}
+{"rating": "1836", "id": "isachess"}
+{"rating": "1267", "id": "whfo"}
+{"rating": "1270", "id": "taranga"}
+{"rating": "1304", "id": "piroz_xucestih"}
+{"rating": "1293", "id": "piroz_xucestih"}
+{"rating": "1308", "id": "lelik3310"}
+{"rating": "1305", "id": "taranga"}
+{"rating": "1466", "id": "vikrant_dalvi"}
+{"rating": "1500", "id": "xapoh"}
+{"rating": "1288", "id": "taranga"}
+{"rating": "1806", "id": "striker123"}
+{"rating": "1409", "id": "moon50"}
+{"rating": "1280", "id": "taranga"}
+{"rating": "1280", "id": "taranga"}
+{"rating": "1765", "id": "naoufel"}
+{"rating": "1534", "id": "moon50"}
+{"rating": "1238", "id": "taranga"}
+{"rating": "1221", "id": "taranga"}
+{"rating": "1232", "id": "hallowdance"}
+{"rating": "1240", "id": "taranga"}
+{"rating": "1590", "id": "harrygz"}
+{"rating": "1378", "id": "thegrim123321"}
+{"rating": "1371", "id": "thegrim123321"}
+{"rating": "1369", "id": "thegrim123321"}
+{"rating": "1387", "id": "thegrim123321"}
+{"rating": "1377", "id": "thegrim123321"}
+{"rating": "1378", "id": "thegrim123321"}
+{"rating": "1714", "id": "lanas2007"}
+{"rating": "1354", "id": "thegrim123321"}
+{"rating": "1580", "id": "eideral"}
+{"rating": "1474", "id": "chess_king3"}
+{"rating": "1557", "id": "eideral"}
+{"rating": "1557", "id": "eideral"}
+{"rating": "1558", "id": "eideral"}
+{"rating": "1513", "id": "eideral"}
+{"rating": "1638", "id": "tabellaria"}
+{"rating": "1587", "id": "tabellaria"}
+{"rating": "1568", "id": "tabellaria"}
+{"rating": "1515", "id": "tabellaria"}
+{"rating": "1470", "id": "tabellaria"}
+{"rating": "1440", "id": "tabellaria"}
+{"rating": "1552", "id": "nadanadora"}
+{"rating": "1453", "id": "nadanadora"}
+{"rating": "1532", "id": "corvusossifragus"}
+{"rating": "1605", "id": "doom12384"}
+{"rating": "1605", "id": "doom12384"}
+{"rating": "1605", "id": "doom12384"}
+{"rating": "1605", "id": "doom12384"}
+{"rating": "1496", "id": "ilkayus"}
+{"rating": "1623", "id": "tfeng"}
+{"rating": "1624", "id": "tfeng"}
+{"rating": "1619", "id": "tfeng"}
+{"rating": "1617", "id": "kei0075"}
+{"rating": "1619", "id": "tfeng"}
+{"rating": "1705", "id": "fox22634"}
+{"rating": "1591", "id": "tfeng"}
+{"rating": "1579", "id": "tfeng"}
+{"rating": "1995", "id": "hetismogelijk"}
+{"rating": "1569", "id": "tfeng"}
+{"rating": "1559", "id": "tfeng"}
+{"rating": "1534", "id": "tfeng"}
+{"rating": "1149", "id": "bohne"}
+{"rating": "1238", "id": "cris865"}
+{"rating": "1107", "id": "bilabrin"}
+{"rating": "1203", "id": "raza00"}
+{"rating": "1151", "id": "brainsurgery"}
+{"rating": "1071", "id": "ck666"}
+{"rating": "1590", "id": "lodowy"}
+{"rating": "1667", "id": "vitruvio"}
+{"rating": "1476", "id": "rfabian"}
+{"rating": "1460", "id": "rfabian"}
+{"rating": "1395", "id": "jutton1"}
+{"rating": "1382", "id": "pllm"}
+{"rating": "1357", "id": "jutton1"}
+{"rating": "1541", "id": "cagliostro97"}
+{"rating": "1569", "id": "putin55"}
+{"rating": "1612", "id": "andrea78"}
+{"rating": "1450", "id": "energique"}
+{"rating": "1353", "id": "hilarious2022"}
+{"rating": "1515", "id": "kyanh"}
+{"rating": "1505", "id": "kyanh"}
+{"rating": "1491", "id": "kyanh"}
+{"rating": "1919", "id": "mat-chess"}
+{"rating": "1501", "id": "checkerssux"}
+{"rating": "1487", "id": "kyanh"}
+{"rating": "1631", "id": "fischerdipper"}
+{"rating": "1626", "id": "fischerdipper"}
+{"rating": "1659", "id": "fischerdipper"}
+{"rating": "1761", "id": "adhen"}
+{"rating": "1693", "id": "fischerdipper"}
+{"rating": "1678", "id": "fischerdipper"}
+{"rating": "1684", "id": "fischerdipper"}
+{"rating": "1681", "id": "fischerdipper"}
+{"rating": "1688", "id": "fischerdipper"}
+{"rating": "1684", "id": "fischerdipper"}
+{"rating": "1672", "id": "dinnei"}
+{"rating": "1721", "id": "fischerdipper"}
+{"rating": "1712", "id": "koljan"}
+{"rating": "1741", "id": "fischerdipper"}
+{"rating": "1300", "id": "yorashi"}
+{"rating": "1290", "id": "tensors"}
+{"rating": "1187", "id": "fran_1991"}
+{"rating": "1322", "id": "tensors"}
+{"rating": "1223", "id": "anotherchessplayer1"}
+{"rating": "1156", "id": "hill_j"}
+{"rating": "1165", "id": "hill_j"}
+{"rating": "1164", "id": "hill_j"}
+{"rating": "1162", "id": "hill_j"}
+{"rating": "1353", "id": "calvelame"}
+{"rating": "1142", "id": "hill_j"}
+{"rating": "914", "id": "wolfevelyn"}
+{"rating": "1133", "id": "hill_j"}
+{"rating": "1123", "id": "hill_j"}
+{"rating": "1247", "id": "czungun"}
+{"rating": "1112", "id": "hill_j"}
+{"rating": "1125", "id": "hill_j"}
+{"rating": "1127", "id": "hill_j"}
+{"rating": "1111", "id": "hill_j"}
+{"rating": "1054", "id": "safran25"}
+{"rating": "2100", "id": "gg_easytobeatme_yt"}
+{"rating": "1960", "id": "roman12342005"}
+{"rating": "1951", "id": "roman12342005"}
+{"rating": "1929", "id": "roman12342005"}
+{"rating": "1914", "id": "roman12342005"}
+{"rating": "1954", "id": "roman12342005"}
+{"rating": "1627", "id": "mr_pablo"}
+{"rating": "1627", "id": "mr_pablo"}
+{"rating": "1901", "id": "caernarfon"}
+{"rating": "1164", "id": "snaek161616"}
+{"rating": "1344", "id": "diz_stack"}
+{"rating": "1635", "id": "regicidal2"}
+{"rating": "1604", "id": "dr_perdyllo"}
+{"rating": "1840", "id": "samangan20"}
+{"rating": "1718", "id": "gr8_m8_m8_im_ir8"}
+{"rating": "1662", "id": "prabhakarchand1"}
+{"rating": "1100", "id": "ntam"}
+{"rating": "1590", "id": "ca-va-lier"}
+{"rating": "1590", "id": "ca-va-lier"}
+{"rating": "1522", "id": "carbon752"}
+
+
+2. Listar todos os jogadores com as peças pretas que usaram a estratégia 'Sicilian Defense'.
+
+{"rating": "2326", "id": "chesscarl"}
+{"rating": "2318", "id": "chesscarl"}
+{"rating": "2271", "id": "chesscarl"}
+{"rating": "1922", "id": "withouttroble"}
+{"rating": "2239", "id": "chesscarl"}
+{"rating": "2230", "id": "chesscarl"}
+{"rating": "2185", "id": "chesscarl"}
+{"rating": "2135", "id": "chesscarl"}
+{"rating": "2086", "id": "chesscarl"}
+{"rating": "2071", "id": "chesscarl"}
+{"rating": "2059", "id": "chesscarl"}
+{"rating": "2045", "id": "chesscarl"}
+{"rating": "2029", "id": "chesscarl"}
+{"rating": "2100", "id": "chesscarl"}
+{"rating": "1381", "id": "knight602"}
+{"rating": "1360", "id": "knight602"}
+{"rating": "1500", "id": "dbmcdonald"}
+{"rating": "1500", "id": "a7twen"}
+{"rating": "1744", "id": "rcatlc"}
+{"rating": "1332", "id": "theanonymousone"}
+{"rating": "1352", "id": "theanonymousone"}
+{"rating": "1814", "id": "slon-al"}
+{"rating": "1590", "id": "granit10"}
+{"rating": "1791", "id": "slon-al"}
+{"rating": "1788", "id": "slon-al"}
+{"rating": "1842", "id": "slon-al"}
+{"rating": "2216", "id": "donidali"}
+{"rating": "1670", "id": "per1966"}
+{"rating": "1701", "id": "saviter"}
+{"rating": "1923", "id": "morg1515"}
+{"rating": "1698", "id": "ilkerk"}
+{"rating": "1723", "id": "li1chess"}
+{"rating": "1719", "id": "saviter"}
+{"rating": "2008", "id": "bayron45"}
+{"rating": "1605", "id": "alperbaba5225"}
+{"rating": "1696", "id": "saviter"}
+{"rating": "1801", "id": "quadrivium7"}
+{"rating": "1695", "id": "saviter"}
+{"rating": "1709", "id": "yosoyfenix"}
+{"rating": "1734", "id": "maicon92"}
+{"rating": "1882", "id": "a_th-19"}
+{"rating": "1842", "id": "maxzep64"}
+{"rating": "1906", "id": "jtg2016"}
+{"rating": "1842", "id": "bobbytal"}
+{"rating": "2147", "id": "vedenichev__serega"}
+{"rating": "1920", "id": "ammar_alomda"}
+{"rating": "1551", "id": "cookieblake"}
+{"rating": "1540", "id": "cookieblake"}
+{"rating": "1543", "id": "cookieblake"}
+{"rating": "1535", "id": "cookieblake"}
+{"rating": "1545", "id": "cookieblake"}
+{"rating": "1559", "id": "cookieblake"}
+{"rating": "1553", "id": "cookieblake"}
+{"rating": "1553", "id": "cookieblake"}
+{"rating": "1542", "id": "cookieblake"}
+{"rating": "1496", "id": "cesar251245"}
+{"rating": "1057", "id": "robert_190"}
+{"rating": "958", "id": "maltegutsch"}
+{"rating": "1339", "id": "reze"}
+{"rating": "1083", "id": "mccheese"}
+{"rating": "2036", "id": "chess-brahs"}
+{"rating": "2008", "id": "chess-brahs"}
+{"rating": "1967", "id": "chess-brahs"}
+{"rating": "1694", "id": "warera"}
+{"rating": "1500", "id": "ahuang"}
+{"rating": "1657", "id": "ahmadirr"}
+{"rating": "2203", "id": "maxwell_can"}
+{"rating": "1579", "id": "chess_student1974"}
+{"rating": "2073", "id": "nstsonkov"}
+{"rating": "1837", "id": "assad"}
+{"rating": "1776", "id": "bilja2233"}
+{"rating": "1712", "id": "mrphaseolusvulgaris"}
+{"rating": "1712", "id": "mrphaseolusvulgaris"}
+{"rating": "1712", "id": "mrphaseolusvulgaris"}
+{"rating": "1976", "id": "superhero098"}
+{"rating": "1988", "id": "superhero098"}
+{"rating": "2020", "id": "superhero098"}
+{"rating": "2008", "id": "superhero098"}
+{"rating": "1991", "id": "superhero098"}
+{"rating": "1998", "id": "superhero098"}
+{"rating": "1977", "id": "superhero098"}
+{"rating": "1971", "id": "superhero098"}
+{"rating": "1981", "id": "superhero098"}
+{"rating": "2018", "id": "ahmd11"}
+{"rating": "1668", "id": "landscaping123"}
+{"rating": "1990", "id": "soy714"}
+{"rating": "1896", "id": "s-a"}
+{"rating": "1873", "id": "killaunknown"}
+{"rating": "1881", "id": "s-a"}
+{"rating": "1881", "id": "s-a"}
+{"rating": "1892", "id": "s-a"}
+{"rating": "1892", "id": "s-a"}
+{"rating": "1891", "id": "s-a"}
+{"rating": "1897", "id": "s-a"}
+{"rating": "1977", "id": "j0hncap0ne"}
+{"rating": "1878", "id": "s-a"}
+{"rating": "1884", "id": "s-a"}
+{"rating": "1910", "id": "s-a"}
+{"rating": "1921", "id": "s-a"}
+{"rating": "1931", "id": "viljamijii"}
+{"rating": "1957", "id": "grebonachessmaster"}
+{"rating": "1484", "id": "arakul34"}
+{"rating": "1750", "id": "jkf11"}
+{"rating": "1260", "id": "jesteroz"}
+{"rating": "1587", "id": "nano51"}
+{"rating": "1366", "id": "tambwe"}
+{"rating": "1626", "id": "kcramsib"}
+{"rating": "1264", "id": "askesis"}
+{"rating": "1177", "id": "lorenzoberv"}
+{"rating": "1327", "id": "thelostunicorn"}
+{"rating": "1391", "id": "badjgule"}
+{"rating": "1313", "id": "thelostunicorn"}
+{"rating": "1313", "id": "thelostunicorn"}
+{"rating": "1313", "id": "thelostunicorn"}
+{"rating": "1500", "id": "alemiha"}
+{"rating": "1318", "id": "thelostunicorn"}
+{"rating": "1420", "id": "ringhals"}
+{"rating": "1337", "id": "thelostunicorn"}
+{"rating": "1382", "id": "tscheezel"}
+{"rating": "1382", "id": "tscheezel"}
+{"rating": "1933", "id": "mariocrippa"}
+{"rating": "1713", "id": "sosnovsky"}
+{"rating": "2076", "id": "da19"}
+{"rating": "1800", "id": "selami011235"}
+{"rating": "1778", "id": "panisaggg25"}
+{"rating": "2098", "id": "sailor7"}
+{"rating": "1768", "id": "craig77"}
+{"rating": "1362", "id": "chess_bros123"}
+{"rating": "1426", "id": "trrrrillionaire"}
+{"rating": "1426", "id": "trrrrillionaire"}
+{"rating": "1426", "id": "trrrrillionaire"}
+{"rating": "1500", "id": "matty_sweetnuts"}
+{"rating": "1176", "id": "lolrager"}
+{"rating": "1405", "id": "hasan_al-banna"}
+{"rating": "1427", "id": "hasan_al-banna"}
+{"rating": "1415", "id": "hasan_al-banna"}
+{"rating": "1458", "id": "ignar74"}
+{"rating": "1754", "id": "bchessl"}
+{"rating": "1712", "id": "narcad"}
+{"rating": "1500", "id": "feanor1122"}
+{"rating": "1669", "id": "francis173"}
+{"rating": "2363", "id": "thelordoftheboard"}
+{"rating": "1605", "id": "dmziryanov"}
+{"rating": "1466", "id": "inna457"}
+{"rating": "1284", "id": "aleffblendon"}
+{"rating": "1647", "id": "khatir"}
+{"rating": "1272", "id": "lfc_08_isaiah"}
+{"rating": "1973", "id": "roman_kauttpshbtku"}
+{"rating": "2181", "id": "nik99"}
+{"rating": "1983", "id": "stefanogio"}
+{"rating": "2164", "id": "nik99"}
+{"rating": "1238", "id": "razzzzy"}
+{"rating": "1331", "id": "butterlandz"}
+{"rating": "1347", "id": "iwannabelikemike"}
+{"rating": "1346", "id": "butterlandz"}
+{"rating": "1319", "id": "butterlandz"}
+{"rating": "1290", "id": "butterlandz"}
+{"rating": "956", "id": "joe-brown"}
+{"rating": "1668", "id": "melihmetin"}
+{"rating": "1621", "id": "niagrad"}
+{"rating": "1693", "id": "superevans"}
+{"rating": "1730", "id": "omaraljohni"}
+{"rating": "1618", "id": "chilllax"}
+{"rating": "1661", "id": "sebasfei89"}
+{"rating": "1362", "id": "jzcarr55"}
+{"rating": "1367", "id": "jzcarr55"}
+{"rating": "1697", "id": "lsm17"}
+{"rating": "1699", "id": "cullarvega"}
+{"rating": "1880", "id": "killerbromean"}
+{"rating": "1751", "id": "onlygodknows"}
+{"rating": "1857", "id": "sharkey101"}
+{"rating": "1990", "id": "marshallow"}
+{"rating": "1868", "id": "sharkey101"}
+{"rating": "1870", "id": "sharkey101"}
+{"rating": "1871", "id": "sharkey101"}
+{"rating": "1829", "id": "sharkey101"}
+{"rating": "1839", "id": "sudo_ybmt"}
+{"rating": "1841", "id": "glady974"}
+{"rating": "1828", "id": "sharkey101"}
+{"rating": "1835", "id": "iebrian"}
+{"rating": "1800", "id": "sharkey101"}
+{"rating": "1893", "id": "lordfischer"}
+{"rating": "1885", "id": "sharkey101"}
+{"rating": "1872", "id": "sharkey101"}
+{"rating": "1902", "id": "sharkey101"}
+{"rating": "1880", "id": "sharkey101"}
+{"rating": "1789", "id": "sharkey101"}
+{"rating": "1789", "id": "sharkey101"}
+{"rating": "1833", "id": "soklaw"}
+{"rating": "1712", "id": "sharkey101"}
+{"rating": "1750", "id": "sharkey101"}
+{"rating": "1762", "id": "reiterin"}
+{"rating": "2364", "id": "swarje"}
+{"rating": "1835", "id": "behrooz36tehran"}
+{"rating": "1289", "id": "taylantrc"}
+{"rating": "1635", "id": "sosnovsky"}
+{"rating": "1424", "id": "vrokh"}
+{"rating": "1500", "id": "shijima220"}
+{"rating": "2126", "id": "mauornelas"}
+{"rating": "1725", "id": "anopows"}
+{"rating": "2301", "id": "pavvell"}
+{"rating": "1408", "id": "tofol"}
+{"rating": "1352", "id": "justlin"}
+{"rating": "1876", "id": "hcm10"}
+{"rating": "1321", "id": "pluto21"}
+{"rating": "1882", "id": "wissamram"}
+{"rating": "1529", "id": "treegert90"}
+{"rating": "1465", "id": "vit216"}
+{"rating": "1749", "id": "gingerthecookie"}
+{"rating": "1749", "id": "gingerthecookie"}
+{"rating": "1837", "id": "danny_1"}
+{"rating": "1875", "id": "avichal"}
+{"rating": "1581", "id": "alwayscheckmated"}
+{"rating": "1238", "id": "chessfailurenoob"}
+{"rating": "1259", "id": "chessfailurenoob"}
+{"rating": "1615", "id": "pierk"}
+{"rating": "1371", "id": "lightningviper"}
+{"rating": "1440", "id": "herk"}
+{"rating": "1403", "id": "goldenfox99"}
+{"rating": "1382", "id": "goldenfox99"}
+{"rating": "1402", "id": "goldenfox99"}
+{"rating": "1402", "id": "goldenfox99"}
+{"rating": "1460", "id": "goldenfox99"}
+{"rating": "1807", "id": "dsom1234"}
+{"rating": "1723", "id": "dsom1234"}
+{"rating": "2140", "id": "alfrechess"}
+{"rating": "2264", "id": "doraemon61"}
+{"rating": "1639", "id": "valeriy56"}
+{"rating": "1778", "id": "ericksn"}
+{"rating": "1871", "id": "awangkoteng"}
+{"rating": "2261", "id": "doraemon61"}
+{"rating": "1395", "id": "chimeravirus"}
+{"rating": "1321", "id": "rulerry"}
+{"rating": "2018", "id": "bobc"}
+{"rating": "1993", "id": "bobc"}
+{"rating": "1943", "id": "bobc"}
+{"rating": "1920", "id": "bobc"}
+{"rating": "1913", "id": "bobc"}
+{"rating": "1893", "id": "bobc"}
+{"rating": "1905", "id": "bobc"}
+{"rating": "1939", "id": "bobc"}
+{"rating": "1939", "id": "bobc"}
+{"rating": "1966", "id": "bobc"}
+{"rating": "1980", "id": "bobc"}
+{"rating": "1974", "id": "bobc"}
+{"rating": "1969", "id": "bobc"}
+{"rating": "1959", "id": "bobc"}
+{"rating": "1954", "id": "bobc"}
+{"rating": "1964", "id": "bobc"}
+{"rating": "1971", "id": "bobc"}
+{"rating": "1474", "id": "chess_king3"}
+{"rating": "1474", "id": "chess_king3"}
+{"rating": "1474", "id": "chess_king3"}
+{"rating": "1474", "id": "chess_king3"}
+{"rating": "1474", "id": "chess_king3"}
+{"rating": "1474", "id": "chess_king3"}
+{"rating": "1623", "id": "josegonz"}
+{"rating": "1624", "id": "lvlango"}
+{"rating": "1624", "id": "lvlango"}
+{"rating": "1157", "id": "hash_13-chess"}
+{"rating": "1203", "id": "adarsh2001"}
+{"rating": "1312", "id": "slavamnemonic"}
+{"rating": "1189", "id": "edujer"}
+{"rating": "1499", "id": "rpmlorenzo"}
+{"rating": "1268", "id": "richard7226"}
+{"rating": "1461", "id": "ramannam"}
+{"rating": "1542", "id": "darkknight11111"}
+{"rating": "1562", "id": "darkknight11111"}
+{"rating": "1003", "id": "shadesofdrugs"}
+{"rating": "1116", "id": "joaovitor777"}
+{"rating": "1561", "id": "chrisca408"}
+{"rating": "1425", "id": "scorchedturf"}
+{"rating": "1500", "id": "aliwooolf"}
+{"rating": "1428", "id": "scorchedturf"}
+{"rating": "1428", "id": "scorchedturf"}
+{"rating": "1448", "id": "scorchedturf"}
+{"rating": "1392", "id": "scorchedturf"}
+{"rating": "1410", "id": "scorchedturf"}
+{"rating": "1418", "id": "scorchedturf"}
+{"rating": "1453", "id": "scorchedturf"}
+{"rating": "1451", "id": "scorchedturf"}
+{"rating": "1416", "id": "scorchedturf"}
+{"rating": "1285", "id": "kani501"}
+{"rating": "1374", "id": "scorchedturf"}
+{"rating": "1364", "id": "scorchedturf"}
+{"rating": "886", "id": "dsom"}
+{"rating": "898", "id": "dsom"}
+{"rating": "898", "id": "dsom"}
+{"rating": "1695", "id": "sergiokumic"}
+{"rating": "1668", "id": "virusxx4"}
+{"rating": "1611", "id": "st1l213"}
+{"rating": "1158", "id": "tankez0r"}
+{"rating": "1167", "id": "bischopscup"}
+{"rating": "1833", "id": "timtimtim23"}
+{"rating": "1410", "id": "kyzuro"}
+{"rating": "1281", "id": "dude_perfect"}
+{"rating": "1274", "id": "dude_perfect"}
+{"rating": "1255", "id": "dude_perfect"}
+{"rating": "1246", "id": "dude_perfect"}
+{"rating": "1204", "id": "dude_perfect"}
+{"rating": "1261", "id": "dude_perfect"}
+{"rating": "1710", "id": "literally_illiterate"}
+{"rating": "1702", "id": "fumbler"}
+{"rating": "1428", "id": "p_ps06"}
+{"rating": "1519", "id": "ykosta"}
+{"rating": "1528", "id": "hus1972"}
+{"rating": "1384", "id": "badradman"}
+{"rating": "1414", "id": "kevchod"}
+{"rating": "1449", "id": "kevchod"}
+{"rating": "1453", "id": "kevchod"}
+{"rating": "1462", "id": "kevchod"}
+{"rating": "1461", "id": "kevchod"}
+{"rating": "1472", "id": "kevchod"}
+{"rating": "1472", "id": "kevchod"}
+{"rating": "1452", "id": "kevchod"}
+{"rating": "1452", "id": "kevchod"}
+{"rating": "1451", "id": "kevchod"}
+{"rating": "1424", "id": "ll566847"}
+{"rating": "1454", "id": "kevchod"}
+{"rating": "1454", "id": "kevchod"}
+{"rating": "1438", "id": "inggio"}
+{"rating": "1477", "id": "kevchod"}
+{"rating": "1483", "id": "kevchod"}
+{"rating": "1494", "id": "kevchod"}
+{"rating": "1523", "id": "kevchod"}
+{"rating": "1547", "id": "kevchod"}
+{"rating": "1514", "id": "kykypy30"}
+{"rating": "1560", "id": "kevchod"}
+{"rating": "1556", "id": "kevchod"}
+{"rating": "2030", "id": "ralexx"}
+{"rating": "2193", "id": "tukipenda"}
+{"rating": "1915", "id": "withouttroble"}
+{"rating": "2027", "id": "meoc"}
+{"rating": "1631", "id": "masquerade"}
+{"rating": "2088", "id": "wadim001"}
+{"rating": "1645", "id": "psm12"}
+{"rating": "1831", "id": "b-max211"}
+{"rating": "1762", "id": "b-max211"}
+{"rating": "1815", "id": "b-max211"}
+{"rating": "1767", "id": "b-max211"}
+{"rating": "1736", "id": "b-max211"}
+{"rating": "1893", "id": "bulldogfan1998"}
+{"rating": "1877", "id": "bulldogfan1998"}
+{"rating": "1525", "id": "mano07"}
+{"rating": "1212", "id": "wilmersun"}
+{"rating": "1035", "id": "mrdugong"}
+{"rating": "1343", "id": "maevskii"}
+{"rating": "1129", "id": "littlekitty83"}
+{"rating": "1266", "id": "littlekitty83"}
+{"rating": "1499", "id": "mster_bagas1"}
+{"rating": "1282", "id": "amanda16"}
+{"rating": "1906", "id": "xek0ff"}
+{"rating": "1961", "id": "laishiyiyou"}
+{"rating": "1860", "id": "rabbit199"}
+{"rating": "1919", "id": "dahabi"}
+{"rating": "1929", "id": "dahabi"}
+{"rating": "2119", "id": "rex99"}
+{"rating": "1604", "id": "ri_chess"}
+{"rating": "1604", "id": "ri_chess"}
+{"rating": "1437", "id": "truud10"}
+{"rating": "1633", "id": "hunbee"}
+{"rating": "1785", "id": "mailsupriya"}
+{"rating": "1792", "id": "mailsupriya"}
+{"rating": "1826", "id": "mailsupriya"}
+{"rating": "1796", "id": "mailsupriya"}
+{"rating": "1815", "id": "mailsupriya"}
+{"rating": "1814", "id": "mailsupriya"}
+{"rating": "1822", "id": "mailsupriya"}
+{"rating": "1831", "id": "mailsupriya"}
+{"rating": "1848", "id": "mailsupriya"}
+{"rating": "1847", "id": "mailsupriya"}
+{"rating": "1611", "id": "antoniusblock76"}
+{"rating": "1364", "id": "butledge"}
+{"rating": "1283", "id": "journeyman"}
+{"rating": "1393", "id": "filipkrka"}
+{"rating": "1378", "id": "maximuss21"}
+{"rating": "1945", "id": "dlvillela"}
+{"rating": "1652", "id": "instriker"}
+{"rating": "1453", "id": "benev82"}
+{"rating": "1501", "id": "clzwlx"}
+{"rating": "1439", "id": "qrtebdda"}
+{"rating": "2093", "id": "nuevotio"}
+{"rating": "1661", "id": "cullarvega"}
+{"rating": "1478", "id": "nick4515"}
+{"rating": "1529", "id": "paddycologne"}
+{"rating": "2151", "id": "damastaodisasta"}
+{"rating": "1147", "id": "piley159"}
+{"rating": "1703", "id": "pal2310"}
+{"rating": "1703", "id": "pal2310"}
+{"rating": "1722", "id": "pal2310"}
+{"rating": "1722", "id": "pal2310"}
+{"rating": "1767", "id": "iceprincess"}
+{"rating": "1674", "id": "shevchenko_vlad"}
+{"rating": "1727", "id": "pal2310"}
+{"rating": "1727", "id": "pal2310"}
+{"rating": "1744", "id": "pal2310"}
+{"rating": "1744", "id": "pal2310"}
+{"rating": "1759", "id": "pal2310"}
+{"rating": "1737", "id": "pal2310"}
+{"rating": "1737", "id": "pal2310"}
+{"rating": "1737", "id": "pal2310"}
+{"rating": "1714", "id": "pal2310"}
+{"rating": "1714", "id": "pal2310"}
+{"rating": "1714", "id": "pal2310"}
+{"rating": "1419", "id": "chess-lex"}
+{"rating": "1568", "id": "blazingdragon"}
+{"rating": "1603", "id": "lemaitre"}
+{"rating": "1582", "id": "blazingdragon"}
+{"rating": "1608", "id": "monah11"}
+{"rating": "1553", "id": "blazingdragon"}
+{"rating": "1660", "id": "monah11"}
+{"rating": "1541", "id": "blazingdragon"}
+{"rating": "1558", "id": "blazingdragon"}
+{"rating": "1725", "id": "silvio78"}
+{"rating": "1571", "id": "blazingdragon"}
+{"rating": "1564", "id": "blazingdragon"}
+{"rating": "1567", "id": "blazingdragon"}
+{"rating": "1575", "id": "blazingdragon"}
+{"rating": "1565", "id": "blazingdragon"}
+{"rating": "1574", "id": "blazingdragon"}
+{"rating": "1730", "id": "jupp3"}
+{"rating": "1578", "id": "binarycosmonaut"}
+{"rating": "1557", "id": "blazingdragon"}
+{"rating": "1548", "id": "blazingdragon"}
+{"rating": "1500", "id": "ioansanders"}
+{"rating": "1810", "id": "physicist1993"}
+{"rating": "1490", "id": "trotil45"}
+{"rating": "1176", "id": "asamiller"}
+{"rating": "2234", "id": "anejbegunje"}
+{"rating": "2209", "id": "anejbegunje"}
+{"rating": "2232", "id": "anejbegunje"}
+{"rating": "2207", "id": "anejbegunje"}
+{"rating": "1538", "id": "psycthewalrus"}
+{"rating": "1581", "id": "thepawnsofwrath"}
+{"rating": "1492", "id": "thepawnsofwrath"}
+{"rating": "1269", "id": "thepawnsofwrath"}
+{"rating": "1579", "id": "yelilyina"}
+{"rating": "1733", "id": "michaelfield"}
+{"rating": "1700", "id": "jovan_kingofkings"}
+{"rating": "1748", "id": "urbater"}
+{"rating": "1775", "id": "hamzaahmedadam"}
+{"rating": "1770", "id": "crazymove"}
+{"rating": "1517", "id": "amateur_pawn_star"}
+{"rating": "1502", "id": "amateur_pawn_star"}
+{"rating": "1507", "id": "amateur_pawn_star"}
+{"rating": "1509", "id": "amateur_pawn_star"}
+{"rating": "1490", "id": "amateur_pawn_star"}
+{"rating": "1491", "id": "amateur_pawn_star"}
+{"rating": "1482", "id": "amateur_pawn_star"}
+{"rating": "1493", "id": "amateur_pawn_star"}
+{"rating": "1493", "id": "amateur_pawn_star"}
+{"rating": "1486", "id": "amateur_pawn_star"}
+{"rating": "1486", "id": "amateur_pawn_star"}
+{"rating": "1468", "id": "amateur_pawn_star"}
+{"rating": "1478", "id": "amateur_pawn_star"}
+{"rating": "1475", "id": "amateur_pawn_star"}
+{"rating": "1475", "id": "amateur_pawn_star"}
+{"rating": "1471", "id": "amateur_pawn_star"}
+{"rating": "1469", "id": "amateur_pawn_star"}
+{"rating": "1351", "id": "coco2016"}
+{"rating": "1451", "id": "lcover"}
+{"rating": "1451", "id": "lcover"}
+{"rating": "1461", "id": "lcover"}
+{"rating": "1440", "id": "lcover"}
+{"rating": "1332", "id": "inggio"}
+{"rating": "1395", "id": "lcover"}
+{"rating": "1645", "id": "pasha123_321"}
+{"rating": "1418", "id": "lcover"}
+{"rating": "1537", "id": "enthusiast"}
+{"rating": "2312", "id": "critico-82"}
+{"rating": "1815", "id": "pinha"}
+{"rating": "1404", "id": "sassenach2"}
+{"rating": "2262", "id": "grigorich"}
+{"rating": "2280", "id": "grigorich"}
+{"rating": "2234", "id": "rd98"}
+{"rating": "1638", "id": "martinfoxdale"}
+{"rating": "2374", "id": "kerboodle"}
+{"rating": "2349", "id": "kerboodle"}
+{"rating": "1737", "id": "vanquil"}
+{"rating": "1726", "id": "vanquil"}
+{"rating": "1653", "id": "djd38"}
+{"rating": "2103", "id": "trexchess"}
+{"rating": "2094", "id": "trexchess"}
+{"rating": "1409", "id": "ranchowangdu"}
+{"rating": "1500", "id": "ranchowangdu"}
+{"rating": "1500", "id": "ranchowangdu"}
+{"rating": "1500", "id": "ranchowangdu"}
+{"rating": "1500", "id": "ranchowangdu"}
+{"rating": "1500", "id": "ranchowangdu"}
+{"rating": "2445", "id": "nobodyreally"}
+{"rating": "1851", "id": "abeq"}
+{"rating": "1940", "id": "homssein"}
+{"rating": "1827", "id": "cuazar"}
+{"rating": "1267", "id": "bollard"}
+{"rating": "1319", "id": "karamazov7"}
+{"rating": "1262", "id": "emaddy"}
+{"rating": "1773", "id": "jopeshdamaster"}
+{"rating": "1980", "id": "carrotsbecause"}
+{"rating": "2025", "id": "carrotsbecause"}
+{"rating": "1136", "id": "drughi-25"}
+{"rating": "1696", "id": "grigoriy-66"}
+{"rating": "1866", "id": "xxofficialmasterxx"}
+{"rating": "1866", "id": "xxofficialmasterxx"}
+{"rating": "1866", "id": "xxofficialmasterxx"}
+{"rating": "1866", "id": "xxofficialmasterxx"}
+{"rating": "1729", "id": "bouzigouloum"}
+{"rating": "1510", "id": "djnacar"}
+{"rating": "1556", "id": "flotten"}
+{"rating": "2236", "id": "ya_boy_agent"}
+{"rating": "1539", "id": "capobruno"}
+{"rating": "1500", "id": "dregassa"}
+{"rating": "1500", "id": "zilic1"}
+{"rating": "1744", "id": "fujilee7"}
+{"rating": "1537", "id": "bobbyevans"}
+{"rating": "1526", "id": "bobbyevans"}
+{"rating": "1503", "id": "bobbyevans"}
+{"rating": "1504", "id": "bobbyevans"}
+{"rating": "1498", "id": "bobbyevans"}
+{"rating": "1509", "id": "bobbyevans"}
+{"rating": "1542", "id": "bobbyevans"}
+{"rating": "1550", "id": "bobbyevans"}
+{"rating": "1538", "id": "bobbyevans"}
+{"rating": "1388", "id": "karl123"}
+{"rating": "1518", "id": "sannjok"}
+{"rating": "1552", "id": "firmino"}
+{"rating": "1393", "id": "thesnare"}
+{"rating": "2500", "id": "chess-stat"}
+{"rating": "1533", "id": "thequeenisdead"}
+{"rating": "1975", "id": "kusartur"}
+{"rating": "1764", "id": "serog"}
+{"rating": "1184", "id": "louwyhs"}
+{"rating": "2015", "id": "takamaka"}
+{"rating": "1924", "id": "uktamsaparov"}
+{"rating": "1990", "id": "jsviana"}
+{"rating": "1459", "id": "poocasso"}
+{"rating": "1452", "id": "poocasso"}
+{"rating": "1463", "id": "poocasso"}
+{"rating": "1442", "id": "poocasso"}
+{"rating": "1448", "id": "poocasso"}
+{"rating": "1316", "id": "molimego"}
+{"rating": "1447", "id": "poocasso"}
+{"rating": "1446", "id": "poocasso"}
+{"rating": "1679", "id": "a-devi"}
+{"rating": "2195", "id": "darewing"}
+{"rating": "2443", "id": "ewigestalent"}
+{"rating": "2436", "id": "ewigestalent"}
+{"rating": "2287", "id": "karlaugust"}
+{"rating": "1002", "id": "franklin14532"}
+{"rating": "1094", "id": "shivangithegenius"}
+{"rating": "1423", "id": "ivangonzalez123"}
+{"rating": "1036", "id": "shivangithegenius"}
+{"rating": "1002", "id": "shivangithegenius"}
+{"rating": "1019", "id": "shivangithegenius"}
+{"rating": "975", "id": "shivangithegenius"}
+{"rating": "978", "id": "shivangithegenius"}
+{"rating": "978", "id": "shivangithegenius"}
+{"rating": "978", "id": "shivangithegenius"}
+{"rating": "978", "id": "shivangithegenius"}
+{"rating": "978", "id": "shivangithegenius"}
+{"rating": "978", "id": "shivangithegenius"}
+{"rating": "1500", "id": "gerfsh"}
+{"rating": "1280", "id": "alpheus23"}
+{"rating": "1336", "id": "marktop1"}
+{"rating": "1862", "id": "isachess"}
+{"rating": "1852", "id": "roshan_ie"}
+{"rating": "1918", "id": "sergej1956"}
+{"rating": "1840", "id": "isachess"}
+{"rating": "1848", "id": "isachess"}
+{"rating": "1856", "id": "isachess"}
+{"rating": "1837", "id": "isachess"}
+{"rating": "1806", "id": "maxpiz5"}
+{"rating": "1859", "id": "isachess"}
+{"rating": "1965", "id": "samdooley"}
+{"rating": "1843", "id": "teguhmaster"}
+{"rating": "1874", "id": "isachess"}
+{"rating": "1835", "id": "isachess"}
+{"rating": "1847", "id": "isachess"}
+{"rating": "1836", "id": "isachess"}
+{"rating": "1826", "id": "isachess"}
+{"rating": "1267", "id": "whfo"}
+{"rating": "1810", "id": "armourbuddy"}
+{"rating": "1534", "id": "moon50"}
+{"rating": "1732", "id": "madara21"}
+{"rating": "1429", "id": "brainiac007"}
+{"rating": "1580", "id": "eideral"}
+{"rating": "1632", "id": "arebest95"}
+{"rating": "1456", "id": "atorius"}
+{"rating": "1478", "id": "googol100"}
+{"rating": "1805", "id": "ajaysharma261253"}
+{"rating": "1496", "id": "ilkayus"}
+{"rating": "1684", "id": "bishopkerry01"}
+{"rating": "1652", "id": "wahidmahmom90"}
+{"rating": "1635", "id": "traverru"}
+{"rating": "1567", "id": "tfeng"}
+{"rating": "2132", "id": "arjunshenoyk"}
+{"rating": "2148", "id": "zuzino"}
+{"rating": "1586", "id": "gennai"}
+{"rating": "1621", "id": "fischerdipper"}
+{"rating": "1384", "id": "george_35"}
+{"rating": "1743", "id": "adhen"}
+{"rating": "1666", "id": "ffuentes90"}
+{"rating": "1333", "id": "tensors"}
+{"rating": "1251", "id": "smashtoblack"}
+{"rating": "2158", "id": "rindu38"}
+{"rating": "2008", "id": "thebadfish"}
+{"rating": "2050", "id": "total_chess"}
+{"rating": "1099", "id": "snaek161616"}
+{"rating": "1230", "id": "snaek161616"}
+{"rating": "1500", "id": "snaek161616"}
+{"rating": "2386", "id": "chesscarl"}
+{"rating": "2356", "id": "chesscarl"}
+
+
+3. Quantos jogos disputados tem os jogadores com as peças brancas com mais de 2000 de rating ordenado pelo número de jogo decrescentemente?
+
+{ 'name': 'doraemon61', 'num_games': 19 }
+{ 'name': 'chesscarl', 'num_games': 18 }
+{ 'name': 'meccanoidg15', 'num_games': 15 }
+{ 'name': 'anejbegunje', 'num_games': 14 }
+{ 'name': 'oso_bucholz', 'num_games': 14 }
+{ 'name': 'siindbad', 'num_games': 10 }
+{ 'name': 'amir2002zzz', 'num_games': 9 }
+{ 'name': 'gmanderson', 'num_games': 9 }
+{ 'name': 'christina-a-11', 'num_games': 7 }
+{ 'name': 'kerboodle', 'num_games': 7 }
+{ 'name': 'nik99', 'num_games': 6 }
+{ 'name': 'rps_1899', 'num_games': 6 }
+{ 'name': 'skuppam3', 'num_games': 5 }
+{ 'name': 'rajuppi', 'num_games': 5 }
+{ 'name': 'bobc', 'num_games': 4 }
+{ 'name': 'total_chess', 'num_games': 4 }
+{ 'name': 'superhero098', 'num_games': 3 }
+{ 'name': 'yonaltimur', 'num_games': 3 }
+{ 'name': 'dusanmunja_003', 'num_games': 3 }
+{ 'name': 'lance5500', 'num_games': 2 }
+{ 'name': 'chess-brahs', 'num_games': 2 }
+{ 'name': 'ranko898', 'num_games': 2 }
+{ 'name': 'tonoyanrob7', 'num_games': 2 }
+{ 'name': 'everybodylovesjesus', 'num_games': 2 }
+{ 'name': 'izzlanfarischess', 'num_games': 2 }
+{ 'name': 'thelordoftheboard', 'num_games': 2 }
+{ 'name': 'clarkkent89', 'num_games': 2 }
+{ 'name': 'mauornelas', 'num_games': 2 }
+{ 'name': 'federermagic01', 'num_games': 2 }
+{ 'name': 'grigorich', 'num_games': 2 }
+{ 'name': 'trexchess', 'num_games': 2 }
+{ 'name': 'barbacued', 'num_games': 2 }
+{ 'name': 'chessninja6', 'num_games': 2 }
+{ 'name': 'nesa10', 'num_games': 2 }
+{ 'name': 'ewigestalent', 'num_games': 2 }
+{ 'name': 'thebadfish', 'num_games': 2 }
+{ 'name': 'bdoq', 'num_games': 1 }
+{ 'name': 'peshkach', 'num_games': 1 }
+{ 'name': 'comped', 'num_games': 1 }
+{ 'name': 'zugaddict', 'num_games': 1 }
+{ 'name': 'happyspyros', 'num_games': 1 }
+{ 'name': 'donidali', 'num_games': 1 }
+{ 'name': 'jhoynnertello', 'num_games': 1 }
+{ 'name': 'ladratov', 'num_games': 1 }
+{ 'name': 'kazan2502', 'num_games': 1 }
+{ 'name': 'muemmelmann', 'num_games': 1 }
+{ 'name': 'mandre', 'num_games': 1 }
+{ 'name': 'ss96', 'num_games': 1 }
+{ 'name': 'dmitriy_duyun', 'num_games': 1 }
+{ 'name': 'amazo', 'num_games': 1 }
+{ 'name': 'sanmarcos', 'num_games': 1 }
+{ 'name': 'elysiantri', 'num_games': 1 }
+{ 'name': 'philosophorum', 'num_games': 1 }
+{ 'name': 'canibalchess', 'num_games': 1 }
+{ 'name': 'radiz', 'num_games': 1 }
+{ 'name': 'oldscout108', 'num_games': 1 }
+{ 'name': 'tomerari', 'num_games': 1 }
+{ 'name': 'maxwell_can', 'num_games': 1 }
+{ 'name': 'persian-golff', 'num_games': 1 }
+{ 'name': 'soultego', 'num_games': 1 }
+{ 'name': 'blacktundro', 'num_games': 1 }
+{ 'name': 'soosi98', 'num_games': 1 }
+{ 'name': 'emiliooo', 'num_games': 1 }
+{ 'name': 'gavrilinfamily', 'num_games': 1 }
+{ 'name': 'kian008', 'num_games': 1 }
+{ 'name': 'zihi', 'num_games': 1 }
+{ 'name': 'jagelka', 'num_games': 1 }
+{ 'name': 'knightvision-mtl', 'num_games': 1 }
+{ 'name': 'cesc7046', 'num_games': 1 }
+{ 'name': 'tops123', 'num_games': 1 }
+{ 'name': 'chess0158', 'num_games': 1 }
+{ 'name': 'naster1', 'num_games': 1 }
+{ 'name': 'pietro41youtube', 'num_games': 1 }
+{ 'name': 'arcann01', 'num_games': 1 }
+{ 'name': 'du_guitar', 'num_games': 1 }
+{ 'name': 'horse4203', 'num_games': 1 }
+{ 'name': 'aswer', 'num_games': 1 }
+{ 'name': 'decheni', 'num_games': 1 }
+{ 'name': 'elnmay587', 'num_games': 1 }
+{ 'name': 'chyvak', 'num_games': 1 }
+{ 'name': 'mouthpocketdevourer', 'num_games': 1 }
+{ 'name': 'teddyhh', 'num_games': 1 }
+{ 'name': 'stevan52', 'num_games': 1 }
+{ 'name': 'sayednaser', 'num_games': 1 }
+{ 'name': 'lcpchess', 'num_games': 1 }
+{ 'name': 'dsom1234', 'num_games': 1 }
+{ 'name': 'radhouanebourougaa', 'num_games': 1 }
+{ 'name': 'wtfhsyn', 'num_games': 1 }
+{ 'name': 'peppe505', 'num_games': 1 }
+{ 'name': 'cowcowcuw123', 'num_games': 1 }
+{ 'name': 'magnus_new', 'num_games': 1 }
+{ 'name': 'nik1579', 'num_games': 1 }
+{ 'name': 'menezeslucas', 'num_games': 1 }
+{ 'name': 'pensioner7', 'num_games': 1 }
+{ 'name': 'mate69', 'num_games': 1 }
+{ 'name': 'lider20149', 'num_games': 1 }
+{ 'name': 'indro4378', 'num_games': 1 }
+{ 'name': 'sameero', 'num_games': 1 }
+{ 'name': 'sansthecomic', 'num_games': 1 }
+{ 'name': 'ahiyad', 'num_games': 1 }
+{ 'name': 'asterakis', 'num_games': 1 }
+{ 'name': 'rjgdfksla', 'num_games': 1 }
+{ 'name': 'silentlucidity', 'num_games': 1 }
+{ 'name': 'smm1347', 'num_games': 1 }
+{ 'name': 'romius', 'num_games': 1 }
+{ 'name': 'carvaflu', 'num_games': 1 }
+{ 'name': 'wishiwasbetter', 'num_games': 1 }
+{ 'name': 'r_usiskin', 'num_games': 1 }
+{ 'name': 'pavlito83', 'num_games': 1 }
+{ 'name': 'lthiagos', 'num_games': 1 }
+{ 'name': 'racimov', 'num_games': 1 }
+{ 'name': 'parsichess', 'num_games': 1 }
+{ 'name': 'vahidmk', 'num_games': 1 }
+{ 'name': 'ankit_007', 'num_games': 1 }
+{ 'name': 'volodya51', 'num_games': 1 }
+{ 'name': 'luho', 'num_games': 1 }
+{ 'name': 'vlad3949', 'num_games': 1 }
+{ 'name': 'kells', 'num_games': 1 }
+{ 'name': 'solom_9005', 'num_games': 1 }
+{ 'name': 'jfthechessmaster', 'num_games': 1 }
+{ 'name': 'salientfact', 'num_games': 1 }
+{ 'name': 'martin1986', 'num_games': 1 }
+{ 'name': 'shongwesf', 'num_games': 1 }
+{ 'name': 'jtg2016', 'num_games': 1 }
+{ 'name': 'lupevi', 'num_games': 1 }
+{ 'name': 'midohazem', 'num_games': 1 }
+{ 'name': 'smalex', 'num_games': 1 }
+{ 'name': 'hussein1999', 'num_games': 1 }
+{ 'name': 'adamsandler', 'num_games': 1 }
+{ 'name': 'vinc123', 'num_games': 1 }
+{ 'name': 'racger', 'num_games': 1 }
+{ 'name': 'chittari', 'num_games': 1 }
+{ 'name': 'zorandjordje', 'num_games': 1 }
+{ 'name': 'artisom_2017', 'num_games': 1 }
+{ 'name': 'cozychess', 'num_games': 1 }
+{ 'name': 'lebeusz', 'num_games': 1 }
+{ 'name': 'mitchell82', 'num_games': 1 }
+{ 'name': 'habboush', 'num_games': 1 }
+{ 'name': 'marco753', 'num_games': 1 }
+{ 'name': 'fairygirl', 'num_games': 1 }
+{ 'name': 'pbjtraining', 'num_games': 1 }
+{ 'name': 'journey_to_nm', 'num_games': 1 }
+{ 'name': 'miro61', 'num_games': 1 }
+{ 'name': 'storm_100', 'num_games': 1 }
+{ 'name': 'shayanaghaie', 'num_games': 1 }
+{ 'name': 'ic1moveahead', 'num_games': 1 }
+{ 'name': 'handenursa', 'num_games': 1 }
+{ 'name': 'millmead', 'num_games': 1 }
+{ 'name': 'jonnyturgi', 'num_games': 1 }
+{ 'name': 'rezadianati', 'num_games': 1 }
+{ 'name': 'pertrossiann', 'num_games': 1 }
+{ 'name': 'chesspirate421', 'num_games': 1 }
+{ 'name': 'edo999_82', 'num_games': 1 }
+{ 'name': 'lexisvar', 'num_games': 1 }
+{ 'name': 'falkenauge', 'num_games': 1 }
+{ 'name': 'flavio2014', 'num_games': 1 }
+{ 'name': 'kurzeme', 'num_games': 1 }
+{ 'name': 'lerose', 'num_games': 1 }
+{ 'name': 'firas101', 'num_games': 1 }
+{ 'name': 'liv1990', 'num_games': 1 }
+{ 'name': 'kferapont', 'num_games': 1 }
+{ 'name': 'amayak', 'num_games': 1 }
+{ 'name': 'franco2000', 'num_games': 1 }
+{ 'name': 'mrencer', 'num_games': 1 }
+{ 'name': 'drawmeister2015', 'num_games': 1 }
+{ 'name': 'tareed', 'num_games': 1 }
+{ 'name': 'mas201414', 'num_games': 1 }
+{ 'name': 'karchess1516', 'num_games': 1 }
+{ 'name': 'anna6666', 'num_games': 1 }
+{ 'name': 'jackelperro65', 'num_games': 1 }
+{ 'name': 'alifarahi', 'num_games': 1 }
+{ 'name': 'georgym89', 'num_games': 1 }
+{ 'name': 'vturuz', 'num_games': 1 }
+{ 'name': 'position100', 'num_games': 1 }
+{ 'name': 'campenter1974', 'num_games': 1 }
+{ 'name': 'zabac', 'num_games': 1 }
+{ 'name': 'nebchess', 'num_games': 1 }
+{ 'name': 'inkognito001', 'num_games': 1 }
+{ 'name': 'muhammedbuba', 'num_games': 1 }
+{ 'name': 'chean63', 'num_games': 1 }
+{ 'name': 'darewing', 'num_games': 1 }
+{ 'name': 'maximuspro', 'num_games': 1 }
+{ 'name': 'anand888', 'num_games': 1 }
+{ 'name': 'wf', 'num_games': 1 }
+{ 'name': 'gg_easytobeatme_yt', 'num_games': 1 }
+{ 'name': 'chess_legend_rus', 'num_games': 1 }
+{ 'name': 'soltan1800', 'num_games': 1 }
+{ 'name': 'lyckyfisher', 'num_games': 1 }
+{ 'name': 'chilon', 'num_games': 1 }
+{ 'name': 'loebas', 'num_games': 1 }
+{ 'name': 'lebbeusz2450', 'num_games': 1 }
+
+
+4. Qual é o top 10 maiores ratings de jogadores de xadrez, ou seja, os 10 maiores ratings alcançados por jogadores)?
+
+{"rating": "2723", "id": "justicebot"}
+{"rating": "2621", "id": "lance5500"}
+{"rating": "2513", "id": "lexisvar"}
+{"rating": "2500", "id": "chess-stat"}
+{"rating": "2477", "id": "vovaches"}
+{"rating": "2474", "id": "amir2002zzz"}
+{"rating": "2469", "id": "amir2002zzz"}
+{"rating": "2469", "id": "falkenauge"}
+{"rating": "2465", "id": "amir2002zzz"}
+{"rating": "2464", "id": "amir2002zzz"}
+
+
+5. Quais são as várias maneiras para se usar a estratégia 'Italian Game' ?
+
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 d4 exd4 Nxd4 Nxd4 Qxd4 Qe7 O-O Nf6 Nc3 Qe5 Qxe5+ dxe5 Re1 Bd6 Rd1 O-O Nb5 Nxe4 Nxd6 cxd6 b3 Nc3 Rxd6 b5 Bd5 Nxd5 Rxd5 a6 Rxe5 f6 Rh5 Be6 Ba3 Rfe8 h3 Bf7 Rh4 Re2 Kf1 Rxc2 Rg4 Be6 Rg3 Rac8 Re3 Bf7 g4 a5 Ree1 a4 Rec1 Rxc1+ Rxc1 Rxc1+ Bxc1 axb3 axb3 Bxb3 Kg2 Bc4 f4 Kf7 Kf3 g6 Ke4 h5 f5 hxg4 hxg4 gxf5+ gxf5 Bb3 Ba3 Bc2+ Kf4 Kg7 Bb4 Ba4 Ke4 Bc2+ Kf4 Kf7 Kg4 Bd3 Kf4 Ke8 Kg4 Kd7 Kf4 Kc6 Be7 Kd5 Bxf6 b4 Bh4 Bxf5 Kxf5 b3 Bf6 Kc4 Ke4 Kb4 Kd3 Ka3 Kc4 b2 Bxb2+' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 d4 Bg4 dxe5 Nxe5 Be2 Qf6 Nxe5 Bxe2 Qxe2 dxe5 O-O Ne7 f4 exf4 Rxf4 Qb6+ Qe3 Ng6 Qxb6 cxb6 Rf1 Bc5+ Kh1 f6 Nc3 O-O b3 Bd4 Bb2 Rac8 Na4 Bxb2 Nxb2 Rxc2 Nc4 Re2 Rfe1 Rxe1+ Rxe1 Rc8 Nd6 Rc2 Nxb7 Rxa2 Rd1 h6 h3 Nf4 Rd8+ Kh7 Nd6 Rxg2 Nf5 Rg5 h4 Rg2 Rd7 Rg4 Rxa7 Ne2 Kh2 Rxe4 Rxg7+ Kh8 Rg6 Re6 Rxh6+ Kg8 Kh3 Kf7 h5 Re5 Rh7+ Kg8 Rg7+ Kh8 Kg4 Rxf5 Kxf5 Kxg7 h6+ Kxh6 Kxf6 Nd4 Ke5 Nxb3 Kd5 Kg7 Kc6 b5 Kxb5' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 O-O a6 c3 Be6 Qb3 Na5 Qa4+ Nc6 Bd5 b5 Bxc6+ Bd7 Bxd7+ Qxd7 Qb3 Be7 Re1 Nf6 d4 Ng4 h3 h5 dxe5 dxe5 hxg4 hxg4 Nxe5 Qe6 Qxe6 fxe6 Nxg4 O-O-O Bf4 Rh4 f3 Rdh8 Nd2 Rh1+ Kf2 Bc5+ Be3 R1h5 Bxc5 Rxc5 Rh1 Rf8 Rh7 Rd8 Nb3 Rc6 Rxg7 Kb7 Na5+ Kb6 Nxc6 Kxc6 Ke2 a5 a3 a4 Rd1 Rh8 Rg6 Re8 Rd4 Kc5 Ne5 b4 Rxb4 Kd6 Nc4+ Ke7 Rxa4 Kf7 Rg5' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 Nc3 Bg4 Nxe5 Nxe5 Bxf7+ Nxf7 f3 Be6 d4 h6 d5 Bd7 O-O c6 Be3 cxd5 Nxd5 Nf6 Re1 Be7 Nxf6+ Bxf6 Qd2 O-O Rad1 Bc6 Bd4 Qe7 Bxf6 Qxf6 Qe3 Rad8 f4 Qxb2 g4 Qxc2 Rd2 Qc5 Qxc5 dxc5 Rxd8 Rxd8 e5 Re8 e6 Nd6 f5 h5 g5 Nxf5 g6 Bd5 Rf1 Bxe6' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 Nh6 d4 exd4 Nxd4 Nxd4 Qxd4 c5 Qe5+ Be7 Bxh6 Qa5+ c3 O-O Qxg7#' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 Qf6 d3 Bc5 O-O g5 Nxg5 Nge7 Bxf7+ Kf8 Bb3 h6 Nf3 Rg8 Bxg8 Nxg8 Nc3 h5 Nd5 Qg6 Nh4 Qg7 Qf3+ Nf6 Nxf6 d6 Nxh5+ Qf7 Qxf7+ Kxf7 Ng3 Nd4 c3 Nc2 Rb1 Bg4 Kh1 Rh8 Nhf5 d5 exd5 e4 dxe4 Kf6 f3 Bxf5 Nxf5 Bd6 Nxd6 cxd6 Bf4 Rh4 Bg3 Rh5 Bf4 b5 Rbc1 Ke7 Rxc2 Kd7' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 Qe7 Nc3 Nd4 Nd5 Qc5 Nxe5 d6 b4 Nf3+ Qxf3 Qxd5 Bxd5 dxe5 Qxf7+ Kd8 Qxf8+ Kd7 Qxg7+ Ne7 Qxh8 Nxd5 exd5 Kd6 c4 Bf5 Qxa8' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 d4 h6 dxe5 dxe5 Qxd8+ Nxd8 Nxe5 Nf6 f3 Bd6 Nd3 O-O e5 Re8 f4 Nd7 Be3 Be7 Nd2 Nb6 Bb3 Bf5 Nf2 Nc6 g4 Bg6 a3 Bh4 O-O-O Bxf2 Bxf2 Rad8 Nf3 Rxd1+ Rxd1 Rd8 Rxd8+ Nxd8 f5 Bh7 Nd4 Nc6 Nxc6 bxc6 e6 fxe6 fxe6 Kf8 Bc5+ Ke8 Kd2 a5 Kc3 a4 Bxb6 axb3 Bxc7 bxc2 Bf4 Ke7 a4 Kxe6 a5 Kd7 a6 Kc8 b4 g5 Be3 Kb8 Kc4 Kc7 Kc5 Bg6 b5 cxb5 Kxb5 Be4 Kc4 c1=Q+ Bxc1 Kb6 Kd4 Bg6 Ke5 Kxa6 Kf6 Bc2 Kg7 Kb5 Kxh6 Kc5 Kxg5 Kd5 Kf6 Ke4 g5 Kf3 g6 Kg2 h4 Kg3 Bg5 Kg4 g7 Bb3 Ke7 Kh5 Kf8 Bc4 g8=Q Bxg8 Kxg8 Kg4 Kf7 Kh5 Kg7 Kg4 Kg6' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 Bd5 Nd4 Bc6+ bxc6 Nxd4 c5 Nf3 Nf6 d3 g5 Bxg5 a5 d4 d5 dxe5 dxe4 Bxf6 Be7 Qxd8+ Bxd8 Bxh8 exf3 O-O Kf8 Nd2 fxg2 Kxg2 Kg8 Bf6 Bxf6 exf6 Bb7+ Kg1 Ra6 Rfe1 Re6 Rxe6 fxe6 Re1 Bc8 Ne4 c4 b3 Ba6 Ng5 cxb3 f7+ Kg7 Rxe6 bxa2 Re1 Kg6 f8=Q Kxg5 Re5+ Kg6 Re6+ Kg5 Qf5+ Kxf5 Re1 c5 Kg2 Bb7+ Kg3 Kg5 f4+ Kf5 Ra1 Bd5 Rc1 h5 h4 a4 Re1 a3 Re5+ Kf6 Re1 Kf5' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 h3 Be6 Bxe6 fxe6 c3 d5 Qb3 Qe7 exd5 exd5 Qxd5 Rd8 Qe4 Qe6 O-O Nf6 Qe2 e4 Ng5 Qe5 Nxe4 Nxe4 Re1 Bd6 Qxe4 O-O Qxe5 Bxe5 d4 Bf6 Be3 g5 Nd2 Nxd4 Bxd4 Bxd4 cxd4 Rxd4 Nf3 Rd2 Nxd2' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 Qe7 d3 Nf6 Bg5 h6 Bxf6 Qxf6' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 Nc3 Bg4 h3 Bh5 g4 Bg6 d3 Nf6 Nh4 Nd4 Nxg6 hxg6 Be3 Qc8 Kd2 c6 Bxd4 exd4 Ne2 b5 Bb3 a5 a4 bxa4 Bxa4 Qb7 Kc1 Rb8 b3 Qb6 f4 Be7 Qg1 Kf8 Nxd4 c5 Nc6 Rc8 Nxe7 Kxe7 Qe1 Qb4 e5 Qxe1+ Rxe1 dxe5 Rxe5+ Kd6 Kb2 Nd5 c4 Nxf4 Re3 Rxh3 Rxh3 Nxh3 Re1 Nf2 Kc3 Nxg4 d4 cxd4+ Kxd4 Rc7 Rd1 Ke6 Re1+ Kd6 Rd1 Nf2 Rd2 Ng4 Ke4+ Kc5 Rd5+ Kb4 Rb5+ Kc3 Rxa5 f6 Kd5 f5 c5 f4 c6 f3 Rc5+ Kb2 Kd6 Rc8 c7 f2 Bb5 Nf6 Kc6 Ne8 Kd7 Rxc7+ Rxc7 Nxc7 Kxc7 Kxb3 Kd6 g5 Ke5 g6 Ke4 g4 Kf4 Kb4 Bf1 Kc3 Kxg4 Kd2 Kg5 Ke1 Ba6 f1=Q Bxf1 Kxf1 Kxg6' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 Bb4 c3 Bc5 b4 Bb6 d3 Nf6 Ng5 O-O Bxf7+ Kh8 Bd5 Nxd5 exd5 Ne7 Qh5 Nxd5 Qxh7#' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 c3 Bg4 Qb3 Qd7 Qxb7 Rb8 Qa6 Bxf3 gxf3 Rb6 Qa3 d5 Qa4 dxc4 Qxc4 Na5 Qe2 f5 Na3 Bxa3 bxa3 f4 d3 Ne7 c4 Rd6 Bd2 Nac6 Bb4 Nxb4 axb4 Rxd3 a4 O-O Qa2 Kh8 c5 Rxf3 Rd1 Qc6 Qe2 Ra3 Rg1 g6 f3 Re3 Qxe3 fxe3 h4 Qxa4 Ke2 Qxb4 Kxe3 Qxc5+ Ke2 Nc6 h5 Nd4+ Ke1 Nxf3+ Ke2 Qc2+ Rd2 Qxd2+ Kf1 Qe1+ Kg2 Nh4+ Kh3 Qxg1 hxg6 Rf3+ Kxh4 Qg3+ Kh5 hxg6+ Kh6 Qh4+ Kxg6 Qf6+ Kh5 Rh3+ Kg4 Qf3+ Kg5 Rg3+ Kh4 Qg4#' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 f6 Nc3 f5 d3 fxe4 Nxe4 Nd4 Nfg5 Be7 Nf7 Bb4+ c3 Nf6 Nxd8 Nxe4 dxe4 d5 Bxd5 Bc5 Qh5+ Kxd8 cxd4 Bxd4 O-O Rf8 Bg5+ Kd7 Qg4+ Ke8 Qh5+ Kd7 Qxh7 Kd6 Bb3 Bxf2+ Rxf2 Rxf2 Kxf2 Bg4 Qxg7 Kc5 Be7+ Kd4 Qxg4 Re8 Rd1#' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 Nc3 Nf6 d4 exd4 Nxd4 Nxe4 Nxe4 Nxd4 Qxd4 c5 Qc3 Qh4 Qd3 Bf5 Bd5 O-O-O Be3 Re8 Nxd6+ Bxd6 Qxf5+ Kc7 Qxf7+ Re7 Qf3 Qb4+ c3 Qxb2 O-O Qxc3 Bxb7 Be5 Qc6+ Kd8 Rad1+ Rd7 Qxd7#' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 d3 Nh6 h3 Na5 Bb5+ c6 Ba4 b5 Bb3 f6 c4 bxc4 dxc4 Qc7 O-O Be6 Na3 Rb8 Bd2 Be7 Rc1 Nxb3 axb3 O-O g4 Qb7 b4 a5 Qa4 axb4 Nb1 Nf7 c5 dxc5 Rxc5' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 Bd6 d4 exd4 Bxf7+ Kxf7 Ng5+ Kf8 Qf3+ Qf6 Qxf6+ Nxf6 f3 h6 Nh3 Bc5 Bf4 d6 a3 Bxh3 gxh3 g5 Bd2 Ne5 Rf1 Kg7 b4 Bb6 Bc1 a5 b5 c6 bxc6 bxc6 a4 Rhf8 Nd2 d5 Ba3 Rf7 exd5 Nxd5 Rb1 Rb8 Rb3 Ne3 c4 N5xc4 Nxc4 Nxc4 Ke2 d3+ Kxd3 Ne5+ Ke4 Nc4 Kd3 Nxa3 Rxa3 Rd8+ Ke2 Re7+ Re3 Rxe3+ Kf2' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 Bb4 O-O Nd4 Nxe5 Bc5 Nxf7 Qf6 c3 Nf3+ Qxf3 Qh4 d4 Bd6 e5 Bxe5 Nxh8 Qxh2#' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 Nc3 Nf6 d3 Bd7 Bg5 Qe7 Nd5 Qe6 Nxc7+ Kd8 Nxe6+ fxe6 Bxf6+ gxf6 d4 Nxd4 Nxd4 exd4 Qxd4 e5 Qd5 b5 Qxa8+ Bc8 Bxb5' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 Nge7 Ng5 h6 Nxf7' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 d3 Nf6 Ng5 d5 exd5 Nxd5 Qf3 h6 Qxf7#' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 Nc3 Bg4 h3 Bxf3 Qxf3 Be7 Qxf7+ Kd7 Be6#' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 Ng5 Nh6 Nf3 Be6 Bxe6 fxe6 d3 Nd4 Bxh6 gxh6 Nxd4 exd4 O-O Rg8 c3 Qg5 Qf3 O-O-O g3 e5 cxd4 exd4 Nd2 Qxd2 b3 a5 Rfd1 Qc3 Rdc1 Qb4 Rc2 c5' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 Nb4 Nxe5 d5 exd5 Nxd5 Bxd5 Qxd5 Nf3 Bd6 O-O Bg4 Qe1+ Ne7 Nc3 Qh5 Nd4 Qxh2#' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 Nc3 Bg4 h3 Bh5 Nxe5 Bxd1 Bxf7+ Ke7 Nd5#' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 Na5' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d5 exd5 Nb4 Bb5+ c6 dxc6 Bf5 d3 bxc6 Bc4 Be6 Bxe6 fxe6 Nxe5 Nf6 O-O Nd7 Nc4 Nc5 a3 Nbxd3 cxd3 Nxd3 Nc3 Nxc1 Qxd8+ Rxd8 Raxc1 g6 Rfe1 Bc5 Rxe6+ Be7 Rxc6 Bg5 Re1+ Be7 Rce6 Kf8 Rxe7 Rg8 Rxa7 h5 h3 g5 b4 g4 hxg4 hxg4 b5 Rh8 b6 Rh4 b7 g3 Ra8' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 O-O Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke8 Bxd5 Nd4 Qf7#' }
+{ 'moves': 'e4 Nc6 Bc4 e5 Nf3 d6 c3 Bg4 d4 Be7 Bd5 exd4 Bxc6+ bxc6 Qxd4 Bh5 Qxg7 Kd7 Qxh8 Bg6 Nbd2 Bf6 O-O Bxh8 Re1 d5 exd5 Bf6 c4 cxd5 cxd5 Bh4 Nc4 Qf6' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 f6 d4 Nge7 d5 Na5 Bb3 Nxb3 axb3 d6 Nh4 Ng6 Qh5 Kf7 Nxg6' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 O-O h6 c3 Bg4 h3 Bh5 d3 Nge7 Be3 a6 Nbd2 Qc8 Qb3 Na5 Qa4+ Nac6 d4 b5 Bxb5 axb5 Qxb5 Ra5 Qb3 Qb8 d5 Qxb3 axb3 Rxa1 Rxa1 Nd8 Ra7 c6 c4 f5 exf5 Nxf5 dxc6 Nxe3 fxe3' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 Bb4 c3 Bc5 d4 Be7 O-O Bh4 Nxh4 Qxh4 Re1 Nf6 dxe5 Qh5 exf6 Qxd1 Rxd1 d6 fxg7' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d5 Bxd5 Na5 Nxe5 c6 Bxf7+ Ke7 d4 Nf6 Bg5 h6 Bh4 g5 Bg3 Nh5 Bxh5 b5 Ng6+' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 O-O Be6 d3 Nf6 Bg5 Be7 b4 Nxb4 Nc3 d5 Bb5+ c6 Ba4 Bg4 Nxd5 Nfxd5 Bxe7 Qxe7 exd5 Nxd5 c4 Nc3 Qc2 Qa3 Nxe5 Nxa4 Nxg4 O-O d4 Rad8 Qe4 Rfe8 Qf5 Rxd4 Ne5 f6 Qe6+ Rxe6' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 Ng5 Qxg5 d4 Nxd4 Bxg5 Ne6 Bxe6 Bxe6 O-O h6 Bh4 g5 Bg3 O-O-O Qd3 Ne7 Qc3 Nc6 Na3 h5 h4 Be7 hxg5 h4 Bh2 Bxg5 Nb5 h3 gxh3 a6 Na3 Rxh3 f3 Rf8 Nc4 Rg8 Rfd1 Bf4+ Kf2 Rxh2+ Kf1 Bh3+ Ke1 Rg1#' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d5 Bxd5 Bg4 h3 Be6 Bxe6 fxe6 d3 Nf6 Nc3 Qe7 d4 exd4 Nxd4 Nxd4 Qxd4 c5 Qe5 b6 Nb5 Qb7 f3 Rd8 Qxe6+ Qe7 Nc7#' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 d3 Bg4 h3 Bxf3 Qxf3 f6 Qh5+ g6 Qg4 f5 exf5 Nf6 Qg5 h6 Qxg6+ Kd7 Be6+ Ke7 Qf7#' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 Na5 Bxf7+ Kxf7 Nxe5+ Ke8 Qh5+ g6 Nxg6 Nf6 Qxa5 Rg8 Qe5+ Be7 Nxe7 Ng4 Qh5+ Kxe7 Qxg4 Rxg4 h3 Rxe4+ Kf1 d6 d3 Rd4 Be3 Rd5 Nc3 Rh5 h4 Qd7 Re1 b6 f3 Bb7 g4 Re5 d4 Re6 d5 Ba6+ Kf2 Re5 f4 Rxe3 Rxe3+ Kf8 f5 c6 Rhe1 h5 Re7 Qxe7 Rxe7 Kxe7 g5 Rf8 f6+ Kf7 Ne4 Re8 Nxd6+ Kg6 Nxe8 Kf7 Nd6+ Kf8 f7 cxd5 g6 d4 Ne4 d3 cxd3 Bxd3 Nf6 Bxg6 Nd7+ Kxf7 Ne5+ Kf6 Nxg6 Kxg6 Kf3 Kf5 b3 a5 a3 b5 Kg3 Kg6 Kf4 Kf6 Ke4 Ke6 Kf4 b4 axb4 axb4 Kg5 Kd5 Kxh5 Kd4 Kg5 Kc3 h5 Kxb3 h6 Ka3 h7 b3 h8=Q b2 Qc3+ Ka2 Qc4+ Ka1 Qa4+ Kb1 Kf4 Kc1 Qc4+ Kb1 Ke3 Ka1 Kd2 b1=Q Qc3+ Ka2 Qc2+ Qxc2+ Kxc2' }
+{ 'moves': 'e4 e5 Nf3 Nc6 Bc4 d6 Nc3 Nf6 O-O Be7 d3 O-O Re1 Be6 Bxe6 fxe6 Bg5 Nd4 Bxf6 Nxf3+ Qxf3 Rxf6 Qh3 Qd7 Ne2 Raf8 f3 d5 Ng3 Rh6 Nh5 g6 Nf6+ Bxf6 Qxh6 dxe4 dxe4 Qd4+ Kh1 Qf2 Rac1 Bg7 Qh3 Rf4 Qxe6+ Kh8 Qc8+ Bf8 Qxc7 Rh4 h3 Rh5 Red1 Rg5 Rg1 Bc5 Qd8+' }
+
+
+6. O menor número de jogadas num jogo para dar 'Mate' e a respetiva estratégia. 
+
+{ 'jogadas': 4, 'strategy': 'Bird Opening' }
+
+
+7. Número de jogos desistidos pelos jogador com id 'daniel_likes_chess'. 
+
+{ 'games': 4 }
+
+
+8. Jogos com rating (rated) e que terminaram devido à falta de tempo de jogadores, com rating menor que 1800, com as peças brancas que aplicaram um estratégia relacionada com a 'Queen'. 
+
+{ 'white_player': {"rating": "1435", "id": "mohamedn"}, 'game_status': {"rated": "TRUE", "winner": "Black", "victory_status": "Out of Time", "turns": "52"}, 'black_player': {"rating": "2042", "id": "shakes"}, 'strategy': 'Queen's Pawn Game: Colle System' }
+{ 'white_player': {"rating": "1574", "id": "norevv"}, 'game_status': {"rated": "TRUE", "winner": "White", "victory_status": "Out of Time", "turns": "89"}, 'black_player': {"rating": "1562", "id": "chrisca408"}, 'strategy': 'Queen's Pawn Game: Colle System' }
+{ 'white_player': {"rating": "1696", "id": "gameboymaster49899"}, 'game_status': {"rated": "TRUE", "winner": "White", "victory_status": "Out of Time", "turns": "87"}, 'black_player': {"rating": "1515", "id": "explosivo"}, 'strategy': 'Queen's Gambit Declined: 4.Bg5 Be7' }
+{ 'white_player': {"rating": "1465", "id": "kaaaaakakaka"}, 'game_status': {"rated": "TRUE", "winner": "Draw", "victory_status": "Out of Time", "turns": "208"}, 'black_player': {"rating": "1449", "id": "fire7"}, 'strategy': 'Queen's Gambit Declined: Pseudo-Tarrasch Variation' }
+{ 'white_player': {"rating": "1447", "id": "poocasso"}, 'game_status': {"rated": "TRUE", "winner": "White", "victory_status": "Out of Time", "turns": "71"}, 'black_player': {"rating": "1479", "id": "ascential"}, 'strategy': 'Queen's Gambit Refused: Chigorin Defense |  Modern Gambit' }
+{ 'white_player': {"rating": "1020", "id": "rustam9"}, 'game_status': {"rated": "TRUE", "winner": "White", "victory_status": "Out of Time", "turns": "65"}, 'black_player': {"rating": "1200", "id": "cromanoide"}, 'strategy': 'Queen's Pawn Game: Zukertort Variation' }
+{ 'white_player': {"rating": "1375", "id": "oceannnn"}, 'game_status': {"rated": "TRUE", "winner": "White", "victory_status": "Out of Time", "turns": "3"}, 'black_player': {"rating": "1332", "id": "brorael357"}, 'strategy': 'Queen's Pawn Game: Zukertort Variation' }
+{ 'white_player': {"rating": "1646", "id": "fischerdipper"}, 'game_status': {"rated": "TRUE", "winner": "Black", "victory_status": "Out of Time", "turns": "2"}, 'black_player': {"rating": "1795", "id": "hooponopono"}, 'strategy': 'Queen's Pawn Game' }
+{ 'white_player': {"rating": "1369", "id": "piley159"}, 'game_status': {"rated": "TRUE", "winner": "Black", "victory_status": "Out of Time", "turns": "88"}, 'black_player': {"rating": "2070", "id": "ccg_tabiler"}, 'strategy': 'Queen's Pawn Game: Chigorin Variation' }
+{ 'white_player': {"rating": "1421", "id": "bilalbilal"}, 'game_status': {"rated": "TRUE", "winner": "White", "victory_status": "Out of Time", "turns": "69"}, 'black_player': {"rating": "1347", "id": "kingcrazy99"}, 'strategy': 'Queen's Gambit Refused: Marshall Defense' }
+{ 'white_player': {"rating": "1529", "id": "kyanh"}, 'game_status': {"rated": "TRUE", "winner": "Draw", "victory_status": "Out of Time", "turns": "148"}, 'black_player': {"rating": "1763", "id": "fivetimes"}, 'strategy': 'Queen's Pawn Game: Mason Attack' }
+{ 'white_player': {"rating": "1125", "id": "rewuyd"}, 'game_status': {"rated": "TRUE", "winner": "White", "victory_status": "Out of Time", "turns": "119"}, 'black_player': {"rating": "1124", "id": "jdy"}, 'strategy': 'Queen's Pawn Game: Mason Attack' }
+{ 'white_player': {"rating": "1696", "id": "tarantint"}, 'game_status': {"rated": "TRUE", "winner": "Black", "victory_status": "Out of Time", "turns": "76"}, 'black_player': {"rating": "1629", "id": "jdimojc"}, 'strategy': 'Queen's Pawn' }
+{ 'white_player': {"rating": "1334", "id": "hugues2908"}, 'game_status': {"rated": "TRUE", "winner": "White", "victory_status": "Out of Time", "turns": "73"}, 'black_player': {"rating": "1183", "id": "berlin64"}, 'strategy': 'Queen's Pawn' }
+{ 'white_player': {"rating": "1687", "id": "ilkerk"}, 'game_status': {"rated": "TRUE", "winner": "White", "victory_status": "Out of Time", "turns": "107"}, 'black_player': {"rating": "1717", "id": "saviter"}, 'strategy': 'Queen's Gambit Declined: Traditional Variation' }
+{ 'white_player': {"rating": "1579", "id": "juliiiiien"}, 'game_status': {"rated": "TRUE", "winner": "Black", "victory_status": "Out of Time", "turns": "66"}, 'black_player': {"rating": "1664", "id": "saeed65"}, 'strategy': 'Queen's Gambit Accepted: Old Variation' }
+{ 'white_player': {"rating": "1746", "id": "avelez8"}, 'game_status': {"rated": "TRUE", "winner": "White", "victory_status": "Out of Time", "turns": "137"}, 'black_player': {"rating": "1487", "id": "frynoodles"}, 'strategy': 'Queen's Gambit Accepted: Old Variation' }
+{ 'white_player': {"rating": "1299", "id": "marcuslavour"}, 'game_status': {"rated": "TRUE", "winner": "Black", "victory_status": "Out of Time", "turns": "48"}, 'black_player': {"rating": "1583", "id": "potatietots"}, 'strategy': 'Queen's Pawn Game #2' }
+{ 'white_player': {"rating": "1433", "id": "andyfi"}, 'game_status': {"rated": "TRUE", "winner": "Black", "victory_status": "Out of Time", "turns": "118"}, 'black_player': {"rating": "1737", "id": "saviter"}, 'strategy': 'Queen's Pawn Game #2' }
+{ 'white_player': {"rating": "1331", "id": "patrizio67"}, 'game_status': {"rated": "TRUE", "winner": "White", "victory_status": "Out of Time", "turns": "53"}, 'black_player': {"rating": "1281", "id": "taranga"}, 'strategy': 'Queen's Pawn Game #3' }
+{ 'white_player': {"rating": "1763", "id": "riki2"}, 'game_status': {"rated": "TRUE", "winner": "White", "victory_status": "Out of Time", "turns": "53"}, 'black_player': {"rating": "1358", "id": "hus1972"}, 'strategy': 'Queen's Pawn Game #3' }
+{ 'white_player': {"rating": "1611", "id": "nadanadora"}, 'game_status': {"rated": "TRUE", "winner": "Black", "victory_status": "Out of Time", "turns": "72"}, 'black_player': {"rating": "1945", "id": "xtreh"}, 'strategy': 'Queen's Gambit Declined: Semi-Tarrasch |  San Sebastian Variation' }
+{ 'white_player': {"rating": "1718", "id": "jovan_kingofkings"}, 'game_status': {"rated": "TRUE", "winner": "Black", "victory_status": "Out of Time", "turns": "84"}, 'black_player': {"rating": "1587", "id": "dimanov"}, 'strategy': 'Queen's Pawn Game: Chigorin Variation' }
+{ 'white_player': {"rating": "1152", "id": "piley159"}, 'game_status': {"rated": "TRUE", "winner": "Draw", "victory_status": "Out of Time", "turns": "123"}, 'black_player': {"rating": "1162", "id": "ahl57"}, 'strategy': 'Queen's Gambit Accepted' }
+
+
+9. Número de jogos que usaram o movimento 'Roque' (O-O) de jogadores de peças brancas com rating entre 1500 e 1800. 
+
+{ 'num_Roque': 27938 }
+
+
+10. Jogador de peças pretas e o número de jogos desse jogador onde ganhou o jogo utilizando o seguinte movimento: Qg7. 
+
+{ 'player': 'jakubsagitario17', 'games': 135 }
+{ 'player': 'brandonbos', 'games': 135 }
+{ 'player': 'doraemon61', 'games': 127 }
+{ 'player': 'axelpro446', 'games': 85 }
+{ 'player': 'aidenleahycrooks', 'games': 56 }
+{ 'player': 'king5891', 'games': 55 }
+{ 'player': 'mrphaseolusvulgaris', 'games': 42 }
+{ 'player': 'gmanderson', 'games': 40 }
+{ 'player': 'doom12384', 'games': 35 }
+{ 'player': 'rps_1899', 'games': 33 }
+{ 'player': 'xxofficialmasterxx', 'games': 32 }
+{ 'player': 'canexd', 'games': 28 }
+{ 'player': 'thegreatman06', 'games': 26 }
+{ 'player': 'shivangithegenius', 'games': 21 }
+{ 'player': 'sollids', 'games': 21 }
+{ 'player': 'piley159', 'games': 21 }
+{ 'player': 'chess_king3', 'games': 20 }
+{ 'player': 'magnus_dong', 'games': 20 }
+{ 'player': 'saviter', 'games': 19 }
+{ 'player': 'toni4127', 'games': 18 }
+{ 'player': 'poocasso', 'games': 17 }
+{ 'player': 'businessman47', 'games': 16 }
+{ 'player': 'barrow-wight', 'games': 15 }
+{ 'player': 'hus1972', 'games': 15 }
+{ 'player': 'nadanadora', 'games': 15 }
+{ 'player': 'mobin1388', 'games': 13 }
+{ 'player': 'amir2002zzz', 'games': 13 }
+{ 'player': 'mrzoom47', 'games': 13 }
+{ 'player': 'crax_is_bax', 'games': 12 }
+{ 'player': 'honza7', 'games': 12 }
+{ 'player': 'glzrchess', 'games': 12 }
+{ 'player': 'brahim333', 'games': 12 }
+{ 'player': 'hick4u1219', 'games': 12 }
+{ 'player': 'run5k', 'games': 12 }
+{ 'player': 's-a', 'games': 11 }
+{ 'player': 'masterzyd', 'games': 11 }
+{ 'player': 'hill_j', 'games': 11 }
+{ 'player': 'jovan_kingofkings', 'games': 11 }
+{ 'player': 'meccanoidg15', 'games': 11 }
+{ 'player': 'potatietots', 'games': 10 }
+{ 'player': 'fandm-lancaster', 'games': 10 }
+{ 'player': 'theblairloggie', 'games': 10 }
+{ 'player': 'danielgraham88', 'games': 10 }
+{ 'player': 'jesteroz', 'games': 10 }
+{ 'player': 'tfeng', 'games': 10 }
+{ 'player': 'rembrandt16', 'games': 10 }
+{ 'player': 'ecstasydrug', 'games': 10 }
+{ 'player': 'bekzodjon', 'games': 10 }
+{ 'player': 'chesscarl', 'games': 9 }
+{ 'player': 'hasan_al-banna', 'games': 9 }
+{ 'player': 'a_p_t_e_m_u_u', 'games': 9 }
+{ 'player': 'thelostunicorn', 'games': 9 }
+{ 'player': 'kaushik007', 'games': 9 }
+{ 'player': 'szachysta', 'games': 9 }
+{ 'player': 'brorael357', 'games': 8 }
+{ 'player': 'oldpaths', 'games': 8 }
+{ 'player': 'scorchedturf', 'games': 8 }
+{ 'player': 'kevchod', 'games': 8 }
+{ 'player': 'pal2310', 'games': 8 }
+{ 'player': 'taranga', 'games': 8 }
+{ 'player': 'razzzzy', 'games': 8 }
+{ 'player': 'amateur_pawn_star', 'games': 8 }
+{ 'player': 'trrrrillionaire', 'games': 8 }
+{ 'player': 'cracking12345', 'games': 8 }
+{ 'player': 'posra', 'games': 7 }
+{ 'player': 'nicholas9999', 'games': 7 }
+{ 'player': 'joe-brown', 'games': 7 }
+{ 'player': 'hash_13-chess', 'games': 7 }
+{ 'player': 'total_chess', 'games': 6 }
+{ 'player': 'cookieblake', 'games': 6 }
+{ 'player': 'carlosamadorsanchez', 'games': 6 }
+{ 'player': 'theanonymousone', 'games': 6 }
+{ 'player': 'sharkey101', 'games': 6 }
+{ 'player': 'ranchowangdu', 'games': 6 }
+{ 'player': 'cnopm', 'games': 6 }
+{ 'player': 'janfrode', 'games': 6 }
+{ 'player': 'arsenelupin1620', 'games': 6 }
+{ 'player': 'roman12342005', 'games': 6 }
+{ 'player': 'jdy', 'games': 6 }
+{ 'player': 'quantummequanic', 'games': 6 }
+{ 'player': 'odxaan', 'games': 6 }
+{ 'player': 'jota2016', 'games': 6 }
+{ 'player': 'tijocoarriba', 'games': 6 }
+{ 'player': 'smartduckduckcow', 'games': 6 }
+{ 'player': 'iv11', 'games': 6 }
+{ 'player': 'krillnor', 'games': 6 }
+{ 'player': 'jjplayz', 'games': 6 }
+{ 'player': 'efer003', 'games': 6 }
+{ 'player': 'leclochard', 'games': 6 }
+{ 'player': 'hartonorahman', 'games': 6 }
+{ 'player': 'sale0706', 'games': 6 }
+{ 'player': 'ardacankurt', 'games': 6 }
+{ 'player': 'ldavis33', 'games': 6 }
+{ 'player': 'febozn', 'games': 6 }
+{ 'player': 'vinxitv', 'games': 6 }
+{ 'player': 'islam01', 'games': 6 }
+{ 'player': 'izzlanfarischess', 'games': 5 }
+{ 'player': 'lcover', 'games': 5 }
+{ 'player': 'chicago_chess', 'games': 5 }
+{ 'player': 'b-max211', 'games': 5 }
+{ 'player': 'ethan_3f', 'games': 5 }
+{ 'player': 'seciyeli', 'games': 5 }
+{ 'player': 'egor-220', 'games': 5 }
+{ 'player': 'oso_bucholz', 'games': 5 }
+{ 'player': 'fischerdipper', 'games': 5 }
+{ 'player': 'jutton1', 'games': 5 }
+{ 'player': 'blazingdragon', 'games': 4 }
+{ 'player': 'poetrunner', 'games': 4 }
+{ 'player': 'darkknight11111', 'games': 4 }
+{ 'player': 'ri_chess', 'games': 4 }
+{ 'player': 'betweentwopawns', 'games': 4 }
+{ 'player': 'bobc', 'games': 4 }
+{ 'player': 'masseik', 'games': 4 }
+{ 'player': 'dunker62', 'games': 4 }
+{ 'player': 'rfabian', 'games': 4 }
+{ 'player': 'draaier', 'games': 4 }
+{ 'player': 'vikwww', 'games': 4 }
+{ 'player': 'zzhdan', 'games': 4 }
+{ 'player': 'poshgirl', 'games': 4 }
+{ 'player': 'kshaz', 'games': 4 }
+{ 'player': 'gyovanne_br', 'games': 4 }
+{ 'player': 'josepoliutla', 'games': 4 }
+{ 'player': 'seif22', 'games': 4 }
+{ 'player': 'sergik91', 'games': 4 }
+{ 'player': 'beingamin', 'games': 4 }
+{ 'player': 'antony056', 'games': 4 }
+{ 'player': 'krluch', 'games': 4 }
+{ 'player': 'franxisco', 'games': 4 }
+{ 'player': 'samuelpro', 'games': 4 }
+{ 'player': 'loliponche', 'games': 4 }
+{ 'player': 'vishuvishu', 'games': 4 }
+{ 'player': 'siggicv8', 'games': 4 }
+{ 'player': 'quintinator', 'games': 4 }
+{ 'player': 'rainbowstream', 'games': 4 }
+{ 'player': 'kurtbusch', 'games': 4 }
+{ 'player': 'fingers33', 'games': 4 }
+{ 'player': 'blazingheart', 'games': 4 }
+{ 'player': 'qball', 'games': 4 }
+{ 'player': 'darlibank', 'games': 4 }
+{ 'player': 'hft', 'games': 4 }
+{ 'player': 'olga1941', 'games': 4 }
+{ 'player': 'glonnee', 'games': 4 }
+{ 'player': 'lolrager', 'games': 4 }
+{ 'player': 'avelez8', 'games': 4 }
+{ 'player': 'eideral', 'games': 4 }
+{ 'player': 'tabellaria', 'games': 4 }
+{ 'player': 'jayblackington', 'games': 4 }
+{ 'player': 'ammanian', 'games': 4 }
+{ 'player': 'amsou', 'games': 4 }
+{ 'player': 'pankr', 'games': 4 }
+{ 'player': 'minecraftbook', 'games': 4 }
+{ 'player': 'sneaky_bugger', 'games': 3 }
+{ 'player': 'bobbyevans', 'games': 3 }
+{ 'player': 'isachess', 'games': 3 }
+{ 'player': 'dahabi', 'games': 3 }
+{ 'player': 'hamed1234', 'games': 3 }
+{ 'player': 'prabhatkumar', 'games': 3 }
+{ 'player': 'mrkam977', 'games': 3 }
+{ 'player': 'aliagha18', 'games': 3 }
+{ 'player': '1111112222', 'games': 3 }
+{ 'player': 'rharlem', 'games': 3 }
+{ 'player': 'dantesmontecristo', 'games': 3 }
+{ 'player': 'faisal_khan', 'games': 3 }
+{ 'player': 'nuntiatusknight', 'games': 3 }
+{ 'player': 'rookie1993', 'games': 3 }
+{ 'player': 'stve400231', 'games': 3 }
+{ 'player': 'felipenestor01', 'games': 3 }
+{ 'player': 'skulll1', 'games': 3 }
+{ 'player': 'juncinmestrella', 'games': 3 }
+{ 'player': 'ddd12345', 'games': 3 }
+{ 'player': 'skryvladimir', 'games': 3 }
+{ 'player': 'vishalvasans1', 'games': 3 }
+{ 'player': 'romannissan87', 'games': 3 }
+{ 'player': 'anastasia_333', 'games': 3 }
+{ 'player': 'revod', 'games': 3 }
+{ 'player': 'everhahue', 'games': 3 }
+{ 'player': 'alkeal', 'games': 3 }
+{ 'player': 'philiveykk', 'games': 3 }
+{ 'player': 'rodelitobrazal', 'games': 3 }
+{ 'player': 'creeks', 'games': 3 }
+{ 'player': 'chrisca408', 'games': 3 }
+{ 'player': 'briguy86', 'games': 3 }
+{ 'player': 'at70', 'games': 3 }
+{ 'player': 'driesronsse', 'games': 3 }
+{ 'player': 'shahimuramato', 'games': 3 }
+{ 'player': 'dac23', 'games': 3 }
+{ 'player': 'fi2506', 'games': 3 }
+{ 'player': 'part74', 'games': 3 }
+{ 'player': 'scorpion2248', 'games': 3 }
+{ 'player': 'ahm7777', 'games': 3 }
+{ 'player': 'achikotetunashvili', 'games': 3 }
+{ 'player': 'indonesia8210', 'games': 3 }
+{ 'player': 'whiskeyinthejar', 'games': 3 }
+{ 'player': 'misfox', 'games': 3 }
+{ 'player': 'borbapvb', 'games': 3 }
+{ 'player': 'tolia', 'games': 3 }
+{ 'player': 'derya-66', 'games': 3 }
+{ 'player': 'luupuus', 'games': 3 }
+{ 'player': 'maxsacl', 'games': 3 }
+{ 'player': 'marcoajedrez', 'games': 3 }
+{ 'player': 'romanozvj', 'games': 3 }
+{ 'player': 'penber', 'games': 3 }
+{ 'player': 'varujan1', 'games': 3 }
+{ 'player': 'dimanov', 'games': 3 }
+{ 'player': 'dmitriy_pskov', 'games': 3 }
+{ 'player': 'tjuafu', 'games': 3 }
+{ 'player': 'brainsurgery', 'games': 3 }
+{ 'player': 'alwayscheckmated', 'games': 3 }
+{ 'player': 'papinii', 'games': 3 }
+{ 'player': 'acadakic', 'games': 3 }
+{ 'player': 'kaoruko', 'games': 3 }
+{ 'player': 'federico16', 'games': 3 }
+{ 'player': 'mikiduda', 'games': 3 }
+{ 'player': 'masoud10', 'games': 3 }
+{ 'player': 'alexander1974', 'games': 3 }
+{ 'player': 'littlekitty83', 'games': 3 }
+{ 'player': 'sp37578', 'games': 3 }
+{ 'player': 'yorgi53', 'games': 3 }
+{ 'player': 'edenshaul', 'games': 3 }
+{ 'player': 'lucifersgod', 'games': 3 }
+{ 'player': 'mohammad1361', 'games': 3 }
+{ 'player': 'hary_husic', 'games': 3 }
+{ 'player': 'muratbogurcu', 'games': 3 }
+{ 'player': 'beshoysam1', 'games': 3 }
+{ 'player': 'bigsukay', 'games': 3 }
+{ 'player': 'loveotsuu', 'games': 3 }
+{ 'player': 'intrepido', 'games': 3 }
+{ 'player': 'dan4ik941', 'games': 3 }
+{ 'player': 'lkasperbauer', 'games': 3 }
+{ 'player': 'mathhopper', 'games': 3 }
+{ 'player': 'kingcrazy99', 'games': 3 }
+{ 'player': 'saeed65', 'games': 3 }
+{ 'player': 'dragonstar1738', 'games': 3 }
+{ 'player': 'sualan', 'games': 3 }
+{ 'player': 'vanz123', 'games': 3 }
+{ 'player': 'c4ue', 'games': 3 }
+{ 'player': 'temi4', 'games': 3 }
+{ 'player': 'safin_241', 'games': 3 }
+{ 'player': 'batanov0949', 'games': 3 }
+{ 'player': 'zubairali', 'games': 3 }
+{ 'player': 'jonjic', 'games': 3 }
+{ 'player': 'epicchess66', 'games': 3 }
+{ 'player': 'batdk59', 'games': 3 }
+{ 'player': 'psicox', 'games': 3 }
+{ 'player': 'tajbo4', 'games': 3 }
+{ 'player': 'patimonin', 'games': 3 }
+{ 'player': 'ivica014', 'games': 3 }
+{ 'player': 'nirmalsoni', 'games': 3 }
+{ 'player': 'nikolay4', 'games': 3 }
+{ 'player': 'alnimur', 'games': 3 }
+{ 'player': 'pepitoaje', 'games': 3 }
+{ 'player': 'perumanta', 'games': 3 }
+{ 'player': 'iwannabelikemike', 'games': 3 }
+{ 'player': 'kiumars', 'games': 3 }
+{ 'player': 'ngykly94', 'games': 3 }
+{ 'player': 'penguin100', 'games': 3 }
+{ 'player': 'terrano', 'games': 3 }
+{ 'player': 'userx100', 'games': 3 }
+{ 'player': 'ins0mn1a', 'games': 3 }
+{ 'player': 'dude_perfect', 'games': 3 }
+{ 'player': 'tscheezel', 'games': 2 }
+{ 'player': 'dct94', 'games': 2 }
+{ 'player': 'thesmallbang', 'games': 2 }
+{ 'player': 'surya9415', 'games': 2 }
+{ 'player': 'gideoni', 'games': 2 }
+{ 'player': 'jfuzzell', 'games': 2 }
+{ 'player': 'nevrotic', 'games': 2 }
+{ 'player': 'slam_ment', 'games': 2 }
+{ 'player': 'patroclos1936', 'games': 2 }
+{ 'player': 'castro830', 'games': 2 }
+{ 'player': 'vikrant_dalvi', 'games': 2 }
+{ 'player': 'joshcholfc', 'games': 2 }
+{ 'player': 'amin99', 'games': 2 }
+{ 'player': 'djg58', 'games': 2 }
+{ 'player': 'ottomayor', 'games': 2 }
+{ 'player': 'ukrnoob', 'games': 2 }
+{ 'player': 'bilbobaggins999', 'games': 2 }
+{ 'player': 'willdaplum', 'games': 2 }
+{ 'player': 'slon-al', 'games': 2 }
+{ 'player': 'lacrome', 'games': 2 }
+{ 'player': 'hugues2908', 'games': 2 }
+{ 'player': 'paavel02', 'games': 2 }
+{ 'player': 'thegrim123321', 'games': 2 }
+{ 'player': 'knight602', 'games': 2 }
+{ 'player': 'vanquil', 'games': 2 }
+{ 'player': 'leoferri007', 'games': 2 }
+{ 'player': 'crushmik', 'games': 2 }
+{ 'player': 'fr77127', 'games': 2 }
+{ 'player': 'cozychess', 'games': 2 }
+{ 'player': 'cktopshot2', 'games': 2 }
+{ 'player': 'raubstein', 'games': 2 }
+{ 'player': 'marlowe43', 'games': 2 }
+{ 'player': 'velihiljainen', 'games': 2 }
+{ 'player': 'euler_jr', 'games': 2 }
+{ 'player': 'pavlove1986', 'games': 2 }
+{ 'player': 'iris_foxspring', 'games': 2 }
+{ 'player': 'vladimir_shindin', 'games': 2 }
+{ 'player': 'serg0901', 'games': 2 }
+{ 'player': 'hghharsh', 'games': 2 }
+{ 'player': 'b3nszy', 'games': 2 }
+{ 'player': 'fiksse', 'games': 2 }
+{ 'player': 'plovediv_69', 'games': 2 }
+{ 'player': 'anotherchessplayer1', 'games': 2 }
+{ 'player': 'dbmcdonald', 'games': 2 }
+{ 'player': 'sigi1', 'games': 2 }
+{ 'player': 'lev_chistov62', 'games': 2 }
+{ 'player': 'greenpeace48', 'games': 2 }
+{ 'player': 'eucliides', 'games': 2 }
+{ 'player': 'polasara', 'games': 2 }
+{ 'player': 'psogden2', 'games': 2 }
+{ 'player': 'danielmagalhaes', 'games': 2 }
+{ 'player': 'cadmos16', 'games': 2 }
+{ 'player': 'kaji_djagal', 'games': 2 }
+{ 'player': 'mimelam', 'games': 2 }
+{ 'player': 'jpadron19', 'games': 2 }
+{ 'player': 'mjlcrow', 'games': 2 }
+{ 'player': 'mustangsally', 'games': 2 }
+{ 'player': 'will_sun', 'games': 2 }
+{ 'player': 'gauravchawla691', 'games': 2 }
+{ 'player': 'vasily61', 'games': 2 }
+{ 'player': 'wattar', 'games': 2 }
+{ 'player': 'bionivek', 'games': 2 }
+{ 'player': 'cilentano002', 'games': 2 }
+{ 'player': 'hacha', 'games': 2 }
+{ 'player': 'lukyin', 'games': 2 }
+{ 'player': 'martinpopote', 'games': 2 }
+{ 'player': 'vikowski', 'games': 2 }
+{ 'player': 'landscaping123', 'games': 2 }
+{ 'player': 'grandmasterblr', 'games': 2 }
+{ 'player': 'christina-a-11', 'games': 2 }
+{ 'player': 'ducksandcats', 'games': 2 }
+{ 'player': 'chesstime107', 'games': 2 }
+{ 'player': 'siindbad', 'games': 2 }
+{ 'player': 'bloonfreakster', 'games': 2 }
+{ 'player': 'kerboodle', 'games': 2 }
+{ 'player': 'vfhfnvfhfn22', 'games': 2 }
+{ 'player': 'chiesu', 'games': 2 }
+{ 'player': 'rnold85', 'games': 2 }
+{ 'player': 'pasha1991', 'games': 2 }
+{ 'player': 'zenith-bjb', 'games': 2 }
+{ 'player': 'shakes', 'games': 2 }
+{ 'player': 'aynurr08', 'games': 2 }
+{ 'player': 'behrooz36tehran', 'games': 2 }
+{ 'player': 'richardtrumpet', 'games': 2 }
+{ 'player': 'gennadiy1985', 'games': 2 }
+{ 'player': 'turix', 'games': 2 }
+{ 'player': 'gui645', 'games': 2 }
+{ 'player': 'velkymatko', 'games': 2 }
+{ 'player': 'safran25', 'games': 2 }
+{ 'player': 'rufous', 'games': 2 }
+{ 'player': 'basaew', 'games': 2 }
+{ 'player': 'msdjovanov', 'games': 2 }
+{ 'player': 'mr_pablo', 'games': 2 }
+{ 'player': 'sorethea', 'games': 2 }
+{ 'player': 'omarscharf', 'games': 2 }
+{ 'player': 'halidov', 'games': 2 }
+{ 'player': 'myer', 'games': 2 }
+{ 'player': 'baebraham', 'games': 2 }
+{ 'player': 'nik99', 'games': 2 }
+{ 'player': 'shijima220', 'games': 2 }
+{ 'player': 'dambrosio1971', 'games': 2 }
+{ 'player': 'jmt1112', 'games': 2 }
+{ 'player': 'jacknocler', 'games': 2 }
+{ 'player': 'lc777', 'games': 2 }
+{ 'player': 'retsamdnargeht', 'games': 2 }
+{ 'player': 'totalitarizm', 'games': 2 }
+{ 'player': 'guilherme1983', 'games': 2 }
+{ 'player': 'adhen', 'games': 2 }
+{ 'player': 'spdchi', 'games': 2 }
+{ 'player': 'cantaloop', 'games': 2 }
+{ 'player': 'willisand', 'games': 2 }
+{ 'player': 'niftyleopard', 'games': 2 }
+{ 'player': 'williamyen', 'games': 2 }
+{ 'player': 'marinho797', 'games': 1 }
+{ 'player': 'rostfrei', 'games': 1 }
+{ 'player': 'husref', 'games': 1 }
+{ 'player': 'danilasobolev', 'games': 1 }
+{ 'player': 'tousfa', 'games': 1 }
+{ 'player': 'per1966', 'games': 1 }
+{ 'player': 'tankez0r', 'games': 1 }
+{ 'player': 'abiyogenez', 'games': 1 }
+{ 'player': 'cek-in', 'games': 1 }
+{ 'player': 'polydoro', 'games': 1 }
+{ 'player': 'suhamdi_bungo', 'games': 1 }
+{ 'player': 'monody', 'games': 1 }
+{ 'player': 'koljan', 'games': 1 }
+{ 'player': 'acrossimpact', 'games': 1 }
+{ 'player': 'darkclassic', 'games': 1 }
+{ 'player': 'jubei', 'games': 1 }
+{ 'player': 'riccovieira', 'games': 1 }
+{ 'player': 'fernanvm', 'games': 1 }
+{ 'player': 'balkarec', 'games': 1 }
+{ 'player': 'reda2345', 'games': 1 }
+{ 'player': 'piroz_xucestih', 'games': 1 }
+{ 'player': 'euazama', 'games': 1 }
+{ 'player': 'episode', 'games': 1 }
+{ 'player': 'askesis', 'games': 1 }
+{ 'player': 'lightningviper', 'games': 1 }
+{ 'player': 'lorenzoberv', 'games': 1 }
+{ 'player': 'ykosta', 'games': 1 }
+{ 'player': 'virusxx4', 'games': 1 }
+{ 'player': 'ivangonzalez123', 'games': 1 }
+{ 'player': 'sassenach2', 'games': 1 }
+{ 'player': 'antoniusblock76', 'games': 1 }
+{ 'player': 'andersongot', 'games': 1 }
+{ 'player': 'kurozhawa', 'games': 1 }
+{ 'player': 'checkcheckcheckmate', 'games': 1 }
+{ 'player': 'georgebaker', 'games': 1 }
+{ 'player': 'ruma1703', 'games': 1 }
+{ 'player': 'jjwrchess', 'games': 1 }
+{ 'player': 'centuri', 'games': 1 }
+{ 'player': 'argrishin', 'games': 1 }
+{ 'player': 'eugeniobarros', 'games': 1 }
+{ 'player': 'paulrizzi', 'games': 1 }
+{ 'player': 'iamasd1', 'games': 1 }
+{ 'player': 'spiran', 'games': 1 }
+{ 'player': 'superhero098', 'games': 1 }
+{ 'player': 'quantumbear', 'games': 1 }
+{ 'player': 'jgod', 'games': 1 }
+{ 'player': 'ismaelsilva', 'games': 1 }
+{ 'player': 'henrique17', 'games': 1 }
+{ 'player': 'journey_to_nm', 'games': 1 }
+{ 'player': 'stryker2202', 'games': 1 }
+{ 'player': 'mnawdirqifuat', 'games': 1 }
+{ 'player': 'kyanh', 'games': 1 }
+{ 'player': 'mijndochterenik2151', 'games': 1 }
+{ 'player': 'prabhakarchand1', 'games': 1 }
+{ 'player': 'mirco25', 'games': 1 }
+{ 'player': 'shiyasph', 'games': 1 }
+{ 'player': 'newfisher', 'games': 1 }
+{ 'player': 'rerecursing', 'games': 1 }
+{ 'player': 'hadikhaksary', 'games': 1 }
+{ 'player': 'grouchom', 'games': 1 }
+{ 'player': 'melihmetin', 'games': 1 }
+{ 'player': 'fumbler', 'games': 1 }
+{ 'player': 'marshallow', 'games': 1 }
+{ 'player': 'kcramsib', 'games': 1 }
+{ 'player': 'a_th-19', 'games': 1 }
+{ 'player': 'martinfoxdale', 'games': 1 }
+{ 'player': 'justlin', 'games': 1 }
+{ 'player': 'sudo_ybmt', 'games': 1 }
+{ 'player': 'superevans', 'games': 1 }
+{ 'player': 'ramannam', 'games': 1 }
+{ 'player': 'pluto21', 'games': 1 }
+{ 'player': 'ilkerk', 'games': 1 }
+{ 'player': 'brainiac007', 'games': 1 }
+{ 'player': 'campelovisc', 'games': 1 }
+{ 'player': 'alejandro555', 'games': 1 }
+{ 'player': 'maluighen', 'games': 1 }
+{ 'player': 'mayor_mccheese', 'games': 1 }
+{ 'player': 'kasparovd0311', 'games': 1 }
+{ 'player': 'massaggro', 'games': 1 }
+{ 'player': 'gingerthecookie', 'games': 1 }
+{ 'player': 'a-devi', 'games': 1 }
+{ 'player': 'alemiha', 'games': 1 }
+{ 'player': 'firmino', 'games': 1 }
+{ 'player': 'lordfischer', 'games': 1 }
+{ 'player': 'bishopkerry01', 'games': 1 }
+{ 'player': 'bchessl', 'games': 1 }
+{ 'player': 'irishockey', 'games': 1 }
+{ 'player': 'tumursuh', 'games': 1 }
+{ 'player': 'slm_mhr', 'games': 1 }
+{ 'player': 'labg141', 'games': 1 }
+{ 'player': 'freetjjtds', 'games': 1 }
+{ 'player': 'riverhorse', 'games': 1 }
+{ 'player': 'varun2271', 'games': 1 }
+{ 'player': 'kyzuro', 'games': 1 }
+{ 'player': 'misterpopo', 'games': 1 }
+{ 'player': 'raoof90', 'games': 1 }
+{ 'player': 'yriibass', 'games': 1 }
+{ 'player': 'dylangaming1', 'games': 1 }
+{ 'player': 'lorensan', 'games': 1 }
+{ 'player': 'godlikemoves', 'games': 1 }
+{ 'player': 'arturopalacio', 'games': 1 }
+{ 'player': 'chessplaye', 'games': 1 }
+{ 'player': 'teddykish', 'games': 1 }
+{ 'player': 'planard', 'games': 1 }
+{ 'player': 'danilo1961', 'games': 1 }
+{ 'player': 'awesome_aza', 'games': 1 }
+{ 'player': 'ferroid1', 'games': 1 }
+{ 'player': 'vukosi', 'games': 1 }
+{ 'player': 'minimulti', 'games': 1 }
+{ 'player': 'martan1208', 'games': 1 }
+{ 'player': 'fva', 'games': 1 }
+{ 'player': 'goldenrod', 'games': 1 }
+{ 'player': 'carneiro12', 'games': 1 }
+{ 'player': 'lordmete', 'games': 1 }
+{ 'player': 'pablomora', 'games': 1 }
+{ 'player': 'sansthecomic', 'games': 1 }
+{ 'player': 'thepawnsofwrath', 'games': 1 }
+{ 'player': 'fire7', 'games': 1 }
+{ 'player': 'idiot_chessplayer', 'games': 1 }
+{ 'player': 'erciodo', 'games': 1 }
+{ 'player': 'jojo9015', 'games': 1 }
+{ 'player': 'mimirilinguis', 'games': 1 }
+{ 'player': 'bassboy', 'games': 1 }
+{ 'player': 'robin512', 'games': 1 }
+{ 'player': 'ayush7211', 'games': 1 }
+{ 'player': 'btanwin', 'games': 1 }
+{ 'player': 'jdimojc', 'games': 1 }
+{ 'player': 'thc228', 'games': 1 }
+{ 'player': 'wisepanther', 'games': 1 }
+{ 'player': 'studentpertama01', 'games': 1 }
+{ 'player': 'krzychupogromca12', 'games': 1 }
+{ 'player': 'mikavds', 'games': 1 }
+{ 'player': 'bchron', 'games': 1 }
+{ 'player': 'ulflyder', 'games': 1 }
+{ 'player': 'subham777', 'games': 1 }
+{ 'player': 'jaybird', 'games': 1 }
+{ 'player': 'rex99', 'games': 1 }
+{ 'player': 'hosein76', 'games': 1 }
+{ 'player': 'plumbeo', 'games': 1 }
+{ 'player': 'korbendallas', 'games': 1 }
+{ 'player': 'jojack', 'games': 1 }
+{ 'player': 'maxgary59200', 'games': 1 }
+{ 'player': 'aibashov_azamat', 'games': 1 }
+{ 'player': 'ahmedmachine', 'games': 1 }
+{ 'player': 'matti2017', 'games': 1 }
+{ 'player': 'vvz74', 'games': 1 }
+{ 'player': 'bagram', 'games': 1 }
+{ 'player': 'roxanapaez', 'games': 1 }
+{ 'player': 'raquiroz', 'games': 1 }
+{ 'player': 'ineedhacks', 'games': 1 }
+{ 'player': 'realmadrid69', 'games': 1 }
+{ 'player': 'lipecrp', 'games': 1 }
+{ 'player': 'julien63000', 'games': 1 }
+{ 'player': 'sergey67', 'games': 1 }
+{ 'player': 'david-innes', 'games': 1 }
+{ 'player': 'japcan', 'games': 1 }
+{ 'player': 'lkigor', 'games': 1 }
+{ 'player': 'academicninja99', 'games': 1 }
+{ 'player': 'karmah313', 'games': 1 }
+{ 'player': 'telme12', 'games': 1 }
+{ 'player': 'nayef-26', 'games': 1 }
+{ 'player': 'zzeljko', 'games': 1 }
+{ 'player': 'pimag-45', 'games': 1 }
+{ 'player': 'pasch0s', 'games': 1 }
+{ 'player': 'thealextag', 'games': 1 }
+{ 'player': 'zoerichi', 'games': 1 }
+{ 'player': 'nablus', 'games': 1 }
+{ 'player': 'wari', 'games': 1 }
+{ 'player': 'alex7kr_ru', 'games': 1 }
+{ 'player': 'banana_boat', 'games': 1 }
+{ 'player': 'malucodoido', 'games': 1 }
+{ 'player': 'nunoabreu', 'games': 1 }
+{ 'player': 'knightowl16', 'games': 1 }
+{ 'player': 'yokyramirez', 'games': 1 }
+{ 'player': 'raysendeleo', 'games': 1 }
+{ 'player': 'vladapfc', 'games': 1 }
+{ 'player': 'impossible787', 'games': 1 }
+{ 'player': 'cancanyc', 'games': 1 }
+{ 'player': 'pink-flower', 'games': 1 }
+{ 'player': 'reyhanprtrs', 'games': 1 }
+{ 'player': 'ramadani_s', 'games': 1 }
+{ 'player': 'quicoro', 'games': 1 }
+{ 'player': 'couch_x_warrior', 'games': 1 }
+{ 'player': 'whitechocolate55', 'games': 1 }
+{ 'player': 'jaqenhghar22', 'games': 1 }
+{ 'player': 'pgomez19', 'games': 1 }
+{ 'player': 'bollard', 'games': 1 }
+{ 'player': 'physicist1993', 'games': 1 }
+{ 'player': 'kanabisss', 'games': 1 }
+{ 'player': 'nadinal', 'games': 1 }
+{ 'player': 'can007', 'games': 1 }
+{ 'player': 'planter1144', 'games': 1 }
+{ 'player': 'seaman13', 'games': 1 }
+{ 'player': 'jhinrichs', 'games': 1 }
+{ 'player': 'mystylus', 'games': 1 }
+{ 'player': 'chees29', 'games': 1 }
+{ 'player': 'murattibogurcu', 'games': 1 }
+{ 'player': 'shelob', 'games': 1 }
+{ 'player': 'fran_1991', 'games': 1 }
+{ 'player': 'felixito', 'games': 1 }
+{ 'player': 'karldguru', 'games': 1 }
+{ 'player': 'thinkingmanga63', 'games': 1 }
+{ 'player': 'carrotop', 'games': 1 }
+{ 'player': 'milchvo', 'games': 1 }
+{ 'player': 'vladimir007', 'games': 1 }
+{ 'player': 'pavel21', 'games': 1 }
+{ 'player': 'tanphatls987', 'games': 1 }
+{ 'player': 'bischopscup', 'games': 1 }
+{ 'player': 'stoneangel', 'games': 1 }
+{ 'player': 'lostrano', 'games': 1 }
+{ 'player': 'ejc', 'games': 1 }
+{ 'player': 'zauri_odisharia', 'games': 1 }
+{ 'player': 'bzhvarik', 'games': 1 }
+{ 'player': 'brane1974', 'games': 1 }
+{ 'player': 'knightlover84', 'games': 1 }
+{ 'player': 'moon50', 'games': 1 }
+{ 'player': 'k-i-r', 'games': 1 }
+{ 'player': 'alichess68', 'games': 1 }
+{ 'player': 'xures', 'games': 1 }
+{ 'player': 'juliiiiien', 'games': 1 }
+{ 'player': 'wazbi', 'games': 1 }
+{ 'player': 'sinistar', 'games': 1 }
+{ 'player': 'jabar72', 'games': 1 }
+{ 'player': 'leonard80', 'games': 1 }
+{ 'player': 'vovak', 'games': 1 }
+{ 'player': 'schachlerno', 'games': 1 }
+{ 'player': 'rindu38', 'games': 1 }
+{ 'player': 'grigoriy-66', 'games': 1 }
+{ 'player': 'herk', 'games': 1 }
+{ 'player': 'maltegutsch', 'games': 1 }
+{ 'player': 'karamazov7', 'games': 1 }
+{ 'player': 'pierk', 'games': 1 }
+{ 'player': 'thequeenisdead', 'games': 1 }
+{ 'player': 'lsm17', 'games': 1 }
+{ 'player': 'butterlandz', 'games': 1 }
+{ 'player': 'macedonio', 'games': 1 }
+{ 'player': 'cuazar', 'games': 1 }
+{ 'player': 'kingscrusher-youtube', 'games': 1 }
+{ 'player': 'soultego', 'games': 1 }
+{ 'player': 'nikita11', 'games': 1 }
+{ 'player': 'pawninhurry', 'games': 1 }
+{ 'player': 'oltrivor', 'games': 1 }
+{ 'player': 'skuppam3', 'games': 1 }
+{ 'player': 'gonzacoll', 'games': 1 }
+{ 'player': 'olhosdelobo', 'games': 1 }
+{ 'player': 'dzhambul', 'games': 1 }
+{ 'player': 'raavi', 'games': 1 }
+{ 'player': 'efra3d', 'games': 1 }
+{ 'player': 'martin74', 'games': 1 }
+{ 'player': 'kardsalan', 'games': 1 }
+{ 'player': 'robtral9', 'games': 1 }
+{ 'player': 'play4funandwin', 'games': 1 }
+{ 'player': 'chessguy9002', 'games': 1 }
+{ 'player': 'muddel', 'games': 1 }
+{ 'player': 'teeteddy', 'games': 1 }
+{ 'player': 'arroyon', 'games': 1 }
+{ 'player': 'capitanio', 'games': 1 }
+{ 'player': 'rayg3x', 'games': 1 }
+{ 'player': 'gazfink', 'games': 1 }
+{ 'player': 'sassou', 'games': 1 }
+{ 'player': 'oleh_zarudskyi', 'games': 1 }
+{ 'player': 'crucify_me', 'games': 1 }
+{ 'player': 'hooponopono', 'games': 1 }
+{ 'player': 'bratt', 'games': 1 }
+{ 'player': 'jitendra_chaturvedi', 'games': 1 }
+{ 'player': 'homersimpson1', 'games': 1 }
+{ 'player': 'maia0411', 'games': 1 }
+{ 'player': 'luandson', 'games': 1 }
+{ 'player': 'darknight11-11', 'games': 1 }
+{ 'player': 'thejamster', 'games': 1 }
+{ 'player': 'matosan', 'games': 1 }
+{ 'player': 'nieto100', 'games': 1 }
+{ 'player': 'rx888', 'games': 1 }
+{ 'player': 'ewama', 'games': 1 }
+{ 'player': 'yelilyina', 'games': 1 }
+{ 'player': 'edujer', 'games': 1 }
+{ 'player': 'snaek161616', 'games': 1 }
+{ 'player': 'meoc', 'games': 1 }
+{ 'player': 'francis173', 'games': 1 }
+{ 'player': 'reze', 'games': 1 }
+{ 'player': 'pjjjzz', 'games': 1 }
+{ 'player': 'thesrinivaskumar', 'games': 1 }
+{ 'player': 'redder', 'games': 1 }
+{ 'player': 'anejbegunje', 'games': 1 }
+{ 'player': 'adarsh2001', 'games': 1 }
+{ 'player': 'viljamijii', 'games': 1 }
+{ 'player': 'critico-82', 'games': 1 }
+{ 'player': 'inna457', 'games': 1 }
+{ 'player': 'khatir', 'games': 1 }
+{ 'player': 'ringhals', 'games': 1 }
+{ 'player': 'capobruno', 'games': 1 }
+{ 'player': 'goldenfox99', 'games': 1 }
+{ 'player': 'instriker', 'games': 1 }
+{ 'player': 'onlygodknows', 'games': 1 }
+{ 'player': 'mariocrippa', 'games': 1 }
+{ 'player': 'zackittup', 'games': 1 }
+{ 'player': 'arda2828', 'games': 1 }
+{ 'player': 'sureka_akshat', 'games': 1 }
+{ 'player': 'antitexnik', 'games': 1 }
+{ 'player': 'esenkaya20', 'games': 1 }
+{ 'player': 'hahahahnoob', 'games': 1 }
+{ 'player': 'swaltersson', 'games': 1 }
+{ 'player': 'peternc', 'games': 1 }
+{ 'player': 'kiedyswygrasz', 'games': 1 }
+{ 'player': 'cohiba_313', 'games': 1 }
+{ 'player': 'mihei_pozitiv4ik_jw', 'games': 1 }
+{ 'player': 'kioto', 'games': 1 }
+{ 'player': 'black_horse7', 'games': 1 }
+{ 'player': 'citrus2014', 'games': 1 }
+{ 'player': 'pogrib', 'games': 1 }
+{ 'player': 'zezo86', 'games': 1 }
+{ 'player': 'kondrat70', 'games': 1 }
+{ 'player': 'nima77', 'games': 1 }
+{ 'player': 'lex_v1', 'games': 1 }
+{ 'player': 'bot92', 'games': 1 }
+{ 'player': 'karlrossmann', 'games': 1 }
+{ 'player': 'artlncln66', 'games': 1 }
+{ 'player': 'marty240', 'games': 1 }
+{ 'player': 'wibe', 'games': 1 }
+{ 'player': 'danyels1cool', 'games': 1 }
+{ 'player': 'garrigal439', 'games': 1 }
+{ 'player': 'rissal', 'games': 1 }
+{ 'player': 'swarje', 'games': 1 }
+{ 'player': 'ilkayus', 'games': 1 }
+{ 'player': 'sosnovsky', 'games': 1 }
+{ 'player': 'smashtoblack', 'games': 1 }
+{ 'player': 'whfo', 'games': 1 }
+{ 'player': 'crazymove', 'games': 1 }
+{ 'player': 'neela1216', 'games': 1 }
+{ 'player': 'gti_sena', 'games': 1 }
+{ 'player': 'master_1955', 'games': 1 }
+{ 'player': 'isaac1111', 'games': 1 }
+{ 'player': 'mr_aston', 'games': 1 }
+{ 'player': 'demonvortex', 'games': 1 }
+{ 'player': 'tjwpdl', 'games': 1 }
+{ 'player': 'principe-myskin', 'games': 1 }
+{ 'player': 'argentariy', 'games': 1 }
+{ 'player': 'dalmatinac', 'games': 1 }
+{ 'player': 'shairo08', 'games': 1 }
+{ 'player': 'mhd_boz', 'games': 1 }
+{ 'player': 'gholamreza1341', 'games': 1 }

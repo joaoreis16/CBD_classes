@@ -1,0 +1,24 @@
+
+Tema: Jogos de Xadrez online
+
+
+ENTIDADES
+
+white_player: {white_id, white_rating} 
+black_player: {black_id, black_rating}
+opening: {opening_code,opening_moves,opening_fullname,opening_shortname}
+moves: {game_id, moves}
+
+
+RELAÇÕES
+
+(white_player)-[:PLAYWITH]->(black_player)
+(white_player)-[:STRATEGY]->(opening)
+(black_player)-[:STRATEGY]->(opening)
+(opening)-[:MOVES]->(moves)
+
+
+PLAYWITH : winner, victory_status, turns, rated
+STRATEGY :
+MOVES    :
+

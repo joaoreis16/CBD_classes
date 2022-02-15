@@ -1,0 +1,77 @@
+ping
+exit
+DBSIZE
+exit
+exit
+SET testkey hello
+EXISTS testkey
+TYPE testkey
+KEYS *
+DEL testkey
+EXISTS testkey
+HELP
+SET 1 um
+Set 2 dois
+INCR 1
+GET 1
+INCR 1
+INCR "1"
+Append 1 one
+get 1
+del 1
+del 2
+keys *
+Lpush familia "pai mae irma irmao"
+Lrange 0 -1
+lrange familia 0 -1
+lpush familia "avo tio tia "
+lrange familia 0 -1
+lpop familia
+lrange familia  0 -1
+HMSET Book:4 name "Slaughterhouse-Five" author "Kurt Vonnegut" copyrightYear 1969 ISBN 29960763
+HMGET Book:4 author ISBN
+HGETALL Book:4
+HEXISTS Book:4 copyrightYear
+HKEYS Book:4
+HVALS Book:4
+SET Organization:5 "Beatles"
+set Organization:5 "Beatles"
+SADD Organization:5:member Paul John George Ringo
+SMEMBERS Organization:5:member
+SMEMBERS Organization:5
+exit
+ping
+cat names_counting.txt
+exit
+DBSIZE
+keys *
+A
+get A
+exit
+keys *
+get names
+zget names
+zcard names
+exit
+keys *
+get users
+flushdb
+keys *
+get users
+lrange users 0 -1
+keys *
+lrange users 0 -1
+exit
+lrange users 0 -1
+exit
+lrange users 0 -1
+dbfulsh
+dbflush
+keys *
+flushdb
+keys *
+smembers seguidores:
+smembers seguidores:joao
+smembers seguidores:vasco
+flushdb
+exit

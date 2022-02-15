@@ -1,0 +1,28 @@
+
+
+10. 
+db.restaurants.find({nome: {$regex : "^Wil"}},{restaurant_id:1, nome:1, localidade:1, gastronomia:1})
+
+12. 
+db.restaurants.find({localidade: {$in: ["Staten Island", "Queens", "Brooklyn"]}},{_id:0, nome:1, localidade: 1, gastronomia: 1})
+
+13. 
+db.restaurants.find({"grades.score": { $not : {$gt: 3}} },{_id:0, nome:1, localidade: 1, gastronomia: 1, "grades.score":1})
+
+16.
+db.restaurants.find({$and: [ {"address.coord.1": {$gt: 42}}, {"address.coord.1": {$lte: 52}}] },{nome:1, address: 1})
+
+18.
+db.restaurants.find({localidade: "Brooklyn", gastromonia: {$ne:"American"}, "grades.grade": "A"},{_id:0, nome:1, localidade:1, grade:1, gastronomia:1}).sort({"gastronomia":-1})
+
+
+
+19. 
+db.restaurants.aggregate([{ $group: {_id:"$localidade", count_res: {$sum: 1} }} ])
+
+a cada $group, criamos um document ==> atribuir os atributos que queremos
+
+
+20.
+db.restaurants.aggregate([ {$addFields: {avg_score: {$avg: "$grades.score" }}}, {$match: {avg_score: {$gt: 30} } }])
+

@@ -1,0 +1,211 @@
+# Estrutura do dataset
+
+{
+    "_id" : ObjectId("6196b7abd338f8bd4c60ab98"),
+    "title" : "#40",
+    "artist" : "Dave Matthews",
+    "year" : 1999,
+    "web_url" : "http://www.songnotes.cc/songs/119-dave-matthews-40",
+    "img_url" : "http://fireflygrove.com/songnotes/images/artists/DaveMatthews.jpg"
+}
+
+
+# Alinea c)
+
+1. Todas as músicas do artista "Jack Johnson"
+
+db.music.find({artist:"Jack Johnson"},{title: 1, artist:1 , year: 1})
+
+// { "_id" : ObjectId("6196b7abd338f8bd4c60abb1"), "title" : "Fall Line", "artist" : "Jack Johnson", "year" : 2003 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60abb3"), "title" : "Flake", "artist" : "Jack Johnson", "year" : 2001 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60abb4"), "title" : "Drink the Water", "artist" : "Jack Johnson", "year" : 2001 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60abbf"), "title" : "Banana Pancakes", "artist" : "Jack Johnson", "year" : 2005 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60abc7"), "title" : "Do You Remember", "artist" : "Jack Johnson", "year" : 2005 }
+// { "_id" : ObjectId("6196b7acd338f8bd4c60abdf"), "title" : "Mudfootball", "artist" : "Jack Johnson", "year" : 2001 }
+// { "_id" : ObjectId("6196b7acd338f8bd4c60abf0"), "title" : "Rodeo Clowns", "artist" : "Jack Johnson", "year" : 2003 }
+
+2.  Apenas 15 músicas em que o ano de lançamento seja inferior a 2000
+
+db.music.find({ year: { $lt:2000} },{title: 1, artist:1 , year: 1}).limit(15)
+
+// { "_id" : ObjectId("6196b7abd338f8bd4c60ab98"), "title" : "#40", "artist" : "Dave Matthews", "year" : 1999 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60ab9a"), "title" : "40oz to Freedom", "artist" : "Sublime", "year" : 1996 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60ab9b"), "title" : "American Girl", "artist" : "Tom Petty", "year" : 1977 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60ab9c"), "title" : "#41", "artist" : "Dave Matthews", "year" : 1996 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60ab9d"), "title" : "American Pie", "artist" : "Don McLean", "year" : 1972 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60ab9e"), "title" : "American Music", "artist" : "Violent Femmes", "year" : 1991 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60ab9f"), "title" : "A Sailor's Christmas", "artist" : "Jimmy Buffett", "year" : 1996 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60aba0"), "title" : "Badfish", "artist" : "Sublime", "year" : 1996 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60aba1"), "title" : "And it Stoned Me", "artist" : "Van Morrison", "year" : 1970 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60aba2"), "title" : "Brown Eyed Girl", "artist" : "Van Morrison", "year" : 1967 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60aba3"), "title" : "Cat's in the Cradle", "artist" : "Harry Chapin", "year" : 1974 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60aba5"), "title" : "Changes in Latitudes, Changes in Attitudes", "artist" : "Jimmy Buffett", "year" : 1977 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60aba6"), "title" : "Creep", "artist" : "Radiohead", "year" : 1993 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60aba8"), "title" : "Darkness Between the Fireflies", "artist" : "Mason Jennings", "year" : 1997 }
+// { "_id" : ObjectId("6196b7abd338f8bd4c60aba9"), "title" : "Distantly in Love", "artist" : "Jimmy Buffett", "year" : 1983 }
+
+3. Todas as músicas que começam por "The"
+
+db.music.find({title: /^The/},{title:1, _id: 0})
+
+// { "title" : "The General" }
+// { "title" : "The Lion's Roar" }
+// { "title" : "The Man in Me" }
+// { "title" : "The Mother We Share" }
+// { "title" : "The Needle and the Damage Done" }
+// { "title" : "The Weather is Here, Wish You Were Beautiful" }
+// { "title" : "The Weight" }
+// { "title" : "The Drugs Don't Work" }
+
+4. Todas as capas de música que tem o formato png
+
+db.music.find({img_url: {$regex: ".png$"}},{title:1, img_url:1, _id: 0})
+
+// { "title" : "40oz to Freedom", "img_url" : "http://fireflygrove.com/songnotes/images/artists/Sublime.png" }
+// { "title" : "American Girl", "img_url" : "http://fireflygrove.com/songnotes/images/artists/TomPetty.png" }
+// { "title" : "A Sailor's Christmas", "img_url" : "http://fireflygrove.com/songnotes/images/artists/JimmyBuffett.png" }
+// { "title" : "Badfish", "img_url" : "http://fireflygrove.com/songnotes/images/artists/Sublime.png" }
+// { "title" : "Classy Girls", "img_url" : "http://fireflygrove.com/songnotes/images/artists/TheLumineers.png" }
+// { "title" : "Changes in Latitudes, Changes in Attitudes", "img_url" : "http://fireflygrove.com/songnotes/images/artists/JimmyBuffett.png" }
+// { "title" : "Danny Boy", "img_url" : "http://fireflygrove.com/songnotes/images/artists/JohnnyCash.png" }
+// { "title" : "Distantly in Love", "img_url" : "http://fireflygrove.com/songnotes/images/artists/JimmyBuffett.png" }
+// { "title" : "Dead Sea", "img_url" : "http://fireflygrove.com/songnotes/images/artists/TheLumineers.png" }
+// { "title" : "Don't Look Back in Anger", "img_url" : "http://fireflygrove.com/songnotes/images/artists/Oasis.png" }
+// { "title" : "Carry On", "img_url" : "http://fireflygrove.com/songnotes/images/artists/Fun.png" }
+// { "title" : "Emmylou", "img_url" : "http://fireflygrove.com/songnotes/images/artists/FirstAidKit.png" }
+// { "title" : "Fall Line", "img_url" : "http://fireflygrove.com/songnotes/images/artists/JackJohnson.png" }
+// { "title" : "Flake", "img_url" : "http://fireflygrove.com/songnotes/images/artists/JackJohnson.png" }
+// { "title" : "Drink the Water", "img_url" : "http://fireflygrove.com/songnotes/images/artists/JackJohnson.png" }
+// { "title" : "Flapper Girl", "img_url" : "http://fireflygrove.com/songnotes/images/artists/TheLumineers.png" }
+// { "title" : "Flowers in Your Hair", "img_url" : "http://fireflygrove.com/songnotes/images/artists/TheLumineers.png" }
+// { "title" : "Folsom Prison Blues", "img_url" : "http://fireflygrove.com/songnotes/images/artists/JohnnyCash.png" }
+// { "title" : "Free Fallin'", "img_url" : "http://fireflygrove.com/songnotes/images/artists/TomPetty.png" }
+// { "title" : "Banana Pancakes", "img_url" : "http://fireflygrove.com/songnotes/images/artists/JackJohnson.png" }
+// Type "it" for more
+
+5. Todas as músicas dos "The Tallest Man on Earth" nos anos de 2010 e de 2012
+
+db.music.find({ $and: [{artist: "The Tallest Man on Earth"}, {year:{$in: [2010 , 2012] }} ]},{img_url:0, _id: 0, web_url:0})
+
+// { "title" : "1904", "artist" : "The Tallest Man on Earth", "year" : 2012 }
+// { "title" : "King of Spain", "artist" : "The Tallest Man on Earth", "year" : 2010 }
+// { "title" : "Wind and Walls", "artist" : "The Tallest Man on Earth", "year" : 2012 }
+
+6. Ordernar por ano de lançamento por ordem decrescente e titulo por ordem crescente todas as músicas que têm uma capa de single do formato .jpg
+
+db.music.find({img_url: {$regex: ".jpg$"}}, {img_url:0, _id: 0, web_url:0}).sort({"year":-1, "title":1})
+
+// { "title" : "The Mother We Share", "artist" : "Chvrches", "year" : 2013 }
+// { "title" : "Ya Hey", "artist" : "Vampire Weekend", "year" : 2013 }
+// { "title" : "1904", "artist" : "The Tallest Man on Earth", "year" : 2012 }
+// { "title" : "Don't Leave Me (Ne Me Quitte Pas)", "artist" : "Regina Spektor", "year" : 2012 }
+// { "title" : "Hollywood Forever Cemetery Sings", "artist" : "Father John Misty", "year" : 2012 }
+// { "title" : "I'm Writing a Novel", "artist" : "Father John Misty", "year" : 2012 }
+// { "title" : "Live and Die", "artist" : "The Avett Brothers", "year" : 2012 }
+// { "title" : "Only Son of the Ladiesman", "artist" : "Father John Misty", "year" : 2012 }
+// { "title" : "Wind and Walls", "artist" : "The Tallest Man on Earth", "year" : 2012 }
+// { "title" : "Half Light I", "artist" : "Arcade Fire", "year" : 2010 }
+// { "title" : "Half Light II (No Celebration)", "artist" : "Arcade Fire", "year" : 2010 }
+// { "title" : "King of Spain", "artist" : "The Tallest Man on Earth", "year" : 2010 }
+// { "title" : "Doomsday", "artist" : "Elvis Perkins", "year" : 2009 }
+// { "title" : "Hey Soul Sister", "artist" : "Train", "year" : 2009 }
+// { "title" : "Party in the USA", "artist" : "Miley Cyrus", "year" : 2009 }
+// { "title" : "Send My Fond Regards to Lonelyville", "artist" : "Elvis Perkins", "year" : 2009 }
+// { "title" : "Cape Canaveral", "artist" : "Conor Oberst", "year" : 2008 }
+// { "title" : "Furr", "artist" : "Blitzen Trapper", "year" : 2008 }
+// { "title" : "Get Well Cards", "artist" : "Conor Oberst", "year" : 2008 }
+// { "title" : "Sentimental Heart", "artist" : "She & Him", "year" : 2008 }
+// Type "it" for more
+
+
+# Alinea d)
+
+1. Total de músicas em cada ano
+
+db.music.aggregate([ {$group: {_id:'$year', count: {$sum : 1} }} ])
+
+// { "_id" : 1988, "count" : 1 }
+// { "_id" : 2004, "count" : 2 }
+// { "_id" : 1975, "count" : 2 }
+// { "_id" : 1998, "count" : 2 }
+// { "_id" : 2013, "count" : 2 }
+// { "_id" : 1971, "count" : 2 }
+// { "_id" : 1983, "count" : 2 }
+// { "_id" : 1993, "count" : 1 }
+// { "_id" : 1980, "count" : 1 }
+// { "_id" : 1967, "count" : 2 }
+// { "_id" : 2002, "count" : 2 }
+// { "_id" : 2005, "count" : 2 }
+// { "_id" : 1970, "count" : 4 }
+// { "_id" : 1974, "count" : 5 }
+// { "_id" : 1977, "count" : 5 }
+// { "_id" : 1999, "count" : 2 }
+// { "_id" : 1994, "count" : 1 }
+// { "_id" : 1996, "count" : 7 }
+// { "_id" : 2008, "count" : 7 }
+// { "_id" : 1991, "count" : 1 }
+// Type "it" for more
+
+2. Top 10 de artistas com mais músicas
+
+db.music.aggregate([ {$group : {_id:'$artist', num_songs: {$sum : 1} } }, {$sort : {'num_songs': -1} },  { $limit : 10 } ])
+
+// { "_id" : "Jimmy Buffett", "num_songs" : 11 }
+// { "_id" : "The Lumineers", "num_songs" : 8 }
+// { "_id" : "Jack Johnson", "num_songs" : 7 }
+// { "_id" : "Sublime", "num_songs" : 5 }
+// { "_id" : "Neil Young", "num_songs" : 5 }
+// { "_id" : "Taylor Swift", "num_songs" : 4 }
+// { "_id" : "Radiohead", "num_songs" : 4 }
+// { "_id" : "Mason Jennings", "num_songs" : 3 }
+// { "_id" : "The Tallest Man on Earth", "num_songs" : 3 }
+// { "_id" : "Dave Matthews", "num_songs" : 3 }
+
+3. Top 5 músicas mais antigas com o formato png da capa do single
+
+db.music.aggregate([ {$match : {"img_url": {$regex : ".png$"} }}, {$project: {"title": 1, "_id": 0, "artist": 1, "year": 1} }, {$sort : {"year": 1, "title": 1} }, {$limit: 5} ])
+
+// { "title" : "Folsom Prison Blues", "artist" : "Johnny Cash", "year" : 1957 }
+// { "title" : "Harvest", "artist" : "Neil Young", "year" : 1972 }
+// { "title" : "Heart of Gold", "artist" : "Neil Young", "year" : 1972 }
+// { "title" : "Lean On Me", "artist" : "Bill Withers", "year" : 1972 }
+// { "title" : "Out on the Weekend", "artist" : "Neil Young", "year" : 1972 }
+
+4. Listar todas as músicas do artista Joni Kings :)
+
+db.music.aggregate([ {$match: {"artist": "Joni Kings"}}, {$project: {"img_url": 0, _id:0}}])
+
+// { "title" : "before the storm", "artist" : "Joni Kings", "year" : 2020, "web_url" : "https://soundcloud.com/joni_kings/beforethestorm" }
+// { "title" : "ilusion", "artist" : "Joni Kings", "year" : 2021, "web_url" : "https://soundcloud.com/joni_kings/ilusion" }
+// { "title" : "PSP", "artist" : "Joni Kings", "year" : 2020, "web_url" : "https://soundcloud.com/joni_kings/psp" }
+// { "title" : "courage", "artist" : "Joni Kings", "year" : 2021, "web_url" : "https://soundcloud.com/joni_kings/courage" }
+
+5. Quantidade de músicas por ano acima do ano 2000
+
+db.music.aggregate([ {$match: {"year": {$gt: 2000}} }, {$group: {_id:'$year', count: {$sum : 1} }} ])
+
+// { "_id" : 2021, "count" : 2 }
+// { "_id" : 2013, "count" : 2 }
+// { "_id" : 2020, "count" : 2 }
+// { "_id" : 2004, "count" : 2 }
+// { "_id" : 2002, "count" : 2 }
+// { "_id" : 2010, "count" : 3 }
+// { "_id" : 2001, "count" : 7 }
+// { "_id" : 2009, "count" : 5 }
+// { "_id" : 2008, "count" : 7 }
+// { "_id" : 2005, "count" : 2 }
+// { "_id" : 2003, "count" : 3 }
+// { "_id" : 2012, "count" : 24 }
+
+6. musicas de 1996 com o seguinte url "http://www.songnotes.cc/songs/21-sublime-badfish"
+
+db.music.aggregate([ { $match: {  $and: [{year : 1996}, { "web_url" : "http://www.songnotes.cc/songs/21-sublime-badfish" }]  }} ]).pretty() 
+
+// {
+//     "_id" : ObjectId("6197ccecc30f6d82578f4ca2"),
+//     "title" : "Badfish",
+//     "artist" : "Sublime",
+//     "year" : 1996,
+//     "web_url" : "http://www.songnotes.cc/songs/21-sublime-badfish",
+//     "img_url" : "http://fireflygrove.com/songnotes/images/artists/Sublime.png"
+// }

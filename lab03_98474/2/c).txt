@@ -1,0 +1,47 @@
+
+# Exemplos de queries para demonstrar que os parâmetros pedidos estão a funcionar corretamente
+
+########################################################################################################################################################################################
+# 7. Permitir a pesquisa de todos os vídeos de determinado autor;
+
+select * from videos.video_by_autor where autor='Caricas e o Panda';
+
+
+ autor             | selo                            | descricao           | id | nome                    | tags
+-------------------+---------------------------------+---------------------+----+-------------------------+------------------------
+ Caricas e o Panda | 2021-12-05 17:01:39.596000+0000 | Musicas de infância |  7 |    Atirei o pau ao gato | {'music', 'nostalgic'}
+ Caricas e o Panda | 2021-12-05 17:01:39.618000+0000 | Musicas de infância |  8 |          Papagaio Loiro | {'music', 'nostalgic'}
+ Caricas e o Panda | 2021-12-05 17:01:39.641000+0000 | Musicas de infância |  9 | As pombinhas da Catrina | {'music', 'nostalgic'}
+
+
+########################################################################################################################################################################################
+# 8. Permitir a pesquisa de comentários por utilizador, ordenado inversamente pela data;
+
+select * from videos.comentario_user where autor='nunisse';
+
+ autor   | selo                            | comentario                                 | id_video
+---------+---------------------------------+--------------------------------------------+----------
+ nunisse | 2021-12-05 17:02:38.043000+0000 | Eu também fui nessa e noite e não te vi :( |        2
+ nunisse | 2021-12-05 17:02:37.955000+0000 |              Paulo, estás à espera do quê? |        3
+ nunisse | 2021-12-05 17:02:37.924000+0000 |      Injustiça para quem não joga setas :/ |        5
+
+
+########################################################################################################################################################################################
+# 9. Permitir a pesquisa de comentários por vídeos, ordenado inversamente pela data;
+
+select * from videos.comentario_video where id_video=3;
+
+ id_video | selo                            | autor   | comentario
+----------+---------------------------------+---------+-----------------------------------------------------------------
+        3 | 2021-12-05 17:02:46.832000+0000 | pylance | Epá, depois penso nisso, tenho que ir buscar a Iara ao trabalho
+        3 | 2021-12-05 17:02:46.781000+0000 | nunisse |                                   Paulo, estás à espera do quê?
+
+
+########################################################################################################################################################################################
+# 10. Permitir a pesquisa do rating médio de um vídeo e quantas vezes foi votado;
+
+select video_id, avg(rate) as avg_rating, count(rate) as num_votes FROM videos.rating WHERE video_id = 1;
+
+ video_id | avg_rating | num_votes
+----------+------------+-----------
+        1 |          3 |         4

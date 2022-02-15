@@ -1,0 +1,146 @@
+
+# insert videos.users
+
+insert into videos.users( username , email , nome , selo) values ('joaoreis', 'joao@reis.pt', 'João Reis',  toTimestamp(now()));
+insert into videos.users( username , email , nome , selo) values ('bernoso', 'bernas@campia.pt', 'João Bernardo',  toTimestamp(now()));
+insert into videos.users( username , email , nome , selo) values ('serroso', 'serras@macao.pt', 'Alexandre Serras',  toTimestamp(now()));
+insert into videos.users( username , email , nome , selo) values ('artureiro', 'artur@ovar.pt', 'Artur Romão',  toTimestamp(now()));
+insert into videos.users( username , email , nome , selo) values ('esti8', 'd8@mogofores.pt', 'D8 Cruz',  toTimestamp(now()));
+insert into videos.users( username , email , nome , selo) values ('pylance', 'pylance@viseu.pt', 'Paulo, Presidente do NEI',  toTimestamp(now()));
+insert into videos.users( username , email , nome , selo) values ('marygorda', 'mary@azores.az', 'Mariana Rosa',  toTimestamp(now()));
+insert into videos.users( username , email , nome , selo) values ('nunisse', 'fahla@lobao.pt', 'Nuno Fahla',  toTimestamp(now()));
+insert into videos.users( username , email , nome , selo) values ('vasgo', 'vasgo@lobao.pt', 'Vasco Regal',  toTimestamp(now()));
+insert into videos.users( username , email , nome , selo) values ('dafaizeres', 'cigano@estarreja.pt', 'dafaizeres Rodriguez',  toTimestamp(now()));
+
+# insert videos.video
+
+insert into videos.video( id , autor , descricao , nome , selo , tags) values (1, 'tuna', 'nova música da tuna', 'Sauce SippinPurpp - cover acústico',  toTimestamp(now()), {'music', 'academic'} );
+insert into videos.video( id , autor , descricao , nome , selo , tags) values (2, 'user1324', 'eu no santos', 'Santos pós covid',  toTimestamp(now()), {'music', 'academic', 'party', '+18'} );
+insert into videos.video( id , autor , descricao , nome , selo , tags) values (3, 'presidente da república', 'explico neste video as razões pela qual quero que o Paulo "Pylance" Pereira seja presidente do NEI', 'Exigencia do presidente',  toTimestamp(now()), {'dramatic', 'serious'} );
+insert into videos.video( id , autor , descricao , nome , selo , tags) values (4, 'CR7', 'novo truque da bola que aprendi ontem com o Bastos', 'Volta ao mundo com uma bola de ping pong usando o traje académico de Aveiro)',  toTimestamp(now()), {'amazing', 'top'} );
+insert into videos.video( id , autor , descricao , nome , selo , tags) values (5, 'Convivio', 'francesinha a 2€', 'Descontos para quem jogar setas',  toTimestamp(now()), {'party', 'academic', 'top'} );
+insert into videos.video( id , autor , descricao , nome , selo , tags) values (6, 'Ric Fazeres', 'Modo Carreira no FIFA 2050', 'FIFA50 - sou o Melhor Jogador do Clube #3',  toTimestamp(now()), {'games', 'top', 'comedy'} );
+insert into videos.video( id , autor , descricao , nome , selo , tags) values (7, 'Caricas e o Panda', 'Musicas de infância', 'Atirei o pau ao gato',  toTimestamp(now()), {'music', 'nostalgic'} );
+insert into videos.video( id , autor , descricao , nome , selo , tags) values (8, 'Caricas e o Panda', 'Musicas de infância', 'Papagaio Loiro',  toTimestamp(now()), {'music', 'nostalgic'} );
+insert into videos.video( id , autor , descricao , nome , selo , tags) values (9, 'Caricas e o Panda', 'Musicas de infância', 'As pombinhas da Catrina',  toTimestamp(now()), {'music', 'nostalgic'} );
+insert into videos.video( id , autor , descricao , nome , selo , tags) values (10, 'CR7', 'quero as minhas bolas de ouro roubadas', 'Messi ladrão',  toTimestamp(now()), {'serious', 'dramatic'} );
+
+# insert videos.video_by_autor
+
+insert into videos.video_by_autor( id , autor , descricao , nome , selo , tags) values (1, 'tuna', 'nova música da tuna', 'Sauce SippinPurpp - cover acústico',  toTimestamp(now()), {'music', 'academic'} );
+insert into videos.video_by_autor( id , autor , descricao , nome , selo , tags) values (2, 'user1324', 'eu no santos', 'Santos pós covid',  toTimestamp(now()), {'music', 'academic', 'party', '+18'} );
+insert into videos.video_by_autor( id , autor , descricao , nome , selo , tags) values (3, 'presidente da república', 'explico neste video as razões pela qual quero que o Paulo "Pylance" Pereira seja presidente do NEI', 'Exigencia do presidente',  toTimestamp(now()), {'dramatic', 'serious'} );
+insert into videos.video_by_autor( id , autor , descricao , nome , selo , tags) values (4, 'CR7', 'novo truque da bola que aprendi ontem com o Bastos', 'Volta ao mundo com uma bola de ping pong usando o traje académico de Aveiro)',  toTimestamp(now()), {'amazing', 'top'} );
+insert into videos.video_by_autor( id , autor , descricao , nome , selo , tags) values (5, 'Convivio', 'francesinha a 2€', 'Descontos para quem jogar setas',  toTimestamp(now()), {'party', 'academic', 'top'} );
+insert into videos.video_by_autor( id , autor , descricao , nome , selo , tags) values (6, 'Ric Fazeres', 'Modo Carreira no FIFA 2050', 'FIFA50 - sou o Melhor Jogador do Clube #3',  toTimestamp(now()), {'games', 'top', 'comedy'} );
+insert into videos.video_by_autor( id , autor , descricao , nome , selo , tags) values (7, 'Caricas e o Panda', 'Musicas de infância', 'Atirei o pau ao gato',  toTimestamp(now()), {'music', 'nostalgic'} );
+insert into videos.video_by_autor( id , autor , descricao , nome , selo , tags) values (8, 'Caricas e o Panda', 'Musicas de infância', 'Papagaio Loiro',  toTimestamp(now()), {'music', 'nostalgic'} );
+insert into videos.video_by_autor( id , autor , descricao , nome , selo , tags) values (9, 'Caricas e o Panda', 'Musicas de infância', 'As pombinhas da Catrina',  toTimestamp(now()), {'music', 'nostalgic'} );
+insert into videos.video_by_autor( id , autor , descricao , nome , selo , tags) values (10, 'CR7', 'quero as minhas bolas de ouro roubadas', 'Messi ladrão',  toTimestamp(now()), {'serious', 'dramatic'} );
+
+
+# insert videos.comentarios
+
+insert into videos.comentarios( id , autor , comentario , id_video , selo ) values (1, 'joaoreis', 'adoro esta versão <3', 1, toTimestamp(now()) );
+insert into videos.comentarios( id , autor , comentario , id_video , selo ) values (2, 'bernoso', 'Melhor do mundo <3 anda a Campia', 10, toTimestamp(now()) );
+insert into videos.comentarios( id , autor , comentario , id_video , selo ) values (3, 'nunisse', 'Injustiça para quem não joga setas :/', 5, toTimestamp(now()) );
+insert into videos.comentarios( id , autor , comentario , id_video , selo ) values (4, 'esti8', 'Ao tempo que não ouvia isto, saudades...', 7, toTimestamp(now()) );
+insert into videos.comentarios( id , autor , comentario , id_video , selo ) values (5, 'nunisse', 'Paulo, estás à espera do quê?', 3, toTimestamp(now()) );
+insert into videos.comentarios( id , autor , comentario , id_video , selo ) values (6, 'serroso', 'Riczão, sobe a dificuldade', 6, toTimestamp(now()) );
+insert into videos.comentarios( id , autor , comentario , id_video , selo ) values (7, 'bernoso', 'Papaguaio Loiro de bico doirado', 8, toTimestamp(now()) );
+insert into videos.comentarios( id , autor , comentario , id_video , selo ) values (8, 'pylance', 'Epá, depois penso nisso, tenho que ir buscar a Iara ao trabalho', 3, toTimestamp(now()) );
+insert into videos.comentarios( id , autor , comentario , id_video , selo ) values (9, 'serroso', '@joaoreis @bernoso siga já hoje? quem perder paga os principes aos outros', 5, toTimestamp(now()) );
+insert into videos.comentarios( id , autor , comentario , id_video , selo ) values (10, 'nunisse', 'Eu também fui nessa e noite e não te vi :(', 2, toTimestamp(now()) );
+
+
+# insert videos.followers
+
+insert into videos.followers( video_id , users ) values (1, {'joaoreis', 'bernoso', 'serroso', 'artureiro'} );
+insert into videos.followers( video_id , users ) values (2, {'esti8', 'bernoso', 'pylance', 'marygorda', 'nunisse'} );
+insert into videos.followers( video_id , users ) values (3, {'pylance', 'nunisse'} );
+insert into videos.followers( video_id , users ) values (4, {'dafaizeres', 'marygorda', 'serroso'} );
+insert into videos.followers( video_id , users ) values (5, {'vasgo', 'esti8', 'marygorda', 'artureiro'} );
+insert into videos.followers( video_id , users ) values (6, {'esti8'} );
+insert into videos.followers( video_id , users ) values (7, {'joaoreis', 'dafaizeres', 'serroso', 'pylance'} );
+insert into videos.followers( video_id , users ) values (8, {'marygorda', 'vasgo'} );
+insert into videos.followers( video_id , users ) values (9, {'pylance', 'nunisse', 'dafaizeres', 'vasgo'} );
+insert into videos.followers( video_id , users ) values (10, {'joaoreis', 'bernoso', 'serroso', 'artureiro', 'pylance', 'dafaizeres'} );
+
+
+# insert videos.eventos
+
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (8, 'marygorda', toTimestamp(now()), toTimestamp(now()), 'pause');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (2, 'pylance', toTimestamp(now()), toTimestamp(now()), 'play');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (4, 'dafaizeres', toTimestamp(now()), toTimestamp(now()), 'stop');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (3, 'vasgo', toTimestamp(now()), toTimestamp(now()), 'stop');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (1, 'nunisse', toTimestamp(now()), toTimestamp(now()), 'pause');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (2, 'serroso', toTimestamp(now()), toTimestamp(now()), 'play');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (6, 'nunisse', toTimestamp(now()), toTimestamp(now()), 'play');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (7, 'pylance', toTimestamp(now()), toTimestamp(now()), 'stop');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (9, 'artureiro', toTimestamp(now()), toTimestamp(now()), 'pause');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (10, 'vasgo', toTimestamp(now()), toTimestamp(now()), 'stop');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (3, 'vasgo', toTimestamp(now()), toTimestamp(now()), 'pause');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (3, 'vasgo', toTimestamp(now()), toTimestamp(now()), 'play');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (3, 'vasgo', toTimestamp(now()), toTimestamp(now()), 'stop');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (3, 'vasgo', toTimestamp(now()), toTimestamp(now()), 'play');
+insert into videos.eventos( video_id , autor , data , tempo , tipo ) values (3, 'vasgo', toTimestamp(now()), toTimestamp(now()), 'pause');
+
+
+# insert videos.rating
+
+insert into videos.rating( video_id, rate ) values (1, 1);
+insert into videos.rating( video_id, rate ) values (2, 5);
+insert into videos.rating( video_id, rate ) values (3, 3);
+insert into videos.rating( video_id, rate ) values (4, 4);
+insert into videos.rating( video_id, rate ) values (5, 2);
+insert into videos.rating( video_id, rate ) values (6, 4);
+insert into videos.rating( video_id, rate ) values (7, 1);
+insert into videos.rating( video_id, rate ) values (8, 3);
+insert into videos.rating( video_id, rate ) values (9, 4);
+insert into videos.rating( video_id, rate ) values (10, 5);
+insert into videos.rating( video_id, rate ) values (3, 3);
+insert into videos.rating( video_id, rate ) values (1, 5);
+insert into videos.rating( video_id, rate ) values (5, 2);
+insert into videos.rating( video_id, rate ) values (7, 4);
+insert into videos.rating( video_id, rate ) values (1, 4);
+insert into videos.rating( video_id, rate ) values (5, 2);
+insert into videos.rating( video_id, rate ) values (10, 1);
+insert into videos.rating( video_id, rate ) values (9, 2);
+insert into videos.rating( video_id, rate ) values (1, 3);
+insert into videos.rating( video_id, rate ) values (4, 3);
+
+
+# insert videos.comentario_user
+
+insert into videos.comentario_user( autor , comentario , id_video , selo ) values ('joaoreis', 'adoro esta versão <3', 1, toTimestamp(now()) );
+insert into videos.comentario_user( autor , comentario , id_video , selo ) values ('bernoso', 'Melhor do mundo <3 anda a Campia', 10, toTimestamp(now()) );
+insert into videos.comentario_user( autor , comentario , id_video , selo ) values ('nunisse', 'Injustiça para quem não joga setas :/', 5, toTimestamp(now()) );
+insert into videos.comentario_user( autor , comentario , id_video , selo ) values ('esti8', 'Ao tempo que não ouvia isto, saudades...', 7, toTimestamp(now()) );
+insert into videos.comentario_user( autor , comentario , id_video , selo ) values ('nunisse', 'Paulo, estás à espera do quê?', 3, toTimestamp(now()) );
+insert into videos.comentario_user( autor , comentario , id_video , selo ) values ('serroso', 'Riczão, sobe a dificuldade', 6, toTimestamp(now()) );
+insert into videos.comentario_user( autor , comentario , id_video , selo ) values ('bernoso', 'Papaguaio Loiro de bico doirado', 8, toTimestamp(now()) );
+insert into videos.comentario_user( autor , comentario , id_video , selo ) values ('pylance', 'Epá, depois penso nisso, tenho que ir buscar a Iara ao trabalho', 3, toTimestamp(now()) );
+insert into videos.comentario_user( autor , comentario , id_video , selo ) values ('serroso', '@joaoreis @bernoso siga já hoje? quem perder paga os principes aos outros', 5, toTimestamp(now()) );
+insert into videos.comentario_user( autor , comentario , id_video , selo ) values ('nunisse', 'Eu também fui nessa e noite e não te vi :(', 2, toTimestamp(now()) );
+
+
+# insert videos.comentario_video
+
+insert into videos.comentario_video( autor , comentario , id_video , selo ) values ('joaoreis', 'adoro esta versão <3', 1, toTimestamp(now()) );
+insert into videos.comentario_video( autor , comentario , id_video , selo ) values ('bernoso', 'Melhor do mundo <3 anda a Campia', 10, toTimestamp(now()) );
+insert into videos.comentario_video( autor , comentario , id_video , selo ) values ('nunisse', 'Injustiça para quem não joga setas :/', 5, toTimestamp(now()) );
+insert into videos.comentario_video( autor , comentario , id_video , selo ) values ('esti8', 'Ao tempo que não ouvia isto, saudades...', 7, toTimestamp(now()) );
+insert into videos.comentario_video( autor , comentario , id_video , selo ) values ('nunisse', 'Paulo, estás à espera do quê?', 3, toTimestamp(now()) );
+insert into videos.comentario_video( autor , comentario , id_video , selo ) values ('serroso', 'Riczão, sobe a dificuldade', 6, toTimestamp(now()) );
+insert into videos.comentario_video( autor , comentario , id_video , selo ) values ('bernoso', 'Papaguaio Loiro de bico doirado', 8, toTimestamp(now()) );
+insert into videos.comentario_video( autor , comentario , id_video , selo ) values ('pylance', 'Epá, depois penso nisso, tenho que ir buscar a Iara ao trabalho', 3, toTimestamp(now()));
+insert into videos.comentario_video( autor , comentario , id_video , selo ) values ('serroso', '@joaoreis @bernoso siga já hoje? quem perder paga os principes aos outros', 5, toTimestamp(now()) );
+insert into videos.comentario_video( autor , comentario , id_video , selo ) values ('nunisse', 'Eu também fui nessa e noite e não te vi :(', 2, toTimestamp(now()) );
+insert into videos.comentario_video( autor , comentario , id_video , selo ) values ('bernoso', 'Grande noite', 2, toTimestamp(now()) );
+insert into videos.comentario_video( autor , comentario , id_video , selo ) values ('marygorda', 'Para a semana há mais', 2, toTimestamp(now()) );
+insert into videos.comentario_video( autor , comentario , id_video , selo ) values ('pylance', 'Quem me dera ter ido', 2, toTimestamp(now()) );
+
+
+# create index
+
+create index tag on videos.video(tags);

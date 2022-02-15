@@ -1,0 +1,70 @@
+// NMEC: 98474
+
+
+// ///////////////////////////////////////////////////////////////////////////////////////////
+// alinea a)
+//
+// (User)-[:COMMITED]->(Project) { num, role_on_project }
+//
+// onde, 
+//
+// User    { svn_id, real_name, organization }
+// Project { project_name }
+
+
+
+// ///////////////////////////////////////////////////////////////////////////////////////////
+// alinea b)
+
+load csv with headers 
+from 'file:///git_selection.csv' as line
+merge (u: User{id:line.svn_id, name:line.real_name, organization:line.organization})
+merge (p: Project{name:line.project_name})
+merge (u) -[:COMMITED{num:line.num, role:line.role_on_project}]-> (p)
+
+
+// ///////////////////////////////////////////////////////////////////////////////////////////
+// alinea c)
+
+#1
+match (u:User) 
+return u as users
+
+#2
+match (u:User) 
+return u.name as user_names
+
+#3
+match (u:User)-[c:COMMITED]->(p:Project) 
+with count(c) as participate, p 
+where participate > 0
+return p
+
+#4
+match (u:User)-[c:COMMITED]-() 
+with count(c) as total_proj, u.name as name 
+return name, total_proj
+
+#5
+match (u:User)-[c:COMMITED]-() 
+with count(c) as total_proj, u.name as name 
+order by total_proj desc 
+return name, total_proj
+
+#6
+match (u:User)-[:COMMITED]-(p:Project) 
+with count(u) as total_members, p 
+return p.name, total_members
+
+#7
+match (u:User)-[c:COMMITED{role:"Committer"}]-(p:Project) 
+with count(u) as total_members, p 
+return p.name, total_members
+
+#8
+match (u1 {id:"atm"})-[:COMMITED]->(p:Project)<-[:COMMITED]-(u2:User) 
+return u1.name, u2.name, p.name
+
+#9
+match (u1 {id:"atm"})-[:COMMITED {role:"PMC"}]->(p:Project)<-[:COMMITED {role:"Committer"}]-(u2:User) 
+return u2

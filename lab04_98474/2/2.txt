@@ -1,0 +1,72 @@
+------------------------------ Exemplos dados pelo guião: analise ------------------------------
+( 1 )
+
+    MATCH (n)
+    WITH COUNT(n) AS numVertices
+    MATCH (a)-[e]->(b)
+    RETURN numVertices, COUNT(e) AS numEdges
+
+    // numVertices	    numEdges
+    // 342	            506
+
+
+    count(n) --> conta todos os nós do grafo
+
+    (a)-[e]->(b)  --> esquema de uma ligação entre grafos
+    count(e) --> conta todas as ligações
+
+
+( 2 )
+
+    match (n)
+    return labels(n) as labels, keys(n) as keys, count(*) as total
+    order by total desc;
+
+    // labels	    keys	                            total
+    // ["Person"]	["born", "name"]	                256
+    // ["Movie"]	["released", "tagline", "title"]	24
+    // ["Movie"]	["title", "tagline", "released"]	18
+    // ["Movie"]	["tagline", "title", "released"]	16
+    // ["Movie"]	["title", "released", "tagline"]	16
+    // ["Person"]	["name"]	                        10
+    // ["Movie"]	["title", "released"]	            2
+
+    - match () seleciona qualquer nó
+    - match (n) seleciona qualquer nó e atribui-o à variável n
+    - a função labels(n) devolve uma lista com o tipo (label) de cada nó n
+    - a função keys(n) retorna a lista de propriedades de cada nó n
+    - a função count(n) é uma função de agregação, neste caso conta cada grupo labels, keys (o GROUP BY é implícito em Cypher)
+
+
+( 3 )
+
+    match (m)-[r]->(n)
+    return labels(m), type(r), labels(n), count(*) as total
+    order by total desc;
+
+    // labels(m)	type(r)	    labels(n)	total
+    // ["Person"]	"ACTED_IN"	["Movie"]	344
+    // ["Person"]	"DIRECTED"	["Movie"]	88
+    // ["Person"]	"PRODUCED"	["Movie"]	30
+    // ["Person"]	"WROTE"	    ["Movie"]	20
+    // ["Person"]	"REVIEWED"	["Movie"]	18
+    // ["Person"]	"FOLLOWS"	["Person"]	6
+
+
+( 4 )
+
+    match ()-[r]->()
+    return type(r) as type, keys(r) as keys, count(*) as total
+    order by type;
+
+    // type	        keys	                total
+    // "ACTED_IN"	["roles"]	            344
+    // "DIRECTED"	[]	                    88
+    // "FOLLOWS"	[]	                    6
+    // "PRODUCED"	[]	                    30
+    // "REVIEWED"	["summary", "rating"]	14
+    // "REVIEWED"	["rating", "summary"]	4
+    // "WROTE"	    []	                    20
+
+    
+-------------------------------------------------------------------------------------------------

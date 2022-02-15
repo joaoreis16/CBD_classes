@@ -1,0 +1,118 @@
+
+# Resolução da alinea d) 
+
+########################################################################################################################################################################################
+# 1. Os últimos 3 comentários introduzidos para um vídeo;
+
+select * from videos.comentario_video where id_video=2 limit 3;
+
+ id_video | selo                            | autor     | comentario
+----------+---------------------------------+-----------+-----------------------
+        2 | 2021-12-04 19:15:36.650000+0000 |   pylance |  Quem me dera ter ido
+        2 | 2021-12-04 19:14:55.795000+0000 | marygorda | Para a semana há mais
+        2 | 2021-12-04 19:14:55.482000+0000 |   bernoso |          Grande noite
+
+
+########################################################################################################################################################################################
+# 2. Lista das tags de determinado vídeo;
+
+select id, tags from videos.video where id=5;
+
+ id | tags
+----+------------------------------
+  5 | {'academic', 'party', 'top'}
+
+
+########################################################################################################################################################################################
+# 3. Todos os vídeos com a tag Aveiro; (em vez de Aveiro, usarei a tag 'music')
+
+select * from videos.video where tags contains 'music';
+
+ id | autor             | descricao           | nome                               | selo                            | tags
+----+-------------------+---------------------+------------------------------------+---------------------------------+---------------------------------------
+  1 |              tuna | nova música da tuna | Sauce SippinPurpp - cover acústico | 2021-12-04 16:46:30.600000+0000 |                 {'academic', 'music'}
+  8 | Caricas e o Panda | Musicas de infância |                     Papagaio Loiro | 2021-12-04 16:46:30.751000+0000 |                {'music', 'nostalgic'}
+  2 |          user1324 |        eu no santos |                   Santos pós covid | 2021-12-04 16:46:30.620000+0000 | {'+18', 'academic', 'music', 'party'}
+  7 | Caricas e o Panda | Musicas de infância |               Atirei o pau ao gato | 2021-12-04 16:46:30.730000+0000 |                {'music', 'nostalgic'}
+  9 | Caricas e o Panda | Musicas de infância |            As pombinhas da Catrina | 2021-12-04 16:46:30.772000+0000 |                {'music', 'nostalgic'}
+
+
+########################################################################################################################################################################################
+# 4. Os últimos 5 eventos de determinado vídeo realizados por um utilizador;
+
+select * from videos.eventos where autor='vasgo' and video_id=3 limit 5;
+
+ video_id | autor | data                            | tempo                           | tipo
+----------+-------+---------------------------------+---------------------------------+-------
+        3 | vasgo | 2021-12-05 17:20:39.564000+0000 | 2021-12-05 17:20:39.564000+0000 |  stop
+        3 | vasgo | 2021-12-05 17:20:39.666000+0000 | 2021-12-05 17:20:39.666000+0000 | pause
+        3 | vasgo | 2021-12-05 17:20:39.682000+0000 | 2021-12-05 17:20:39.682000+0000 |  play
+        3 | vasgo | 2021-12-05 17:20:39.698000+0000 | 2021-12-05 17:20:39.698000+0000 |  stop
+        3 | vasgo | 2021-12-05 17:20:39.714000+0000 | 2021-12-05 17:20:39.714000+0000 |  play
+
+
+########################################################################################################################################################################################
+# 5. Vídeos partilhados por determinado utilizador (maria1987, por exemplo) num determinado período de tempo (Agosto de 2017, por exemplo);
+
+## apenas funciona se usar allow filtering
+# uma ideia para evitar o allow filtering é criar 2 indeces, um em autor, outro em selo.
+select * from videos.video where autor='tuna' and selo < '2021-12-31' allow filtering;
+
+ id | autor | descricao           | nome                               | selo                            | tags
+----+-------+---------------------+------------------------------------+---------------------------------+-----------------------
+  1 |  tuna | nova música da tuna | Sauce SippinPurpp - cover acústico | 2021-12-04 16:46:30.600000+0000 | {'academic', 'music'}
+
+
+########################################################################################################################################################################################
+# 6. Os últimos 10 vídeos, ordenado inversamente pela data da partilhada;
+
+select * from video limit 10;
+
+# porquê é que não ordenou por ordem decrescente?
+
+ id | selo                            | autor                   | descricao                                                                                          | nome                                                                         | tags
+----+---------------------------------+-------------------------+----------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+---------------------------------------
+  5 | 2021-12-16 09:53:18.204000+0000 |                Convivio |                                                                                   francesinha a 2€ |                                              Descontos para quem jogar setas |          {'academic', 'party', 'top'}
+ 10 | 2021-12-16 09:52:08.233000+0000 |                     CR7 |                                                             quero as minhas bolas de ouro roubadas |                                                                 Messi ladrão |               {'dramatic', 'serious'}
+  1 | 2021-12-16 09:52:37.725000+0000 |                    tuna |                                                                                nova música da tuna |                                           Sauce SippinPurpp - cover acústico |                 {'academic', 'music'}
+  8 | 2021-12-16 09:53:06.369000+0000 |       Caricas e o Panda |                                                                                Musicas de infância |                                                               Papagaio Loiro |                {'music', 'nostalgic'}
+  2 | 2021-12-16 09:52:24.187000+0000 |                user1324 |                                                                                       eu no santos |                                                             Santos pós covid | {'+18', 'academic', 'music', 'party'}
+  4 | 2021-12-16 09:53:51.165000+0000 |                     CR7 |                                                 novo truque da bola que aprendi ontem com o Bastos | Volta ao mundo com uma bola de ping pong usando o traje académico de Aveiro) |                    {'amazing', 'top'}
+  7 | 2021-12-16 09:51:42.357000+0000 |       Caricas e o Panda |                                                                                Musicas de infância |                                                         Atirei o pau ao gato |                {'music', 'nostalgic'}
+  6 | 2021-12-16 09:52:53.537000+0000 |             Ric Fazeres |                                                                         Modo Carreira no FIFA 2050 |                                    FIFA50 - sou o Melhor Jogador do Clube #3 |            {'comedy', 'games', 'top'}
+  9 | 2021-12-16 09:53:29.682000+0000 |       Caricas e o Panda |                                                                                Musicas de infância |                                                      As pombinhas da Catrina |                {'music', 'nostalgic'}
+  3 | 2021-12-16 09:51:57.488000+0000 | presidente da república | explico neste video as razões pela qual quero que o Paulo "Pylance" Pereira seja presidente do NEI |                                                      Exigencia do presidente | 
+
+########################################################################################################################################################################################
+# 7. Todos os seguidores (followers) de determinado vídeo;
+
+select users from videos.followers where video_id=9;
+
+ users
+-----------------------------------------------
+ {'dafaizeres', 'nunisse', 'pylance', 'vasgo'}
+
+
+########################################################################################################################################################################################
+# 8. Todos os comentários (dos vídeos) que determinado utilizador está a seguir (following);
+
+Não é possível porque Cassandra não suporta operações Join. Para resolver esta querie, tem que se criar mais tabelas.
+
+
+########################################################################################################################################################################################
+# 9. Os 5 vídeos com maior rating;
+
+Não é possível porque Cassandra não suporta operações Join.
+
+
+########################################################################################################################################################################################
+# 10. Uma query que retorne todos os vídeos e que mostre claramente a forma pela qual estão ordenados;
+
+Não entendi a query :/
+
+
+########################################################################################################################################################################################
+# 11. Lista com as Tags existentes e o número de vídeos catalogados com cada uma delas;
+
+Não é possível porque Cassandra não suporta operações Join. Não sei como juntar todas as tags e listá-las
+
